@@ -1,0 +1,1001 @@
+link,top_blue,top_red,jung_blue,jung_red,mid_blue,mid_red,ad_blue,ad_red,support_blue,support_red,gold_difference_at_20_minutes,turret_difference_at_20_minutes,dragon_difference_at_20_minutes,KDA_blue,KDA_red,Blue_Heralds_killed,Red_Heralds_killed,Team_Win,kda_top_blue,kda_top_red,kda_jungle_blue,kda_jungle_red,kda_mid_blue,kda_mid_red,kda_ad_blue,kda_ad_red,kda_sp_blue,kda_sp_red
+/match/br/2721472525,Nasus,Aurelion Sol,Kayn,Vi,LeBlanc,Ziggs,Xayah,Zeri,Pantheon,Renata Glasc,4983.0,1.0,2.0,39 / 22 / 44,22 / 39 / 29,1,1,blue,5.0,0.0,2.5,1.6,3.0,2.0,4.33,0.8,5.0,1.6
+/match/br/2721469891,Lucian,K'Sante,Shaco,Viego,Yasuo,Malzahar,Veigar,Xayah,Senna,Sona,-1095.0,0.0,-2.0,28 / 44 / 40,44 / 28 / 71,0,2,red,0.38,1.33,2.0,5.0,1.0,8.0,9.0,1.0,3.67,5.5
+/match/br/2721473171,Milio,Aphelios,Kayle,Lux,Wukong,Jarvan IV,Jinx,Neeko,Seraphine,Pantheon,-11162.0,-3.0,-2.0,19 / 43 / 34,43 / 20 / 64,1,0,red,1.25,4.5,0.67,5.5,1.2,8.0,1.0,4.0,0.25,2.67
+/match/br/2721464706,Jarvan IV,Jayce,Gnar,Jax,Sylas,Aurelion Sol,Xayah,Ezreal,Rakan,Zyra,4214.0,5.0,-2.0,42 / 24 / 56,24 / 42 / 36,2,0,blue,3.2,2.17,1.5,1.2,3.0,1.4,3.5,1.25,4.0,2.4
+/match/br/2721463785,Riven,Jax,Nocturne,Kayn,Lux,Teemo,Jinx,Xayah,Leona,Thresh,-2200.0,-1.0,0.0,25 / 39 / 40,39 / 25 / 37,1,0,red,1.25,2.0,2.6,1.83,3.67,2.0,1.11,3.0,4.67,2.2
+/match/br/2721453946,Jax,Shen,Nunu & Willump,Rengar,Swain,Ahri,Zeri,Jinx,Rakan,Nautilus,-1031.0,2.0,3.0,26 / 24 / 38,24 / 26 / 44,1,0,blue,0.8,4.5,2.0,4.0,1.67,3.33,1.0,6.0,2.0,5.0
+/match/br/2721451844,Warwick,K'Sante,Jarvan IV,Lee Sin,Syndra,Ahri,Vayne,Seraphine,Rakan,Senna,-7425.0,-4.0,-2.0,9 / 18 / 17,18 / 9 / 42,0,2,red,1.33,1.67,0.75,8.0,1.5,3.5,0.0,7.0,0.5,7.0
+/match/br/2721457086,Illaoi,Kayle,Thresh,Shaco,Azir,LeBlanc,Caitlyn,Draven,Ivern,Rakan,-5593.0,-3.0,2.0,26 / 46 / 37,46 / 26 / 49,1,0,red,0.27,5.33,2.0,3.25,2.0,3.0,4.0,2.25,2.0,2.0
+/match/br/2721443475,Fiddlesticks,Qiyana,Taliyah,Karthus,Wukong,Anivia,Zeri,Varus,Yuumi,Vel'Koz,-5844.0,-3.0,-1.0,30 / 42 / 56,42 / 30 / 62,0,2,red,4.5,7.0,1.14,2.4,2.2,3.33,4.33,1.0,4.67,1.0
+/match/br/2721446240,Riven,Warwick,Viego,Udyr,Anivia,Viktor,Aphelios,Jinx,Leona,Milio,2597.0,2.0,1.0,29 / 19 / 41,19 / 29 / 36,2,0,blue,3.0,1.33,4.0,2.0,5.0,1.0,1.5,3.0,2.0,3.0
+/match/br/2721440678,Singed,Kayle,Fiddlesticks,Karthus,Ahri,Katarina,Twitch,Seraphine,Janna,Senna,2249.0,1.0,2.0,41 / 15 / 70,15 / 41 / 21,2,0,blue,2.5,0.67,9.0,0.75,8.0,0.0,2.0,4.0,8.0,4.0
+/match/br/2721431770,Sion,Riven,Evelynn,Ekko,Jayce,Katarina,Xayah,Ezreal,Seraphine,Morgana,5696.0,4.0,0.0,37 / 32 / 64,32 / 37 / 43,1,0,blue,0.75,4.0,3.67,2.5,3.5,1.6,2.0,1.5,3.0,2.25
+/match/br/2721427891,Teemo,Malphite,Kha'Zix,Jarvan IV,Corki,Vladimir,Draven,Jinx,Janna,Lux,2392.0,3.0,-2.0,20 / 37 / 27,37 / 20 / 60,2,0,red,0.2,3.0,0.5,14.0,1.0,9.0,1.0,1.4,9.0,3.0
+/match/br/2721429395,Rammus,Aatrox,Hecarim,Kha'Zix,Lux,Zoe,Lucian,Xayah,Shen,Nautilus,-5484.0,-3.0,-2.0,34 / 54 / 66,54 / 34 / 92,0,2,red,2.0,5.0,1.5,14.0,0.6,6.67,2.75,2.14,1.44,4.25
+/match/br/2721420135,Warwick,Shen,Fiddlesticks,Vi,Azir,Anivia,Zeri,Draven,Thresh,Pyke,-8885.0,-3.0,-3.0,22 / 33 / 30,33 / 22 / 49,0,2,red,0.0,6.0,0.5,4.0,0.0,3.0,1.5,1.25,1.5,4.5
+/match/br/2721419176,Soraka,Draven,Viego,Lee Sin,LeBlanc,Aurelion Sol,Jinx,Kai'Sa,Pantheon,Thresh,-6558.0,0.0,0.0,24 / 45 / 41,45 / 24 / 71,1,1,red,3.0,1.0,1.0,5.0,1.0,10.0,0.75,11.0,0.67,5.0
+/match/br/2721416386,Gragas,Jax,Fiddlesticks,Amumu,Lissandra,Zed,Zeri,Jinx,Nami,Milio,3256.0,3.0,-1.0,29 / 20 / 47,18 / 29 / 28,1,1,blue,5.0,0.67,10.0,3.0,3.0,1.0,1.33,1.33,1.75,2.5
+/match/br/2721407964,Gnar,Sion,Kayn,Viego,Malzahar,Katarina,Samira,Nilah,Alistar,Thresh,1940.0,0.0,0.0,34 / 39 / 58,39 / 34 / 90,0,1,red,5.0,2.5,2.0,4.33,1.0,6.5,2.75,0.8,2.0,3.5
+/match/br/2721405027,K'Sante,Kennen,Nidalee,Olaf,Varus,Lissandra,Ezreal,Yasuo,Xerath,Nami,-12467.0,-4.0,-3.0,18 / 38 / 21,38 / 18 / 35,0,2,red,0.17,2.67,0.86,11.0,0.29,5.0,2.0,2.75,1.0,8.0
+/match/br/2721391997,Malphite,Sylas,Zac,Ekko,Irelia,Talon,Varus,Tristana,Twitch,Annie,-5284.0,-1.0,0.0,27 / 51 / 20,51 / 28 / 61,1,1,red,0.86,0.62,2.0,14.0,1.75,5.5,1.0,3.67,0.62,2.83
+/match/br/2721393211,Gragas,Shen,Wukong,Vi,Brand,Pantheon,Kalista,Lucian,Thresh,Nami,3821.0,2.0,-2.0,33 / 30 / 79,30 / 33 / 56,2,0,blue,2.25,2.2,4.33,2.67,3.0,6.0,2.0,3.0,2.5,1.67
+/match/br/2721387808,K'Sante,Darius,Rumble,Lee Sin,Zed,Lux,Jinx,Kalista,Milio,Nautilus,1002.0,4.0,-2.0,37 / 37 / 58,37 / 37 / 56,1,1,blue,2.0,0.5,0.75,6.5,1.0,2.25,1.5,2.5,3.33,4.67
+/match/br/2721387735,Darius,Jax,Ekko,Karthus,Ahri,Viktor,Ezreal,Samira,Karma,Thresh,-5969.0,-3.0,-2.0,22 / 43 / 21,43 / 22 / 58,1,1,red,1.2,4.0,0.86,5.33,2.5,2.67,0.56,2.8,3.33,2.0
+/match/br/2721388367,Sion,Katarina,Karthus,Lee Sin,Renekton,Kennen,Ezreal,Jinx,Yuumi,Milio,-1532.0,0.0,-2.0,23 / 44 / 19,44 / 23 / 64,2,0,red,0.57,1.4,1.75,2.8,1.33,1.33,1.5,10.0,1.5,6.0
+/match/br/2721381879,Shen,Kennen,Vi,Jarvan IV,Viktor,Irelia,Ezreal,Jinx,Leona,Nunu & Willump,-4893.0,-2.0,2.0,47 / 37 / 86,37 / 47 / 68,0,2,blue,3.0,13.0,1.14,4.2,0.8,2.5,16.0,2.33,1.5,1.62
+/match/br/2721376844,Malphite,Darius,Master Yi,Jarvan IV,Akali,Katarina,Jinx,Xayah,Soraka,Yuumi,4676.0,3.0,0.0,20 / 31 / 22,31 / 20 / 72,1,0,red,2.33,0.33,3.0,9.0,8.0,0.83,3.5,0.75,3.0,7.0
+/match/br/2721373626,Camille,Fiddlesticks,Maokai,Volibear,Ashe,Rakan,Syndra,Jinx,Sona,Zoe,-334.0,0.0,3.0,17 / 28 / 29,28 / 17 / 64,2,0,red,6.0,1.5,1.25,2.67,1.0,4.0,3.5,4.0,2.0,9.0
+/match/br/2721361838,Fiora,Jayce,Lee Sin,Kindred,Fizz,Galio,Zeri,Kai'Sa,Milio,Rell,3177.0,1.0,-2.0,44 / 44 / 42,44 / 44 / 64,2,0,red,2.33,1.17,3.25,1.62,5.33,1.2,0.4,2.25,7.0,1.43
+/match/br/2721364320,Irelia,Shen,Poppy,Taliyah,Corki,Lissandra,Karthus,Draven,Nami,Thresh,-2472.0,0.0,-2.0,27 / 40 / 45,40 / 27 / 60,1,1,red,0.8,4.5,2.33,2.6,4.0,2.5,2.67,2.6,2.0,2.17
+/match/br/2721363356,Shen,Aatrox,Xin Zhao,Vi,Syndra,Zed,Xayah,Kai'Sa,Nami,Seraphine,-5156.0,-3.0,-2.0,23 / 40 / 29,40 / 23 / 48,0,2,red,1.33,2.0,0.67,6.0,2.0,2.33,1.0,10.0,0.8,3.0
+/match/br/2721363216,Varus,Pyke,Amumu,Darius,Vel'Koz,Sejuani,Fiora,Aurelion Sol,Gragas,Kai'Sa,-6771.0,-2.0,-2.0,20 / 42 / 28,42 / 20 / 59,1,0,red,1.2,5.33,1.12,2.17,1.33,7.0,1.0,2.0,2.0,6.0
+/match/br/2721351626,Pantheon,Kayle,Shyvana,Master Yi,Irelia,Viktor,Xayah,Lucian,Alistar,Thresh,5578.0,3.0,2.0,32 / 29 / 46,29 / 32 / 47,2,0,blue,1.0,2.0,8.0,3.0,4.5,3.0,2.25,3.5,3.0,1.5
+/match/br/2721345088,Jayce,Poppy,Kha'Zix,Viego,Ahri,Viktor,Jinx,Zeri,Morgana,Pyke,6975.0,3.0,2.0,43 / 23 / 65,23 / 43 / 23,1,1,blue,0.14,4.5,8.0,2.67,3.33,1.25,11.0,0.29,15.0,0.67
+/match/br/2721335896,Garen,Volibear,Evelynn,Amumu,Sylas,Yone,Lucian,Jinx,Nami,Milio,3733.0,2.0,-1.0,41 / 37 / 62,37 / 41 / 59,2,0,blue,7.0,0.5,7.0,0.64,2.67,0.75,1.75,3.0,2.2,12.0
+/match/br/2721338396,K'Sante,Nasus,Wukong,Lee Sin,Malzahar,Vladimir,Seraphine,Xayah,Senna,Rakan,2220.0,1.0,2.0,36 / 18 / 64,18 / 36 / 37,1,1,blue,1.0,1.0,6.5,1.5,0.5,7.0,11.0,3.5,12.0,1.2
+/match/br/2721333252,Jax,Maokai,Kha'Zix,Trundle,Rammus,Viktor,Tristana,Ashe,Braum,Milio,10367.0,3.0,1.0,44 / 25 / 63,24 / 44 / 52,2,0,blue,5.5,1.75,6.0,0.62,7.5,1.2,13.0,0.5,3.25,1.5
+/match/br/2721326613,Riven,Darius,Warwick,Master Yi,Qiyana,Veigar,Seraphine,Jinx,Pyke,Thresh,9825.0,4.0,2.0,35 / 13 / 33,13 / 35 / 11,2,0,blue,2.0,0.67,7.0,1.25,9.0,0.25,7.0,0.0,7.0,0.0
+/match/br/2721321519,Katarina,Nami,Lee Sin,Kayn,Ahri,Nocturne,Kai'Sa,Lucian,Karma,Tahm Kench,4896.0,1.0,0.0,43 / 15 / 61,15 / 43 / 13,1,1,blue,1.67,1.67,5.5,0.8,8.0,1.0,6.5,0.33,10.0,2.0
+/match/br/2721321178,Nami,Shen,Vayne,Syndra,Yasuo,Karma,Gragas,Draven,Darius,Poppy,-1428.0,-1.0,-2.0,14 / 29 / 32,29 / 14 / 69,1,1,red,3.0,2.67,1.25,6.0,6.0,5.0,8.0,1.0,2.0,3.0
+/match/br/2721313812,Jarvan IV,Vayne,Gragas,Sejuani,Lux,Viktor,Twitch,Jinx,Renata Glasc,Rakan,1276.0,-1.0,0.0,38 / 29 / 65,29 / 38 / 48,2,0,red,2.5,0.75,4.0,6.0,1.5,1.75,2.75,2.0,3.33,1.75
+/match/br/2721316553,Renekton,Camille,Nidalee,Fiddlesticks,Sylas,Tristana,Ezreal,Xayah,Karma,Rakan,-633.0,-1.0,-1.0,31 / 38 / 39,38 / 31 / 39,1,0,red,0.67,2.25,3.0,0.8,0.78,5.0,15.0,0.6,5.0,1.67
+/match/br/2721311920,Gragas,Jayce,Rengar,Nidalee,Yasuo,Tristana,Jinx,Aphelios,Milio,Blitzcrank,-162.0,-1.0,-2.0,30 / 39 / 38,39 / 31 / 46,0,2,red,2.0,2.5,1.25,3.6,1.17,3.0,4.0,0.29,4.67,1.75
+/match/br/2721311761,Fiora,K'Sante,Zac,Lillia,Lissandra,Irelia,Jhin,Xayah,Vel'Koz,Rakan,-1086.0,-2.0,0.0,43 / 49 / 87,49 / 43 / 83,1,1,red,1.8,0.8,6.5,4.0,2.33,2.25,1.83,2.17,2.17,3.5
+/match/br/2721313142,Warwick,Gnar,Kai'Sa,Lee Sin,Qiyana,Twisted Fate,Orianna,Jinx,Ashe,Senna,-6504.0,-4.0,-1.0,28 / 42 / 36,42 / 28 / 53,0,1,red,0.17,4.5,5.5,1.2,1.8,4.5,0.43,5.33,3.2,1.43
+/match/br/2721308802,Nasus,Irelia,Gragas,Qiyana,Lux,Malzahar,Draven,Jinx,Milio,Morgana,-45.0,3.0,2.0,37 / 33 / 39,33 / 37 / 44,2,0,blue,1.5,2.25,1.67,3.33,0.75,1.25,1.22,7.0,5.5,4.25
+/match/br/2721310456,Tryndamere,K'Sante,Warwick,Amumu,Veigar,Sylas,Jinx,Zeri,Thresh,Bard,-1158.0,0.0,0.0,31 / 33 / 52,33 / 31 / 58,1,1,blue,1.33,0.75,5.0,1.75,2.0,1.67,1.0,4.0,1.75,5.5
+/match/br/2721303502,Riven,Varus,Sylas,Lee Sin,Kassadin,Cho'Gath,Vayne,Zeri,Milio,Rakan,-8559.0,-6.0,-2.0,25 / 33 / 56,33 / 25 / 43,0,2,red,0.33,3.33,1.0,14.0,0.38,10.0,3.0,1.33,8.0,3.0
+/match/br/2721296178,Zeri,Malphite,Lux,Ezreal,Anivia,Diana,Jarvan IV,Karma,Irelia,Yasuo,-10078.0,-5.0,-2.0,26 / 50 / 41,50 / 26 / 53,0,2,red,0.22,2.5,1.5,6.5,0.75,2.67,1.75,13.0,0.25,5.5
+/match/br/2721273988,K'Sante,Tryndamere,Nidalee,Maokai,Lux,Jayce,Jinx,Zeri,Milio,Yuumi,4684.0,2.0,1.0,37 / 12 / 77,12 / 37 / 12,1,1,blue,8.0,0.5,10.0,0.43,7.5,0.6,1.67,2.5,6.5,5.0
+/match/br/2721274665,Riven,Maokai,Udyr,Volibear,Talon,Ezreal,Jinx,Xayah,Xerath,Rakan,7029.0,3.0,0.0,33 / 20 / 45,20 / 33 / 27,1,1,blue,1.25,1.33,4.5,1.5,6.0,2.0,3.67,1.67,7.0,0.83
+/match/br/2721268329,Maokai,K'Sante,Lee Sin,Diana,Vladimir,Anivia,Jinx,Caitlyn,Milio,Morgana,21.0,-2.0,0.0,21 / 31 / 42,31 / 21 / 46,0,2,red,2.5,2.0,5.0,1.4,2.5,5.0,2.4,2.25,6.5,1.75
+/match/br/2721265266,Udyr,Kennen,Hecarim,Jarvan IV,Ahri,Kog'Maw,Jinx,Ezreal,Zilean,Senna,-9084.0,-4.0,-2.0,22 / 34 / 33,34 / 22 / 51,0,1,red,0.25,3.0,1.0,11.0,1.0,1.0,2.5,7.0,3.0,2.67
+/match/br/2721258934,Gragas,Tryndamere,Jarvan IV,Lee Sin,Zed,Katarina,Jinx,Xayah,Milio,Bard,-9138.0,-3.0,-2.0,27 / 44 / 42,44 / 27 / 50,0,1,red,3.0,1.67,1.0,12.0,1.75,1.5,0.67,3.67,0.8,14.0
+/match/br/2721246071,Sett,Viktor,Kayn,Gragas,Morgana,Olaf,Jhin,Karma,Janna,Ezreal,-4020.0,-1.0,-2.0,20 / 35 / 26,35 / 21 / 44,1,0,red,0.67,1.5,1.5,3.0,1.33,3.5,2.4,2.25,3.67,1.33
+/match/br/2721240542,Cassiopeia,Jayce,Jarvan IV,Ekko,Aurelion Sol,Akali,Jinx,Aphelios,Nami,Thresh,-2643.0,-2.0,-3.0,57 / 46 / 104,46 / 57 / 56,1,1,blue,0.8,1.6,4.75,2.6,2.4,2.8,2.0,1.8,1.5,2.0
+/match/br/2721233984,Cassiopeia,Aurelion Sol,Lucian,Akshan,Senna,Yuumi,Zed,Ezreal,Lulu,Viego,4460.0,3.0,0.0,35 / 13 / 36,13 / 35 / 14,0,1,blue,9.0,1.2,1.5,1.33,1.0,0.33,4.0,1.5,1.67,2.0
+/match/br/2721236323,Akali,Jayce,Udyr,Lee Sin,Qiyana,Vladimir,Lucian,Jinx,Nami,Milio,-4708.0,-3.0,-2.0,26 / 38 / 30,38 / 26 / 62,0,1,red,1.0,4.0,1.5,3.5,4.0,1.5,0.6,0.75,2.0,8.0
+/match/br/2721235223,Akali,Rengar,Jarvan IV,Shyvana,Gragas,Katarina,Kai'Sa,Lucian,Rakan,Nami,2869.0,2.0,-1.0,40 / 29 / 60,29 / 41 / 45,2,0,blue,1.14,1.67,14.0,0.83,7.0,0.62,3.5,3.0,3.5,2.33
+/match/br/2721232637,Jayce,Pantheon,Nidalee,Olaf,Qiyana,Lux,Varus,Ashe,Nautilus,Karma,-158.0,0.0,0.0,33 / 39 / 42,39 / 33 / 57,1,0,red,1.0,0.6,11.0,1.4,2.0,1.5,2.33,1.5,2.67,9.0
+/match/br/2721228583,Akali,Shen,Evelynn,Poppy,Aphelios,Taliyah,Jayce,Jinx,Twitch,Thresh,7196.0,3.0,0.0,26 / 44 / 27,44 / 26 / 90,2,0,red,2.33,3.0,2.33,4.33,1.17,2.0,2.5,1.67,2.0,5.0
+/match/br/2721214930,K'Sante,Kennen,Warwick,Vi,Dr. Mundo,Katarina,Jinx,Jhin,Rakan,Milio,-6782.0,-4.0,-1.0,12 / 25 / 21,25 / 12 / 51,0,1,red,1.25,5.0,2.67,2.67,2.0,2.5,0.8,8.0,5.0,8.0
+/match/br/2721216080,Sion,Cho'Gath,Viego,Lee Sin,Malzahar,Ryze,Jinx,Xayah,Leona,Thresh,-4545.0,2.0,-3.0,32 / 56 / 54,56 / 32 / 78,1,1,red,0.6,1.33,1.8,6.0,2.33,3.33,0.64,6.33,1.0,5.33
+/match/br/2721210712,Vladimir,Malphite,Shaco,Lee Sin,Malzahar,Veigar,Jinx,Kalista,Lulu,Blitzcrank,5605.0,3.0,0.0,30 / 22 / 51,22 / 30 / 34,1,1,blue,4.0,1.5,2.5,1.2,1.67,3.0,7.0,6.0,1.75,2.33
+/match/br/2721210552,Gnar,Mordekaiser,Kha'Zix,Lillia,Ahri,Akshan,Ezreal,Jinx,Lux,Nami,825.0,1.0,0.0,39 / 40 / 41,40 / 39 / 55,1,1,red,1.67,0.75,2.67,3.5,0.6,3.33,1.0,2.0,5.5,1.6
+/match/br/2721204214,Jayce,Shen,Kha'Zix,Rengar,Ahri,Lissandra,Ezreal,Jinx,Karma,Sona,4611.0,6.0,2.0,20 / 38 / 25,38 / 20 / 60,1,1,red,2.5,2.5,2.0,5.0,3.0,2.67,1.5,1.0,2.25,5.5
+/match/br/2721195532,Sion,Nasus,Shaco,Rengar,Lissandra,Lux,Draven,Xayah,Morgana,Rakan,1778.0,1.0,-2.0,23 / 41 / 30,41 / 23 / 60,2,0,red,2.0,1.33,2.4,3.5,1.25,2.33,1.75,1.5,1.75,11.0
+/match/br/2721189238,Kennen,Singed,Bel'Veth,Kindred,Akshan,Aurelion Sol,Lucian,Seraphine,Nami,Senna,4056.0,0.0,1.0,29 / 29 / 38,29 / 30 / 62,1,1,blue,3.0,1.33,2.33,1.67,2.67,4.0,2.0,3.0,6.0,1.0
+/match/br/2721185506,Leona,K'Sante,Shyvana,Ekko,Qiyana,Yasuo,Kai'Sa,Kalista,Xin Zhao,Rakan,384.0,0.0,1.0,36 / 25 / 57,25 / 36 / 41,2,0,blue,2.75,4.67,5.0,1.67,3.25,1.33,1.5,1.2,3.0,7.0
+/match/br/2721183483,Mordekaiser,Jax,Poppy,Gragas,Qiyana,Yone,Vayne,Ezreal,Milio,Zyra,-4216.0,-2.0,-1.0,36 / 36 / 42,35 / 36 / 41,1,0,blue,4.5,0.67,2.33,1.67,0.71,2.0,0.5,12.0,0.8,6.5
+/match/br/2721181246,Rumble,Pantheon,Udyr,Diana,Corki,Yasuo,Aphelios,Jinx,Lulu,Thresh,-1630.0,-2.0,-3.0,44 / 31 / 89,31 / 44 / 61,2,0,blue,1.0,2.75,2.33,10.0,1.67,3.0,1.0,2.67,3.33,1.0
+/match/br/2721179037,Darius,Sion,Nidalee,Lee Sin,Zoe,Tristana,Aphelios,Ashe,Soraka,Thresh,-1537.0,-1.0,-2.0,35 / 27 / 66,27 / 35 / 55,1,1,blue,4.5,1.2,1.67,3.5,5.0,1.33,1.0,7.5,3.0,3.75
+/match/br/2721171523,Gwen,Kennen,Kindred,Poppy,Zoe,Orianna,Jinx,Xayah,Karma,Nami,8250.0,5.0,1.0,28 / 23 / 55,23 / 28 / 43,2,0,blue,2.0,1.25,2.4,2.33,12.0,0.33,9.0,2.0,9.0,1.0
+/match/br/2721169578,Poppy,Lissandra,Camille,Qiyana,Vladimir,Akali,Xayah,Pyke,Lulu,Ezreal,-9913.0,-4.0,-2.0,23 / 46 / 26,46 / 23 / 58,0,2,red,1.33,3.0,1.0,3.25,0.38,7.0,2.0,2.25,1.5,6.0
+/match/br/2721160022,Akali,Malphite,Master Yi,Ekko,Lux,Lissandra,Xayah,Kai'Sa,Senna,Zoe,-7625.0,-2.0,0.0,32 / 48 / 30,47 / 32 / 54,2,0,red,1.17,5.0,1.5,2.0,2.0,0.71,0.83,4.5,0.5,11.0
+/match/br/2721154832,Gragas,Aatrox,Zed,Maokai,Katarina,Zoe,Jinx,Aphelios,Rakan,Soraka,2724.0,-1.0,-2.0,23 / 39 / 32,39 / 23 / 65,0,2,red,6.0,0.0,1.0,6.0,0.0,5.0,1.33,2.0,3.5,7.0
+/match/br/2721155286,Yasuo,Illaoi,Lee Sin,Karthus,Viktor,Vladimir,Jinx,Samira,Thresh,Renata Glasc,-3349.0,-2.0,2.0,48 / 39 / 75,38 / 48 / 56,2,0,blue,1.75,2.0,3.0,4.0,1.67,0.67,1.83,2.4,1.57,3.2
+/match/br/2721153110,Aatrox,Kled,Diana,Kha'Zix,Katarina,Yasuo,Caitlyn,Varus,Milio,Pantheon,-5648.0,-3.0,-2.0,32 / 40 / 49,40 / 32 / 45,0,1,red,1.0,3.0,1.17,4.67,1.6,2.25,2.0,2.0,3.25,1.25
+/match/br/2721147290,Kennen,Pantheon,Wukong,Rengar,Viktor,Veigar,Zeri,Lucian,Sona,Milio,2125.0,2.0,2.0,31 / 38 / 44,38 / 31 / 69,2,0,red,3.5,0.67,8.0,0.83,3.0,1.0,3.5,1.2,1.2,6.0
+/match/br/2721146005,Darius,Urgot,Fiddlesticks,Evelynn,Akali,K'Sante,Kai'Sa,Jinx,Nautilus,Thresh,5761.0,1.0,-2.0,39 / 19 / 67,19 / 39 / 29,0,1,blue,5.0,1.0,4.67,2.25,3.33,1.0,1.2,2.2,3.0,4.0
+/match/br/2721132937,Seraphine,Lissandra,Irelia,Ezreal,Tristana,Soraka,Lulu,Wukong,Ekko,Riven,-3453.0,-1.0,-1.0,24 / 34 / 44,34 / 24 / 43,0,2,red,2.0,9.0,1.67,4.5,1.0,2.33,2.0,2.33,3.33,2.67
+/match/br/2721128578,Jax,Swain,Nidalee,Bel'Veth,Tristana,Viktor,Aphelios,Jinx,Morgana,Zilean,5059.0,-1.0,0.0,52 / 32 / 55,32 / 52 / 40,1,1,blue,2.0,0.78,5.0,1.8,1.75,1.2,1.5,2.12,2.29,3.0
+/match/br/2721124507,Sion,Camille,Diana,Rammus,Sylas,Veigar,Ezreal,Jhin,Rakan,Karma,-4236.0,-2.0,-2.0,13 / 31 / 18,31 / 13 / 63,1,1,red,5.0,2.0,1.25,6.5,2.5,3.0,1.0,15.0,0.67,4.0
+/match/br/2721121747,Sett,Jayce,Singed,Poppy,Akali,Malphite,Zeri,Jinx,Leona,Lulu,494.0,1.0,-1.0,36 / 29 / 42,29 / 36 / 34,1,0,blue,0.5,6.0,3.5,5.5,0.5,4.0,3.2,0.75,2.75,1.17
+/match/br/2721127261,Renekton,Kennen,Rengar,Lee Sin,Kai'Sa,Akali,Zeri,Xayah,Rakan,Nautilus,-3798.0,-2.0,-2.0,19 / 39 / 37,39 / 19 / 64,0,2,red,0.2,7.0,1.14,5.0,2.0,2.67,0.5,14.0,0.57,14.0
+/match/br/2721118254,Rumble,Riven,Kha'Zix,Elise,Lux,Malphite,Zeri,Xayah,Karma,Annie,-919.0,0.0,-1.0,30 / 43 / 39,43 / 30 / 56,0,2,red,1.2,3.33,1.83,2.33,16.0,3.5,1.5,1.33,3.5,1.17
+/match/br/2721108757,Kled,Jayce,Wukong,Xin Zhao,Akali,Ahri,Sivir,Ashe,Zilean,Milio,-3556.0,-2.0,-2.0,20 / 37 / 27,36 / 21 / 62,1,1,red,3.33,0.38,1.0,3.0,1.2,4.0,0.8,5.5,2.2,14.0
+/match/br/2721108700,Zac,Sett,Hecarim,Graves,Viktor,Ahri,Miss Fortune,Jinx,Sona,Lux,4281.0,0.0,0.0,42 / 19 / 67,19 / 42 / 29,1,0,blue,6.0,0.25,6.5,1.2,1.0,3.0,3.5,0.8,1.8,2.25
+/match/br/2721108514,Udyr,Cassiopeia,Shaco,Ekko,Tristana,Yone,Jinx,Zeri,Pyke,Soraka,-196.0,0.0,-1.0,33 / 25 / 32,25 / 33 / 21,2,0,red,4.5,0.6,14.0,0.67,1.17,1.5,7.0,1.5,1.8,3.5
+/match/br/2721108356,Udyr,Sett,Lux,Akali,Lee Sin,Vi,Katarina,Kai'Sa,Vayne,Milio,1702.0,0.0,-1.0,24 / 33 / 40,33 / 24 / 59,1,1,red,0.67,4.0,3.33,0.8,0.83,3.5,2.67,3.0,12.0,0.71
+/match/br/2721104672,Fiora,Lissandra,Udyr,Vayne,Gangplank,Yuumi,Varus,Riven,Pyke,Ekko,-3106.0,-3.0,1.0,15 / 33 / 24,33 / 15 / 46,0,2,red,0.8,3.5,1.25,13.0,7.0,3.0,1.67,4.5,1.67,4.5
+/match/br/2721107207,K'Sante,Shen,Vi,Kindred,Lux,Nautilus,Kalista,Ashe,Leona,Bard,5771.0,2.0,0.0,37 / 21 / 63,21 / 37 / 48,2,0,blue,3.0,2.67,2.67,1.25,6.5,1.0,2.25,1.5,6.5,10.0
+/match/br/2721107198,Gwen,Camille,Singed,Hecarim,Akshan,Zilean,Samira,Ezreal,Thresh,Senna,-2537.0,0.0,-2.0,24 / 22 / 35,22 / 24 / 33,0,1,blue,0.5,7.0,1.5,13.0,0.67,4.0,1.5,6.0,0.5,3.0
+/match/br/2721106171,Pantheon,Malphite,Lee Sin,Gragas,Qiyana,Aatrox,Varus,Aphelios,Rakan,Morgana,1602.0,-1.0,0.0,35 / 21 / 70,21 / 35 / 37,1,1,blue,2.0,1.33,3.67,6.0,7.0,0.67,2.0,2.0,3.5,5.0
+/match/br/2721103731,Kennen,Riven,Rengar,Kayn,Aurelion Sol,Viktor,Aphelios,Jinx,Thresh,Milio,-5510.0,-1.0,1.0,34 / 28 / 48,28 / 34 / 39,1,0,blue,1.67,1.17,1.4,6.5,4.0,6.0,1.0,7.0,1.0,4.0
+/match/br/2721097921,Riven,Qiyana,Viego,Kha'Zix,Vex,Swain,Xayah,Jinx,Pyke,Sylas,3320.0,3.0,-2.0,54 / 37 / 65,37 / 54 / 52,1,1,blue,9.0,0.0,4.0,12.0,1.33,4.0,3.0,0.83,1.5,1.14
+/match/br/2721101331,K'Sante,Dr. Mundo,Zac,Hecarim,Cassiopeia,Swain,Aphelios,Kai'Sa,Thresh,Soraka,930.0,-1.0,1.0,31 / 25 / 51,25 / 31 / 33,1,1,blue,1.5,0.8,7.0,3.5,1.5,1.4,1.0,3.0,2.33,10.0
+/match/br/2721092919,Yorick,Illaoi,Gragas,Poppy,Yasuo,Sylas,Lucian,Kai'Sa,Blitzcrank,Janna,-5342.0,-3.0,-2.0,26 / 53 / 37,53 / 26 / 90,1,1,red,1.67,2.25,2.5,2.5,0.5,5.0,0.67,9.0,1.17,23.0
+/match/br/2721093872,Gragas,Jax,Lee Sin,Nidalee,Diana,Ahri,Jinx,Aphelios,Thresh,Nautilus,-421.0,0.0,-1.0,33 / 38 / 54,38 / 33 / 63,1,0,red,11.0,0.6,1.17,3.0,1.5,2.2,2.67,5.0,1.4,4.0
+/match/br/2721096162,Darius,Akshan,Amumu,Lillia,Aurelion Sol,Malphite,Samira,Jinx,Blitzcrank,Milio,4364.0,-1.0,2.0,37 / 15 / 72,15 / 37 / 20,1,1,blue,4.0,1.2,5.0,1.5,7.0,2.0,3.0,0.5,3.67,1.6
+/match/br/2721094100,Singed,Fiora,Karthus,Shaco,Yasuo,LeBlanc,Zeri,Kai'Sa,Lux,Thresh,-7019.0,-3.0,-3.0,7 / 31 / 5,30 / 7 / 29,0,1,red,1.0,1.0,0.25,7.0,0.33,7.0,0.67,2.0,1.33,6.0
+/match/br/2721088019,Riven,Malphite,Ekko,Rengar,Swain,Aurelion Sol,Aphelios,Jinx,Blitzcrank,Milio,56.0,-1.0,3.0,35 / 40 / 51,40 / 35 / 79,0,1,red,1.67,2.0,4.0,1.8,3.5,5.0,3.33,2.33,6.0,1.5
+/match/br/2721080969,Vladimir,Sion,Hecarim,Elise,Ornn,Viktor,Xayah,Twitch,Rakan,Nami,-5449.0,-2.0,-2.0,22 / 35 / 20,35 / 22 / 44,0,1,red,1.0,5.0,0.57,11.0,3.0,0.5,0.67,2.33,0.5,9.0
+/match/br/2721083034,K'Sante,Vayne,Karthus,Nunu & Willump,Talon,Sona,Ezreal,Jinx,Karma,Akali,482.0,0.0,2.0,39 / 28 / 68,28 / 39 / 47,0,2,blue,1.67,1.67,3.67,3.0,4.0,1.0,1.5,1.67,4.0,9.0
+/match/br/2721077616,K'Sante,Zed,Graves,Lee Sin,Syndra,Aurelion Sol,Draven,Ezreal,Nautilus,Zilean,4411.0,2.0,3.0,35 / 32 / 44,32 / 35 / 58,2,0,blue,1.0,1.33,4.5,3.67,7.0,2.5,1.2,2.0,1.6,3.0
+/match/br/2721072869,Gnar,Fiora,Fiddlesticks,Sylas,Tristana,Zed,Ziggs,Draven,Senna,Nautilus,3530.0,2.0,2.0,25 / 31 / 35,31 / 25 / 26,1,1,red,0.5,2.0,3.0,2.33,4.0,1.0,7.0,0.5,5.0,2.5
+/match/br/2721078427,Cho'Gath,Sion,Jarvan IV,Sejuani,Swain,Lissandra,Kai'Sa,Lucian,Nautilus,Nami,-2876.0,0.0,-3.0,37 / 42 / 55,42 / 37 / 74,0,2,red,1.25,1.2,3.25,8.0,1.4,1.17,3.25,1.67,1.8,2.0
+/match/br/2721077382,Urgot,Warwick,Poppy,Kayn,Kassadin,Zed,Ashe,Ziggs,Thresh,Lux,1159.0,1.0,0.0,40 / 26 / 61,26 / 40 / 45,2,0,blue,1.5,1.0,4.5,4.0,1.33,1.67,4.0,1.6,7.5,0.38
+/match/br/2721075525,Renekton,Irelia,Jarvan IV,Sylas,Zac,LeBlanc,Aphelios,Xayah,Thresh,Rakan,-1305.0,-2.0,-1.0,31 / 38 / 61,38 / 31 / 60,0,2,red,1.0,2.33,2.6,2.5,11.0,1.0,1.5,2.5,2.2,3.67
+/match/br/2721075313,Camille,Poppy,Ekko,Jarvan IV,Yasuo,Lux,Miss Fortune,Kai'Sa,Gragas,Morgana,3121.0,1.0,2.0,34 / 36 / 54,36 / 34 / 72,2,0,red,1.75,0.75,9.0,1.17,1.25,3.5,2.0,2.0,4.0,4.33
+/match/br/2721075058,Malphite,Pantheon,Kayn,Amumu,LeBlanc,Akshan,Jhin,Vayne,Bard,Sona,-1192.0,-2.0,1.0,40 / 34 / 79,34 / 40 / 35,1,1,blue,1.67,1.6,2.67,1.83,2.25,4.0,0.67,4.0,4.67,3.33
+/match/br/2721071648,Vi,Ekko,Lee Sin,Yuumi,Yone,Riven,Lucian,Vayne,Soraka,Gragas,4670.0,3.0,-2.0,24 / 26 / 32,26 / 24 / 42,2,0,red,1.33,1.6,4.5,3.5,4.0,3.5,1.67,0.8,2.0,7.0
+/match/br/2721072052,Yasuo,Pantheon,Master Yi,Gragas,Katarina,Kayle,Varus,Twitch,Nautilus,Lulu,-7432.0,-4.0,-2.0,25 / 57 / 23,57 / 25 / 79,1,1,red,0.75,7.0,2.0,6.0,2.25,1.8,0.71,5.0,0.6,4.5
+/match/br/2721070585,Renekton,Garen,Kha'Zix,Evelynn,Sylas,Yone,Xayah,Lucian,Janna,Karma,361.0,-2.0,1.0,31 / 21 / 35,21 / 31 / 18,0,2,blue,0.4,3.5,2.0,2.0,2.75,1.0,5.5,1.0,6.5,1.75
+/match/br/2721067676,K'Sante,Riven,Hecarim,Rengar,Lux,Ahri,Jinx,Kog'Maw,Pyke,Rakan,3382.0,-1.0,1.0,39 / 40 / 53,40 / 39 / 65,1,1,red,1.0,1.33,2.8,2.25,3.5,2.0,2.67,2.67,3.5,3.0
+/match/br/2721064243,Garen,Ornn,Skarner,Kayn,Sylas,Fizz,Jinx,Zeri,Taric,Zilean,7550.0,5.0,-2.0,34 / 25 / 56,25 / 34 / 47,2,0,blue,7.0,1.0,1.67,1.43,4.33,2.0,2.67,1.4,3.25,2.75
+/match/br/2721061857,Pantheon,Jax,Xin Zhao,Kha'Zix,Aurelion Sol,Katarina,Xayah,Jinx,Rakan,Tahm Kench,-4547.0,-2.0,-3.0,15 / 33 / 16,33 / 15 / 32,0,2,red,1.8,1.0,0.67,4.5,1.33,2.0,1.5,6.0,1.33,8.0
+/match/br/2721059920,Poppy,Gwen,Fiddlesticks,Kha'Zix,Azir,Veigar,Jinx,Xayah,Tahm Kench,Rakan,4431.0,-1.0,0.0,31 / 13 / 49,13 / 31 / 20,0,2,blue,2.0,1.0,14.0,1.2,2.5,0.75,3.75,1.0,9.0,1.67
+/match/br/2721065042,Malphite,Akali,Jarvan IV,Hecarim,Sylas,Aurelion Sol,Jinx,Ezreal,Janna,Yuumi,1840.0,0.0,3.0,33 / 15 / 66,15 / 33 / 29,2,0,blue,11.0,0.33,10.0,1.0,3.5,1.67,1.67,2.33,1.5,4.0
+/match/br/2721057872,Warwick,Udyr,Zac,Master Yi,Katarina,Lissandra,Xayah,Kog'Maw,Rakan,Soraka,5619.0,3.0,3.0,38 / 19 / 52,19 / 38 / 20,1,1,blue,8.0,0.6,3.5,2.4,3.0,1.33,2.4,1.0,2.6,1.5
+/match/br/2721053604,Fiora,Kennen,Lillia,Amumu,Veigar,Talon,Ezreal,Samira,Sona,Nautilus,-1760.0,0.0,-1.0,26 / 37 / 47,37 / 26 / 54,1,0,red,1.5,1.0,2.0,3.0,2.0,1.0,1.0,8.0,0.4,7.0
+/match/br/2721050707,Mordekaiser,Jax,Kha'Zix,Vi,Irelia,Katarina,Jinx,Aphelios,Leona,Morgana,1318.0,1.0,-1.0,34 / 23 / 41,23 / 35 / 24,1,1,blue,0.67,1.5,3.0,2.5,2.5,0.5,6.0,2.5,1.5,5.0
+/match/br/2721052070,Riven,Malphite,Pantheon,Jarvan IV,Vex,Irelia,Aphelios,Jinx,Lulu,Rakan,-4325.0,-5.0,2.0,29 / 31 / 58,31 / 29 / 60,0,2,red,1.25,2.67,7.0,12.0,2.0,1.0,1.67,4.33,3.0,1.57
+/match/br/2721045527,Akali,Warwick,Maokai,Skarner,Galio,Sylas,Aphelios,Jinx,Lulu,Nautilus,1807.0,2.0,1.0,28 / 24 / 61,24 / 28 / 58,0,2,red,5.5,1.67,4.5,3.5,3.33,1.5,7.0,4.0,7.0,0.8
+/match/br/2721040844,Warwick,Sion,Hecarim,Xin Zhao,Syndra,Qiyana,Ezreal,Aphelios,Janna,Nautilus,4409.0,2.0,1.0,27 / 16 / 22,16 / 27 / 13,1,1,blue,3.0,0.2,4.5,2.0,0.6,2.25,1.75,0.6,8.0,1.5
+/match/br/2721045196,Riven,Gwen,Rammus,Nidalee,Ekko,Talon,Ezreal,Samira,Karma,Milio,-3073.0,-1.0,-2.0,19 / 26 / 17,26 / 19 / 34,0,2,red,0.5,3.0,3.0,2.0,3.5,2.0,2.0,0.25,1.33,7.0
+/match/br/2721041160,LeBlanc,Aatrox,Viego,Nidalee,Gragas,Tryndamere,Ezreal,Samira,Tahm Kench,Nautilus,-2376.0,0.0,-1.0,17 / 28 / 28,28 / 17 / 44,0,1,red,3.0,3.0,3.0,6.0,0.0,9.0,5.0,0.2,3.33,0.67
+/match/br/2721043096,Cassiopeia,Bel'Veth,Fiddlesticks,Jarvan IV,Vayne,Syndra,Sivir,Ezreal,Twitch,Blitzcrank,7997.0,5.0,0.0,35 / 35 / 23,33 / 35 / 39,2,0,blue,5.0,2.5,2.0,1.6,1.33,1.0,0.0,2.5,1.0,6.0
+/match/br/2721040057,Nasus,Darius,Volibear,Kindred,Ahri,Veigar,Jinx,Aphelios,Soraka,Lulu,4370.0,3.0,0.0,27 / 27 / 36,27 / 27 / 54,1,1,red,5.0,0.4,4.5,3.5,3.67,1.0,1.67,0.75,7.0,3.0
+/match/br/2721029806,Jax,Kayle,Lillia,Kindred,Tryndamere,Lissandra,Ezreal,Jinx,Heimerdinger,Blitzcrank,5763.0,4.0,1.0,31 / 25 / 31,25 / 31 / 19,2,0,blue,1.0,0.75,3.5,3.33,2.0,1.4,3.33,2.0,3.67,0.29
+/match/br/2721031771,Aurelion Sol,Urgot,Sion,Gragas,Dr. Mundo,Syndra,Jinx,Vayne,Lulu,Milio,2704.0,3.0,2.0,37 / 27 / 69,27 / 37 / 47,1,1,blue,4.5,2.33,1.43,2.5,1.0,2.5,3.5,1.25,5.33,3.5
+/match/br/2721022890,Mordekaiser,Urgot,Gragas,Lee Sin,Yasuo,Anivia,Varus,Xayah,Brand,Rakan,9093.0,4.0,0.0,40 / 38 / 47,38 / 40 / 53,2,0,red,2.5,0.75,5.0,1.25,2.6,0.44,4.67,1.67,6.5,4.0
+/match/br/2721024129,Malphite,Fiora,Viego,Lillia,Syndra,Rumble,Zeri,Jinx,Nami,Ashe,828.0,1.0,-3.0,20 / 27 / 28,27 / 20 / 36,2,0,red,1.5,2.0,7.0,5.0,0.0,2.0,3.0,2.5,1.67,0.75
+/match/br/2721025054,Malphite,Jayce,Poppy,Fiddlesticks,Kassadin,Sylas,Ezreal,Kai'Sa,Rakan,Leona,-3105.0,0.0,0.0,24 / 27 / 35,27 / 24 / 45,0,1,red,4.0,1.5,1.75,3.0,6.0,0.75,4.0,1.5,8.0,0.6
+/match/br/2721014980,Akali,Galio,Katarina,Wukong,Maokai,Irelia,Vayne,Lucian,Sona,Milio,-3069.0,-1.0,0.0,16 / 29 / 23,29 / 16 / 58,0,1,red,1.0,4.0,1.0,2.5,2.0,6.0,0.5,7.0,2.0,1.5
+/match/br/2721013635,Kennen,Singed,Graves,Master Yi,Talon,Jinx,Ezreal,Lissandra,Bard,Lulu,3117.0,1.0,1.0,39 / 29 / 61,29 / 40 / 56,1,1,blue,3.5,0.29,2.5,1.25,1.25,7.0,1.0,14.0,1.0,6.5
+/match/br/2721013588,Darius,Qiyana,Maokai,Kayn,Talon,Vladimir,Draven,Ezreal,Thresh,Yuumi,3131.0,1.0,1.0,35 / 25 / 56,25 / 35 / 35,1,1,blue,2.0,0.5,11.0,0.8,5.0,2.0,1.5,1.6,4.5,9.0
+/match/br/2721008815,Malphite,Kennen,Talon,Taliyah,Yasuo,Draven,Jinx,Ezreal,Lulu,Blitzcrank,-1460.0,-1.0,0.0,37 / 19 / 63,19 / 37 / 22,1,1,blue,4.5,0.75,3.67,1.0,3.0,1.0,0.67,1.25,5.0,2.5
+/match/br/2721005736,Kennen,Akali,Qiyana,Hecarim,Xin Zhao,Yasuo,Xayah,Jinx,Blitzcrank,Thresh,2754.0,1.0,0.0,34 / 25 / 64,25 / 34 / 38,2,0,blue,2.0,1.67,1.2,5.0,3.67,3.0,4.0,2.5,3.33,1.0
+/match/br/2721003722,Dr. Mundo,Pantheon,Nocturne,Amumu,LeBlanc,Zed,Jinx,Xayah,Thresh,Gragas,-2449.0,-2.0,-3.0,31 / 43 / 47,43 / 31 / 45,0,2,red,1.33,1.0,3.67,10.0,1.2,1.0,1.14,7.5,1.6,2.2
+/match/br/2721003735,Poppy,Sion,Gragas,Master Yi,Irelia,Aurelion Sol,Caitlyn,Xayah,Zyra,Janna,3175.0,1.0,1.0,35 / 30 / 54,30 / 35 / 48,1,1,red,3.5,0.5,9.0,1.0,1.8,1.5,6.5,1.0,7.0,1.4
+/match/br/2721004167,Yasuo,Anivia,Graves,Kha'Zix,Viktor,Renekton,Ezreal,Jinx,Annie,Milio,6013.0,4.0,-1.0,27 / 31 / 36,31 / 27 / 55,1,1,red,1.5,1.0,7.0,1.5,3.5,3.0,4.0,1.25,9.0,2.5
+/match/br/2720998878,Cho'Gath,Fiora,Evelynn,Kha'Zix,Syndra,Azir,Jinx,Ezreal,Senna,Thresh,9709.0,6.0,2.0,41 / 25 / 53,25 / 41 / 33,1,1,blue,1.0,1.0,6.0,1.4,6.0,1.5,5.0,0.86,4.33,1.0
+/match/br/2720994766,Zeri,Kled,Kayn,Nidalee,Cassiopeia,Zed,Aphelios,Twitch,Nautilus,Renata Glasc,-526.0,-1.0,1.0,37 / 31 / 48,31 / 37 / 55,0,1,blue,0.67,7.0,8.0,1.5,2.0,1.33,5.0,1.4,2.5,2.0
+/match/br/2720998109,Ornn,Gwen,Lillia,Nunu & Willump,Yasuo,Zed,Samira,Zeri,Leona,Heimerdinger,-2759.0,-2.0,-3.0,50 / 43 / 81,43 / 50 / 42,0,2,red,4.0,2.0,3.0,4.5,1.0,2.25,1.43,1.0,3.25,1.2
+/match/br/2720987805,Akali,Jayce,Bel'Veth,Rengar,Zoe,Sylas,Ezreal,Xayah,Zilean,Thresh,-1154.0,1.0,1.0,35 / 16 / 59,16 / 35 / 20,0,1,blue,1.0,0.83,1.33,7.0,5.0,3.0,6.0,4.0,1.0,2.0
+/match/br/2720991307,Irelia,Ornn,Nidalee,Karthus,Lucian,Zed,Tristana,Zeri,Nami,Senna,6520.0,4.0,3.0,29 / 17 / 44,17 / 29 / 25,1,1,blue,0.57,7.0,13.0,1.2,13.0,0.5,0.5,6.0,16.0,0.25
+/match/br/2720969738,Gnar,Fiora,Ekko,Hecarim,Jayce,Twisted Fate,Veigar,Jinx,Alistar,Blitzcrank,-3746.0,1.0,2.0,26 / 40 / 34,40 / 26 / 71,1,1,red,1.0,1.0,1.5,15.0,1.2,2.2,1.33,2.33,2.0,5.5
+/match/br/2720965864,Zac,Irelia,Vi,Poppy,Ivern,Vladimir,Samira,Veigar,Rakan,Alistar,1812.0,-3.0,1.0,37 / 22 / 66,22 / 37 / 34,2,0,blue,0.5,1.33,2.33,4.0,3.5,0.25,3.33,1.0,10.0,1.0
+/match/br/2720970161,Quinn,Warwick,Ekko,Shaco,Yasuo,Qiyana,Jinx,Lucian,Karma,Nami,-9070.0,-2.0,0.0,25 / 52 / 28,52 / 25 / 65,0,2,red,1.0,3.0,1.5,6.5,0.5,4.0,0.5,3.0,0.5,6.5
+/match/br/2720960822,Illaoi,Renekton,Kha'Zix,Nocturne,Ahri,Lux,Caitlyn,Veigar,Senna,Blitzcrank,-1004.0,-1.0,3.0,21 / 44 / 26,44 / 22 / 60,1,1,red,1.0,0.5,2.0,3.67,2.5,6.0,1.33,3.0,0.75,3.5
+/match/br/2720956878,Fiora,Warwick,Lee Sin,Xin Zhao,Sylas,Ryze,Akshan,Jinx,Sona,Karma,-3520.0,0.0,-2.0,27 / 34 / 40,34 / 27 / 58,1,1,red,3.0,0.8,3.5,5.5,0.8,2.33,0.67,1.6,2.33,12.0
+/match/br/2720962090,Jayce,Akali,Gragas,Zed,Yasuo,Twitch,Veigar,Malphite,Blitzcrank,Yuumi,3829.0,3.0,2.0,33 / 19 / 57,19 / 33 / 34,1,0,blue,0.5,4.0,7.0,4.0,2.5,0.2,4.0,2.33,4.5,4.0
+/match/br/2720953772,Teemo,Qiyana,Xin Zhao,Rammus,Zed,Ahri,Twitch,Ezreal,Karma,Nautilus,-6562.0,-4.0,2.0,13 / 30 / 22,29 / 13 / 30,1,1,red,0.25,3.0,1.67,7.0,1.0,3.0,1.33,6.0,1.5,2.33
+/match/br/2720958327,Pantheon,Nasus,Hecarim,Vi,Veigar,Katarina,Jinx,Draven,Lulu,Nami,-8900.0,-6.0,-1.0,23 / 44 / 29,44 / 23 / 60,2,0,red,0.86,3.0,1.25,16.0,0.4,2.75,0.86,2.2,0.38,18.0
+/match/br/2720951731,K'Sante,Cho'Gath,Shaco,Rengar,LeBlanc,Katarina,Xayah,Zeri,Rakan,Xerath,-2408.0,-2.0,1.0,44 / 27 / 82,27 / 44 / 42,0,2,blue,0.5,2.5,2.8,1.0,7.0,4.0,4.0,1.75,4.33,2.5
+/match/br/2720945779,Karma,Kennen,Xin Zhao,Kindred,Zed,Akali,Veigar,Jinx,Soraka,Milio,4680.0,2.0,0.0,40 / 22 / 68,22 / 40 / 38,2,0,blue,2.5,3.5,11.0,0.43,0.75,3.5,7.0,0.5,9.0,1.0
+/match/br/2720947507,Yorick,Jayce,Vi,Lee Sin,LeBlanc,Zoe,Jinx,Ashe,Milio,Blitzcrank,6804.0,3.0,0.0,28 / 26 / 29,26 / 29 / 38,2,0,blue,2.0,1.0,2.33,1.75,2.33,3.0,1.0,1.8,3.5,2.67
+/match/br/2720947477,Renekton,Gwen,Zac,Rengar,Katarina,Talon,Zeri,Draven,Zoe,Nautilus,-4250.0,-2.0,-2.0,45 / 46 / 65,46 / 45 / 34,1,1,blue,1.5,0.5,2.8,3.5,4.0,2.75,0.56,3.0,1.5,2.0
+/match/br/2720935182,Jayce,Jax,Kindred,Viego,Shen,Malzahar,Kai'Sa,Jinx,Rakan,Thresh,272.0,1.0,-1.0,36 / 32 / 79,32 / 36 / 54,1,1,blue,1.17,2.0,3.0,2.2,2.33,2.5,5.0,1.75,6.0,2.5
+/match/br/2720927670,Teemo,Quinn,Nunu & Willump,Graves,Aurelion Sol,Akshan,Varus,Jinx,Senna,Braum,-3270.0,-4.0,0.0,44 / 32 / 74,32 / 44 / 31,0,1,blue,0.33,2.5,11.0,3.5,1.0,2.33,4.5,0.8,4.0,1.5
+/match/br/2720924226,Dr. Mundo,Jax,Zyra,Zac,Katarina,Cassiopeia,Twitch,Zeri,Lulu,Soraka,-4990.0,-2.0,0.0,31 / 42 / 66,41 / 31 / 77,0,2,red,0.8,1.67,3.67,2.5,2.0,2.33,3.33,2.33,3.67,12.0
+/match/br/2720921257,Master Yi,Nautilus,Ezreal,Taliyah,Seraphine,Akali,Malphite,Varus,Karma,Shen,-1058.0,0.0,0.0,24 / 44 / 30,44 / 24 / 73,2,0,red,1.4,3.33,1.71,2.0,1.67,12.0,1.0,4.0,3.75,1.5
+/match/br/2720912816,Sion,Renekton,Ekko,Udyr,Jayce,Cassiopeia,Nilah,Jinx,Sona,Milio,-6467.0,-2.0,0.0,12 / 26 / 9,26 / 12 / 45,0,2,red,0.0,7.0,1.5,9.0,1.5,0.75,1.0,2.33,2.0,9.0
+/match/br/2720913147,Darius,Olaf,Ekko,Sylas,Ahri,Taliyah,Sivir,Jinx,Yuumi,Thresh,-3102.0,-3.0,1.0,21 / 23 / 32,23 / 22 / 36,0,2,red,1.67,3.5,4.0,1.67,1.33,1.67,3.5,1.0,7.0,1.0
+/match/br/2720901489,Camille,Mordekaiser,Xin Zhao,Lee Sin,Zoe,Syndra,Vayne,Nilah,Bard,Sona,-6615.0,-4.0,-2.0,25 / 35 / 46,35 / 25 / 61,1,1,red,2.0,2.5,1.33,6.5,4.0,2.5,0.56,3.75,3.0,4.0
+/match/br/2720896243,Riven,Nami,Hecarim,Ekko,Sylas,Katarina,Lucian,Zac,Lux,Draven,6246.0,2.0,0.0,35 / 26 / 39,26 / 35 / 28,1,1,blue,2.0,1.33,5.5,3.67,1.6,1.8,0.5,3.33,1.8,2.0
+/match/br/2720893709,Shen,Malphite,Hecarim,Gragas,Zed,Katarina,Sivir,Samira,Yuumi,Nautilus,-1753.0,-2.0,0.0,25 / 31 / 52,31 / 25 / 51,1,1,red,9.0,0.67,5.5,1.67,0.83,1.67,0.0,2.5,11.0,2.5
+/match/br/2720886691,Gangplank,Cassiopeia,Rammus,Maokai,Ezreal,Syndra,Veigar,Lucian,Pyke,Senna,-7175.0,-4.0,-1.0,26 / 38 / 34,38 / 26 / 45,0,2,red,2.0,3.0,4.0,3.5,0.62,3.0,1.4,3.0,3.0,1.83
+/match/br/2720870509,Sion,Dr. Mundo,Lillia,Zac,Qiyana,Vladimir,Jinx,Zeri,Lulu,Nami,-7964.0,-4.0,-1.0,41 / 39 / 67,38 / 41 / 51,1,1,blue,1.0,2.0,2.0,3.5,8.0,0.71,1.4,4.67,1.33,4.67
+/match/br/2720864789,Camille,Shen,Twitch,Graves,Sylas,Zoe,Karthus,Xayah,Pyke,Rakan,-4979.0,0.0,-2.0,16 / 39 / 24,39 / 16 / 56,1,1,red,0.5,15.0,1.4,4.0,1.0,2.0,1.75,3.5,1.0,2.33
+/match/br/2720870079,Urgot,Jax,Amumu,Viego,Qiyana,Viktor,Veigar,Xayah,Zilean,Janna,7195.0,3.0,1.0,36 / 20 / 63,20 / 36 / 24,1,1,blue,1.17,3.0,3.5,1.0,14.0,0.5,7.0,0.4,3.33,2.5
+/match/br/2720866372,Jayce,Darius,Kayn,Ekko,Ahri,Viktor,Kai'Sa,Tristana,Yuumi,Soraka,886.0,1.0,0.0,27 / 16 / 51,16 / 27 / 29,1,0,blue,8.0,1.0,1.6,4.5,1.6,3.67,7.0,1.0,8.0,2.0
+/match/br/2720859017,Yorick,Teemo,Bel'Veth,Shaco,Ahri,Malzahar,Ezreal,Tristana,Thresh,Alistar,748.0,1.0,1.0,30 / 28 / 41,28 / 30 / 41,2,0,blue,1.25,2.5,0.57,15.0,3.0,0.25,2.5,2.0,3.0,2.33
+/match/br/2720850022,Jax,Camille,Sejuani,Vi,Irelia,Katarina,Jinx,Syndra,Yuumi,Sona,-6541.0,-1.0,-2.0,11 / 28 / 15,28 / 11 / 45,0,2,red,0.0,7.0,0.5,13.0,0.8,3.0,2.5,2.5,5.0,4.5
+/match/br/2720840999,Rumble,Gnar,Kindred,Fiddlesticks,Viktor,Yone,Jinx,Karthus,Zilean,Nautilus,-4076.0,-2.0,-2.0,35 / 39 / 60,39 / 35 / 43,1,1,blue,1.0,0.71,1.25,6.0,2.33,2.33,0.6,9.0,0.5,6.5
+/match/br/2720835293,Gwen,Volibear,Graves,Maokai,Ahri,Vladimir,Ezreal,Zeri,Blitzcrank,Karma,-1885.0,1.0,0.0,25 / 47 / 52,47 / 25 / 77,2,0,red,0.5,5.0,2.0,2.0,0.8,3.5,2.67,1.75,2.25,9.0
+/match/br/2720829949,Riven,Poppy,Neeko,Sylas,Kai'Sa,Zed,Draven,Lucian,Zyra,Senna,-3094.0,-3.0,-1.0,58 / 49 / 80,49 / 58 / 50,1,0,blue,2.0,1.33,1.0,4.0,2.2,1.2,1.0,3.5,1.57,3.2
+/match/br/2720822764,K'Sante,Zac,Sion,Ekko,Qiyana,Cassiopeia,Vladimir,Draven,Nami,Pyke,3761.0,1.0,2.0,42 / 25 / 51,25 / 42 / 23,2,0,blue,0.17,3.5,4.0,2.2,2.5,1.0,7.5,1.0,2.17,1.5
+/match/br/2720817128,Shen,Swain,Kayn,Volibear,Syndra,Twitch,Jinx,Vayne,Leona,Sona,2465.0,0.0,0.0,36 / 22 / 66,22 / 36 / 36,0,1,blue,2.0,1.0,8.0,3.5,9.0,0.2,1.17,3.0,2.6,2.0
+/match/br/2720811279,Wukong,Garen,Ahri,Sejuani,Caitlyn,Yasuo,Swain,Lucian,Sion,Senna,-7753.0,-4.0,-2.0,20 / 42 / 33,42 / 20 / 46,1,1,red,1.8,3.0,1.4,2.5,1.5,5.0,1.14,4.67,1.75,1.0
+/match/br/2720809230,Jax,Qiyana,Nunu & Willump,Karthus,Zed,Camille,Jinx,Ziggs,Milio,Thresh,-999.0,0.0,0.0,39 / 35 / 80,35 / 39 / 52,2,0,blue,0.6,1.2,2.0,10.0,2.5,4.0,1.4,4.0,9.0,3.0
+/match/br/2720800172,Udyr,Renekton,Elise,Nidalee,Jayce,Talon,Caitlyn,Draven,Thresh,Bard,-3159.0,-1.0,-2.0,25 / 34 / 39,34 / 25 / 44,0,1,red,1.0,2.33,1.4,8.0,1.33,2.0,4.5,3.5,4.0,2.67
+/match/br/2720796170,K'Sante,Mordekaiser,Gragas,Rammus,LeBlanc,Fizz,Aphelios,Seraphine,Thresh,Senna,-7389.0,-3.0,-1.0,23 / 47 / 35,47 / 23 / 81,1,0,red,0.75,1.67,1.0,13.0,1.0,2.5,1.0,5.5,1.5,5.0
+/match/br/2720788989,Malphite,Ornn,Udyr,Rengar,Veigar,Annie,Kog'Maw,Aphelios,Vel'Koz,Milio,-3412.0,0.0,0.0,10 / 32 / 4,32 / 10 / 51,0,1,red,0.33,5.0,1.0,9.0,1.0,2.0,0.2,2.33,1.5,7.0
+/match/br/2720789177,Jax,Kennen,Nunu & Willump,Xin Zhao,Ryze,Vladimir,Jinx,Ezreal,Milio,Leona,7574.0,3.0,0.0,43 / 30 / 78,30 / 43 / 40,1,1,blue,8.0,0.25,2.83,2.0,0.86,3.33,3.8,1.29,4.4,1.86
+/match/br/2720779786,Nasus,Akali,Senna,Darius,Hecarim,Yasuo,Lucian,Ezreal,Tahm Kench,Rakan,6593.0,3.0,1.0,45 / 32 / 74,32 / 45 / 45,1,1,blue,0.75,1.2,3.0,1.0,2.4,1.5,15.0,2.5,2.5,1.75
+/match/br/2720783069,Darius,Ornn,Sylas,Gwen,Talon,Gangplank,Ezreal,Xayah,Lux,Blitzcrank,8135.0,4.0,2.0,44 / 18 / 44,18 / 44 / 25,2,0,blue,5.0,0.25,2.5,1.8,15.0,0.43,2.0,2.25,3.0,0.86
+/match/br/2720776771,Ornn,Garen,Nidalee,Diana,Katarina,Karthus,Lucian,Jinx,Nami,Yuumi,2014.0,1.0,-1.0,34 / 45 / 57,45 / 34 / 73,1,1,red,2.5,3.0,2.2,2.0,1.33,3.5,5.67,0.86,8.0,1.6
+/match/br/2720769942,Kalista,Tristana,Ekko,Kayn,Vel'Koz,Annie,Jinx,Draven,Thresh,Nautilus,-2064.0,1.0,1.0,35 / 35 / 49,35 / 37 / 55,1,1,red,2.67,1.12,1.6,3.0,2.5,3.5,1.5,1.43,1.4,4.5
+/match/br/2720769402,K'Sante,Riven,Graves,Evelynn,Viktor,Samira,Veigar,Tristana,Thresh,Nautilus,-2062.0,0.0,2.0,25 / 35 / 32,35 / 25 / 44,0,2,red,1.0,1.75,3.0,6.5,1.0,1.5,2.0,2.0,2.67,2.67
+/match/br/2720752842,Riven,Jarvan IV,Twisted Fate,Jax,Sejuani,Sylas,Karthus,Ashe,Nautilus,Karma,-5881.0,-2.0,2.0,31 / 30 / 63,30 / 31 / 30,0,2,red,0.0,5.0,1.2,1.5,2.33,2.67,3.67,3.0,4.5,0.75
+/match/br/2720749955,Gwen,Sion,Vi,Elise,Akali,Varus,Zeri,Kalista,Lulu,Yuumi,-10624.0,-5.0,-2.0,28 / 48 / 60,47 / 28 / 81,1,1,red,0.75,2.0,0.44,20.0,0.12,16.0,1.75,2.5,1.0,9.0
+/match/br/2720740857,Nasus,Riven,Viego,Ekko,Lissandra,Gragas,Xayah,Jinx,Alistar,Blitzcrank,-1376.0,1.0,3.0,19 / 27 / 28,27 / 19 / 43,1,1,red,4.0,0.0,10.0,1.6,1.75,9.0,2.5,10.0,1.6,1.29
+/match/br/2720734985,Jayce,K'Sante,Bel'Veth,Twitch,Lissandra,Ahri,Lucian,Kalista,Nami,Annie,4075.0,2.0,2.0,37 / 26 / 69,26 / 37 / 33,2,0,blue,6.5,0.33,1.67,2.67,7.0,1.25,1.43,1.5,4.0,3.67
+/match/br/2720739113,Gnar,Jax,Qiyana,Amumu,Katarina,Anivia,Jinx,Senna,Janna,Caitlyn,-879.0,0.0,-2.0,22 / 33 / 40,33 / 22 / 55,0,2,red,9.0,0.2,1.75,5.0,1.25,1.6,6.0,1.0,6.0,0.0
+/match/br/2720717572,Shen,Vayne,Ekko,Zoe,Zed,Viego,Caitlyn,Xayah,Lux,Rakan,-4584.0,-2.0,3.0,28 / 46 / 29,46 / 28 / 62,2,0,red,4.0,0.67,1.2,3.0,1.0,2.33,1.29,2.8,1.5,8.0
+/match/br/2720715239,Riven,Shen,Elise,Skarner,Cassiopeia,Annie,Jhin,Kalista,Thresh,Sona,2959.0,3.0,-1.0,36 / 50 / 41,50 / 36 / 107,2,0,red,3.33,1.75,1.4,1.83,0.5,7.0,2.25,0.83,2.5,3.0
+/match/br/2720716007,Garen,Vel'Koz,Ekko,Udyr,Azir,Gragas,Aphelios,Kai'Sa,Lulu,Blitzcrank,-2796.0,0.0,-2.0,28 / 41 / 35,41 / 28 / 45,0,2,red,2.0,2.0,1.75,7.0,1.25,1.75,0.83,2.2,3.33,1.4
+/match/br/2720703774,Yuumi,Ahri,Jarvan IV,Fiora,Akali,Wukong,Sylas,Varus,Zeri,Nami,113.0,0.0,2.0,20 / 14 / 38,14 / 20 / 19,1,1,blue,5.0,5.0,1.6,3.0,1.67,1.33,1.33,2.33,3.0,2.0
+/match/br/2720688984,Akali,Gragas,Zac,Sejuani,Corki,Yasuo,Sivir,Lucian,Leona,Sona,-5850.0,-2.0,-2.0,17 / 36 / 26,36 / 17 / 60,1,1,red,1.6,1.0,1.6,7.5,1.0,1.5,1.67,7.0,1.29,15.0
+/match/br/2720693366,Sion,Jax,Zed,Rengar,LeBlanc,Qiyana,Jinx,Ezreal,Blitzcrank,Zyra,3268.0,1.0,-3.0,41 / 31 / 54,31 / 41 / 31,2,0,blue,4.0,0.33,1.5,3.0,1.0,2.5,3.0,3.0,1.33,1.29
+/match/br/2720687888,Renekton,Riven,Nocturne,Kayn,Lissandra,LeBlanc,Xayah,Caitlyn,Rakan,Lux,-507.0,-2.0,0.0,28 / 28 / 37,28 / 28 / 23,0,2,red,0.8,1.4,2.0,2.5,6.5,1.2,10.0,0.2,5.0,2.0
+/match/br/2720692138,Gragas,Jayce,Viego,Lee Sin,Janna,Ahri,Ashe,Aphelios,Milio,Blitzcrank,874.0,0.0,-2.0,38 / 29 / 83,29 / 38 / 50,1,0,blue,2.25,1.0,3.33,1.8,5.0,7.0,2.5,2.0,2.67,5.0
+/match/br/2720681303,Jayce,Jax,Graves,Skarner,Cassiopeia,Lux,Zeri,Jinx,Twitch,Milio,525.0,0.0,3.0,22 / 45 / 19,45 / 22 / 75,2,0,red,2.0,6.0,2.0,1.33,1.2,4.0,0.8,2.75,1.0,13.0
+/match/br/2720679454,Riven,Renekton,Maokai,Shaco,Zoe,Katarina,Twitch,Xayah,Milio,Janna,7172.0,5.0,1.0,36 / 16 / 42,16 / 36 / 15,1,0,blue,2.0,1.33,2.75,2.33,4.0,0.67,3.67,0.8,9.0,0.67
+/match/br/2720672777,Jax,Darius,Shaco,Lee Sin,Akali,Pantheon,Jinx,Kog'Maw,Rakan,Zilean,2071.0,-2.0,-1.0,29 / 28 / 43,28 / 29 / 36,2,0,blue,6.0,0.5,1.8,4.5,1.6,2.33,2.67,2.5,8.0,2.5
+/match/br/2720667983,Renekton,K'Sante,Poppy,Kayn,Viktor,Fizz,Zeri,Swain,Jarvan IV,Renata Glasc,-1892.0,0.0,-2.0,22 / 48 / 20,48 / 22 / 76,1,1,red,1.67,1.0,1.33,3.5,0.1,11.0,1.17,3.0,1.2,7.0
+/match/br/2720669455,Maokai,Tryndamere,Bel'Veth,Nocturne,Lissandra,Sylas,Jinx,Xayah,Lulu,Karma,724.0,1.0,3.0,27 / 16 / 43,16 / 27 / 17,0,2,blue,0.75,5.0,1.6,3.33,3.0,2.25,4.0,1.0,9.0,0.67
+/match/br/2720667623,Olaf,Shen,Kayn,Viego,Sylas,Cassiopeia,Xayah,Aphelios,Rakan,Lux,2780.0,4.0,-2.0,33 / 32 / 60,32 / 33 / 68,2,0,blue,1.0,9.0,3.5,2.5,4.5,1.25,0.8,1.25,1.5,5.5
+/match/br/2720665522,Kog'Maw,Kayn,Lee Sin,Aurelion Sol,Ahri,Vayne,Poppy,K'Sante,Janna,Milio,-2282.0,0.0,0.0,22 / 25 / 22,25 / 23 / 40,1,0,red,1.33,4.5,2.33,2.33,2.33,1.4,2.0,0.5,1.33,4.0
+/match/br/2720663828,Kennen,Gwen,Graves,Kayn,Talon,Singed,Kai'Sa,Jhin,Nautilus,Karma,-5596.0,-5.0,-2.0,19 / 37 / 26,37 / 19 / 64,1,1,red,1.0,2.0,1.0,7.5,0.5,8.0,1.8,4.25,3.33,5.0
+/match/br/2720663724,Bel'Veth,Fiora,Elise,Kha'Zix,Zed,Katarina,Ezreal,Jinx,Morgana,Thresh,4162.0,1.0,-2.0,36 / 36 / 48,36 / 36 / 60,1,1,red,1.4,1.75,5.0,1.6,0.2,1.75,6.5,1.33,5.0,4.0
+/match/br/2720659667,Malphite,Sion,Poppy,Viktor,Orianna,Wukong,Jinx,Xayah,Morgana,Milio,-6124.0,-4.0,1.0,30 / 29 / 47,29 / 30 / 46,0,2,blue,0.5,6.0,0.6,12.0,1.0,3.0,1.33,2.5,1.25,6.0
+/match/br/2720656985,Riven,Malphite,Elise,Viego,Sylas,LeBlanc,Xayah,Lucian,Senna,Nami,2846.0,3.0,0.0,27 / 42 / 21,42 / 27 / 70,2,0,red,2.67,1.0,2.67,1.0,1.67,2.5,1.5,2.5,1.8,15.0
+/match/br/2720661413,Sett,Jax,Ekko,Xin Zhao,Tristana,Anivia,Kai'Sa,Ezreal,Amumu,Senna,-3172.0,-4.0,-2.0,39 / 42 / 51,42 / 39 / 60,0,2,red,1.6,0.5,2.2,1.38,3.33,1.8,1.43,4.5,2.14,2.33
+/match/br/2720656484,Riven,Aatrox,Rengar,Sejuani,Zilean,Anivia,Viktor,Nilah,Shen,Rakan,-2224.0,-1.0,-3.0,28 / 37 / 55,37 / 28 / 71,0,2,red,5.0,0.6,5.0,7.0,2.0,3.0,0.8,9.0,1.0,2.33
+/match/br/2720653744,Gnar,Kennen,Maokai,Lee Sin,Karthus,Diana,Kalista,Xayah,Thresh,Rakan,3654.0,0.0,-3.0,40 / 33 / 59,32 / 40 / 37,2,0,blue,4.5,0.12,5.5,1.5,1.57,3.0,1.75,1.75,1.5,5.0
+/match/br/2720653035,Bel'Veth,Shen,Talon,Sylas,Jayce,Aurelion Sol,Karthus,Jinx,Vel'Koz,Rakan,7337.0,4.0,3.0,30 / 36 / 42,35 / 30 / 68,2,0,red,1.4,1.0,4.0,0.75,2.0,3.5,1.0,7.0,1.33,10.0
+/match/br/2720651267,Jayce,Poppy,Graves,Shaco,Annie,Katarina,Tristana,Caitlyn,Lulu,Nautilus,-4330.0,-1.0,0.0,27 / 44 / 30,44 / 27 / 58,0,2,red,0.67,7.5,1.8,7.0,0.8,2.0,2.0,1.5,2.25,1.5
+/match/br/2720644820,Malphite,Gragas,Rengar,Poppy,Fizz,Zed,Xayah,Aphelios,Rakan,Lulu,9343.0,2.0,-1.0,41 / 20 / 61,19 / 41 / 27,1,0,blue,5.0,0.25,3.25,5.0,1.5,2.25,5.5,0.5,6.5,1.2
+/match/br/2720651013,Aatrox,Darius,Trundle,Lee Sin,Ahri,Cassiopeia,Caitlyn,Jinx,Karma,Lux,-5405.0,-2.0,-2.0,13 / 22 / 21,22 / 13 / 37,0,1,red,2.5,0.8,2.0,5.0,3.0,2.0,0.67,10.0,2.0,2.75
+/match/br/2720637282,Akali,Aurelion Sol,Evelynn,Zed,Corki,Tristana,Xayah,Jinx,Rakan,Lulu,-5724.0,-2.0,0.0,24 / 28 / 29,28 / 24 / 51,0,2,red,3.5,1.0,1.0,4.0,1.33,7.0,0.6,2.5,1.0,3.25
+/match/br/2720631592,Sion,Riven,Viego,Vi,Anivia,Aurelion Sol,Ezreal,Samira,Ashe,Xerath,6414.0,5.0,0.0,46 / 24 / 60,23 / 46 / 26,2,0,blue,2.5,0.83,2.75,2.0,4.0,1.2,2.6,1.43,2.6,2.17
+/match/br/2720635107,Aatrox,Shen,Nidalee,Lee Sin,Vex,Ahri,Ezreal,Vayne,Senna,Pyke,1519.0,3.0,0.0,26 / 29 / 48,29 / 26 / 58,1,1,blue,1.0,4.0,1.4,11.0,1.5,3.0,1.83,1.0,2.33,5.0
+/match/br/2720632371,Malphite,Jax,Master Yi,Kha'Zix,Vladimir,Ahri,Jinx,Kai'Sa,Morgana,Thresh,4576.0,2.0,0.0,37 / 22 / 47,22 / 37 / 35,1,1,blue,1.0,1.67,2.0,1.2,9.0,0.6,5.0,2.67,4.0,2.67
+/match/br/2720628757,Sion,Nasus,Hecarim,Vayne,Katarina,Zoe,Caitlyn,Udyr,Lux,Nami,-2874.0,-1.0,-2.0,20 / 37 / 18,37 / 20 / 36,0,2,red,2.33,0.67,0.2,2.5,0.67,13.0,1.0,2.0,1.67,2.5
+/match/br/2720631377,Singed,K'Sante,Jarvan IV,Kindred,Lissandra,Aurelion Sol,Jinx,Xayah,Soraka,Rakan,8373.0,3.0,2.0,44 / 20 / 82,20 / 44 / 30,2,0,blue,10.0,0.4,3.0,1.6,1.67,2.25,12.0,1.5,5.0,1.8
+/match/br/2720623751,Graves,Gragas,Diana,Hecarim,Talon,Ahri,Kalista,Ezreal,Thresh,Leona,5830.0,1.0,2.0,43 / 31 / 83,31 / 43 / 60,2,0,blue,2.0,2.5,2.0,2.75,3.33,0.5,3.0,5.5,2.25,2.0
+/match/br/2720625091,Riven,Aatrox,Kayn,Elise,Kassadin,Talon,Zeri,Kai'Sa,Rakan,Twitch,-10206.0,-5.0,-1.0,43 / 40 / 75,40 / 43 / 47,0,2,blue,1.67,1.4,1.11,5.0,0.6,14.0,1.17,3.5,3.33,5.0
+/match/br/2720624153,Teemo,Kled,Jarvan IV,Kha'Zix,Orianna,Vladimir,Miss Fortune,Kai'Sa,Rakan,Milio,-4539.0,-2.0,2.0,29 / 42 / 54,42 / 29 / 65,0,2,red,0.0,2.0,2.75,3.5,1.4,1.0,1.71,2.33,4.33,2.6
+/match/br/2720620194,Gragas,Irelia,Elise,Kha'Zix,Yasuo,Kassadin,Kai'Sa,Xayah,Fiddlesticks,Milio,9953.0,3.0,-1.0,36 / 21 / 48,21 / 36 / 30,2,0,blue,2.0,0.5,10.0,1.75,8.0,1.0,3.25,1.6,4.0,1.4
+/match/br/2720618344,Gnar,Riven,Nocturne,Karthus,Vladimir,Katarina,Kai'Sa,Xayah,Pyke,Nami,-2964.0,-4.0,0.0,44 / 47 / 58,47 / 44 / 71,0,2,red,0.5,1.0,1.8,2.6,3.5,8.0,4.0,1.29,1.5,3.67
+/match/br/2720613906,Gwen,Veigar,Ekko,Talon,Jayce,Shen,Varus,Kai'Sa,Soraka,Pyke,-3279.0,2.0,-2.0,14 / 40 / 14,40 / 14 / 69,1,1,red,0.33,9.0,5.0,3.0,4.0,2.0,0.2,12.0,0.88,3.33
+/match/br/2720616317,Camille,Gangplank,Amumu,Maokai,Twitch,Senna,Jinx,Jhin,Xerath,Aurelion Sol,-2046.0,-2.0,0.0,39 / 34 / 55,34 / 39 / 60,0,2,blue,0.33,5.5,1.67,5.5,8.0,2.0,2.2,2.75,1.6,1.6
+/match/br/2720611920,Pantheon,Kled,Lillia,Gragas,Fizz,Talon,Vayne,Jinx,Milio,Thresh,385.0,-2.0,0.0,34 / 36 / 48,36 / 35 / 61,1,1,red,1.6,1.4,4.5,2.8,1.75,1.75,2.33,1.43,5.0,3.0
+/match/br/2720616154,Camille,K'Sante,Kindred,Diana,Aurelion Sol,Syndra,Xayah,Ezreal,Karma,Yuumi,-930.0,-2.0,-2.0,34 / 37 / 49,37 / 34 / 61,2,0,red,0.5,3.33,3.75,0.88,4.5,1.2,1.33,1.6,6.5,5.5
+/match/br/2720611526,K'Sante,Shen,Viego,Graves,Ahri,Akali,Varus,Jinx,Renata Glasc,Milio,3486.0,2.0,2.0,26 / 39 / 40,39 / 26 / 74,1,1,red,0.5,5.0,1.5,5.0,4.0,0.67,3.0,3.0,1.0,6.0
+/match/br/2720611397,Quinn,K'Sante,Gragas,Fiddlesticks,Vladimir,Galio,Kog'Maw,Ashe,Lulu,Senna,-5404.0,-1.0,-2.0,30 / 41 / 44,41 / 30 / 64,1,1,red,6.0,1.0,2.5,3.67,1.67,1.43,3.67,3.33,1.11,3.25
+/match/br/2720609163,Graves,Camille,Lee Sin,Kayn,Vladimir,Talon,Jinx,Caitlyn,Lux,Sona,5786.0,3.0,1.0,34 / 21 / 41,21 / 34 / 24,1,0,blue,4.0,1.0,4.5,1.75,3.5,3.5,1.5,0.75,1.67,1.25
+/match/br/2720601631,Olaf,Irelia,Fiddlesticks,Kha'Zix,Yone,LeBlanc,Miss Fortune,Rakan,Lulu,Jhin,-4538.0,-1.0,-1.0,40 / 37 / 72,37 / 41 / 55,1,0,blue,1.0,3.0,2.0,6.5,1.0,1.67,1.4,3.0,3.33,2.2
+/match/br/2720604129,Dr. Mundo,Darius,Rammus,Elise,Zed,Jayce,Fiddlesticks,Nilah,Ashe,Taric,-3859.0,-3.0,2.0,23 / 29 / 25,29 / 23 / 47,0,2,red,4.0,0.5,1.25,4.5,6.5,0.83,0.71,4.0,1.67,3.75
+/match/br/2720601348,K'Sante,Pantheon,Karthus,Jinx,Yasuo,Zoe,Ezreal,Kindred,Ashe,Karma,-5190.0,-1.0,-1.0,28 / 45 / 32,43 / 28 / 49,0,2,red,1.6,0.6,1.0,3.17,0.67,17.0,2.75,0.57,1.83,11.0
+/match/br/2720596893,Jax,Zac,Lee Sin,Graves,Lux,Fizz,Xayah,Ezreal,Thresh,Nautilus,-11034.0,-2.0,1.0,17 / 43 / 18,43 / 17 / 49,0,2,red,0.29,11.0,0.8,6.5,0.4,13.0,1.75,3.0,1.25,2.0
+/match/br/2720595908,Shyvana,Jayce,Kha'Zix,Vi,Lux,Kassadin,Ashe,Samira,Milio,Rakan,-4992.0,-1.0,-2.0,23 / 41 / 33,41 / 23 / 51,1,1,red,1.33,0.4,1.0,6.0,3.0,2.0,0.71,10.5,1.0,7.5
+/match/br/2720593705,K'Sante,Aatrox,Vi,Graves,Zed,Akali,Draven,Zeri,Thresh,Lulu,5945.0,2.0,-2.0,44 / 30 / 91,30 / 44 / 37,2,0,blue,6.0,0.4,2.0,4.5,6.0,1.0,1.67,1.67,2.0,8.0
+/match/br/2720589896,Akali,Sion,Olaf,Diana,Tristana,Yasuo,Xayah,Jinx,Janna,Thresh,-5816.0,-2.0,-1.0,22 / 35 / 27,35 / 22 / 57,0,2,red,1.4,10.0,0.67,7.0,4.5,1.0,1.0,3.33,2.5,4.33
+/match/br/2720586595,Pantheon,Nasus,Shaco,Maokai,Viktor,LeBlanc,Jinx,Ezreal,Vel'Koz,Yuumi,3600.0,0.0,0.0,29 / 29 / 16,29 / 29 / 44,1,0,red,2.25,0.29,5.0,1.75,8.0,0.6,2.0,2.75,2.0,3.67
+/match/br/2720581974,Camille,Riven,Gragas,Fiddlesticks,Yasuo,Leona,Amumu,Sivir,Ezreal,Zed,297.0,-1.0,-2.0,41 / 19 / 55,19 / 41 / 18,2,0,blue,9.0,2.0,14.0,2.0,1.0,3.0,1.67,0.88,2.5,0.6
+/match/br/2720581545,Sion,K'Sante,Zac,Lee Sin,Kassadin,Vladimir,Ezreal,Jhin,Zilean,Xerath,3617.0,5.0,-2.0,27 / 24 / 55,24 / 27 / 43,2,0,blue,1.2,1.25,3.67,3.0,10.0,2.0,2.4,6.5,3.33,1.67
+/match/br/2720573264,Yorick,Volibear,Kayn,Kha'Zix,Kassadin,Vex,Caitlyn,Jhin,Zyra,Pantheon,-5415.0,-1.0,-2.0,32 / 46 / 38,46 / 32 / 53,0,2,red,2.5,1.25,1.67,13.0,0.17,9.0,0.67,5.0,0.6,5.0
+/match/br/2720571279,Pantheon,Renekton,Lee Sin,Lillia,Varus,Anivia,Aphelios,Jhin,Lux,Rakan,-5539.0,-1.0,0.0,14 / 28 / 21,28 / 14 / 47,0,2,red,0.33,4.0,7.0,1.0,4.0,1.0,0.6,9.0,1.67,2.67
+/match/br/2720565238,Gangplank,Gwen,Volibear,Lee Sin,Sylas,Yasuo,Xayah,Aphelios,Rakan,Alistar,786.0,0.0,0.0,38 / 37 / 68,37 / 38 / 66,0,1,red,7.0,3.0,1.12,6.5,3.0,2.67,2.75,1.17,7.0,2.2
+/match/br/2720559661,Jax,Maokai,Shaco,Graves,Akali,Annie,Jinx,Zeri,Renata Glasc,Zilean,3635.0,2.0,0.0,35 / 20 / 54,20 / 35 / 35,2,0,blue,4.0,1.0,11.0,4.0,0.8,1.0,3.5,2.0,2.67,2.0
+/match/br/2720558759,Kennen,Teemo,Udyr,Jarvan IV,Yasuo,Vladimir,Jinx,Lucian,Thresh,Senna,4532.0,2.0,0.0,35 / 27 / 50,27 / 35 / 46,1,1,blue,1.67,2.5,4.0,3.25,1.0,5.5,4.67,1.29,2.6,1.5
+/match/br/2720553487,Nasus,Kennen,Gragas,Lee Sin,Yasuo,Zac,Ezreal,Caitlyn,Bard,Senna,6645.0,3.0,1.0,33 / 30 / 43,30 / 33 / 34,1,0,blue,4.0,0.33,3.0,2.4,2.0,1.0,1.5,4.0,1.2,3.67
+/match/br/2720555184,Gragas,Jax,Rek'Sai,Lillia,Anivia,Lissandra,Jinx,Jhin,Thresh,Lux,2661.0,2.0,0.0,37 / 26 / 43,26 / 37 / 32,2,0,blue,4.0,2.5,11.0,6.5,6.0,0.86,1.0,2.4,1.0,1.5
+/match/br/2720552245,Riven,Malphite,Diana,Pantheon,Yasuo,Gragas,Aphelios,Jinx,Thresh,Karma,2439.0,0.0,0.0,33 / 41 / 37,41 / 34 / 62,0,1,red,1.2,4.5,3.75,2.4,1.67,1.5,2.0,1.5,4.33,1.8
+/match/br/2720550615,Fiora,Annie,Jarvan IV,Vi,Morgana,Ahri,Jinx,Xayah,Janna,Rakan,-647.0,1.0,0.0,16 / 30 / 25,30 / 17 / 52,2,0,red,0.0,3.0,5.0,2.0,2.0,2.67,1.29,4.0,2.67,4.0
+/match/br/2720544712,Qiyana,Gwen,Udyr,Graves,Fiora,Lissandra,Zeri,Kai'Sa,Lulu,Blitzcrank,-2976.0,0.0,-2.0,28 / 45 / 43,45 / 28 / 78,1,1,red,1.6,6.0,4.0,5.0,1.25,2.25,2.25,1.5,3.33,1.8
+/match/br/2720546279,Akali,Dr. Mundo,Xin Zhao,Lee Sin,Cassiopeia,Vladimir,Xayah,Aphelios,Bard,Milio,7180.0,3.0,0.0,30 / 12 / 27,12 / 30 / 14,2,0,blue,2.67,1.0,7.0,2.0,1.0,2.0,8.0,0.0,9.0,1.0
+/match/br/2720543300,Annie,Irelia,Sejuani,Diana,Cassiopeia,Yasuo,Xayah,Jinx,Karma,Milio,-8977.0,-4.0,-3.0,23 / 36 / 33,36 / 23 / 54,1,1,red,1.25,2.0,0.71,7.5,0.8,11.0,0.8,2.25,3.0,13.0
+/match/br/2720536498,Camille,K'Sante,Graves,Rek'Sai,Vladimir,Ashe,Lucian,Yone,Milio,Thresh,-2925.0,-2.0,-2.0,27 / 46 / 48,46 / 27 / 86,2,0,red,1.0,0.5,3.0,2.67,1.0,7.0,0.75,2.5,2.0,7.5
+/match/br/2720526379,Teemo,Draven,Sylas,Gragas,Jarvan IV,Lissandra,Varus,Nautilus,Senna,Annie,-1154.0,-1.0,0.0,39 / 47 / 60,47 / 39 / 70,1,1,red,3.0,4.0,1.38,2.2,2.5,2.25,1.75,1.6,4.33,1.33
+/match/br/2720523697,Gnar,Malphite,Gragas,Bel'Veth,Aurelion Sol,Ahri,Xayah,Zeri,Renata Glasc,Rakan,-896.0,0.0,0.0,29 / 37 / 52,37 / 29 / 55,2,0,red,1.33,1.67,3.75,6.0,2.0,4.0,4.0,1.4,1.83,2.33
+/match/br/2720525343,Kled,Poppy,Kayn,Ekko,Syndra,Lux,Zeri,Kog'Maw,Yuumi,Zilean,5841.0,3.0,2.0,26 / 12 / 32,12 / 26 / 18,1,1,blue,2.0,1.67,2.0,3.5,4.0,2.0,2.0,1.6,14.0,0.86
+/match/br/2720514978,Teemo,Malphite,Bel'Veth,Evelynn,Anivia,Tristana,Aphelios,Ezreal,Pyke,Karma,-3040.0,-2.0,-3.0,14 / 28 / 18,28 / 14 / 32,0,2,red,0.25,3.5,1.75,10.0,2.5,2.0,0.4,3.0,0.67,6.0
+/match/br/2720514815,Gragas,Volibear,Camille,Vi,Fizz,Ekko,Ezreal,Kai'Sa,Senna,Amumu,-897.0,0.0,-1.0,20 / 29 / 26,29 / 20 / 35,1,1,red,8.0,6.0,1.33,0.5,1.6,1.0,0.0,9.0,0.75,5.0
+/match/br/2720511203,Illaoi,Riven,Kindred,Gragas,Vladimir,Yasuo,Kai'Sa,Aphelios,Rakan,Senna,2534.0,1.0,-2.0,43 / 43 / 58,43 / 43 / 72,2,0,red,1.25,1.33,2.0,2.5,1.17,1.83,4.67,0.5,5.33,1.75
+/match/br/2720498726,Camille,Darius,Xin Zhao,Bel'Veth,Viktor,Veigar,Ashe,Karthus,Vel'Koz,Milio,4410.0,2.0,2.0,40 / 29 / 49,29 / 41 / 30,2,0,blue,0.83,1.25,4.5,2.33,9.0,0.75,1.12,1.3,2.4,2.5
+/match/br/2720491487,Mordekaiser,Gwen,Jarvan IV,Udyr,Talon,Zed,Varus,Aphelios,Karma,Ashe,-1281.0,-2.0,-2.0,35 / 32 / 40,32 / 35 / 53,0,2,red,1.75,0.83,6.5,2.5,3.67,0.67,5.0,1.0,5.5,0.86
+/match/br/2720483792,Jayce,K'Sante,Viego,Hecarim,Sylas,Zoe,Sivir,Nautilus,Yuumi,Kalista,3063.0,2.0,-2.0,33 / 23 / 63,23 / 33 / 33,2,0,blue,1.0,4.0,2.5,2.75,2.67,3.5,2.25,1.6,3.0,2.0
+/match/br/2720483004,Sett,Malphite,Ekko,Kai'Sa,Qiyana,Talon,Seraphine,Sylas,Milio,Soraka,-383.0,2.0,1.0,32 / 27 / 55,27 / 32 / 43,0,1,blue,0.75,4.0,1.0,2.75,1.5,2.5,1.33,5.0,1.33,10.0
+/match/br/2720476736,Tryndamere,Jax,Gragas,Rengar,Talon,Twisted Fate,Zeri,Xayah,Zyra,Yuumi,-2561.0,-3.0,0.0,20 / 27 / 11,27 / 20 / 34,0,1,red,0.29,1.4,5.0,1.75,2.5,2.5,2.5,4.0,0.5,8.0
+/match/br/2720474519,Alistar,Mordekaiser,Anivia,Karthus,Kayn,Janna,Zeri,Aphelios,Yuumi,Soraka,-3876.0,-3.0,0.0,26 / 13 / 52,13 / 26 / 33,0,2,blue,2.0,1.0,1.0,5.0,1.67,4.0,5.0,1.67,5.0,6.0
+/match/br/2720461973,Cho'Gath,Fiora,Udyr,Jarvan IV,Zed,Galio,Lucian,Caitlyn,Janna,Zoe,-1030.0,0.0,-1.0,24 / 43 / 33,43 / 24 / 85,1,1,red,6.0,1.0,8.0,9.0,0.0,3.0,0.75,7.0,0.4,5.0
+/match/br/2720465043,Malphite,K'Sante,Viego,Hecarim,LeBlanc,Sylas,Caitlyn,Lucian,Alistar,Nami,2838.0,0.0,2.0,20 / 25 / 36,25 / 20 / 35,1,1,red,1.0,2.0,8.0,1.33,6.0,1.5,6.0,1.0,5.5,0.75
+/match/br/2720459342,Renekton,Bel'Veth,Twitch,Sejuani,Katarina,Camille,Aphelios,Nilah,Senna,Yuumi,-1365.0,-1.0,0.0,20 / 32 / 29,32 / 20 / 58,0,2,red,0.8,2.5,3.0,6.5,1.0,4.67,7.0,2.5,1.0,4.33
+/match/br/2720454838,Gnar,Riven,Trundle,Sejuani,Vladimir,Yasuo,Kog'Maw,Zeri,Thresh,Sona,3996.0,0.0,2.0,35 / 18 / 60,18 / 35 / 21,1,1,blue,0.6,5.0,3.0,1.33,1.0,1.25,7.5,1.0,15.0,0.5
+/match/br/2720455391,Yone,Ziggs,Ekko,Viego,Ahri,Akali,Caitlyn,Twitch,Lux,Rakan,-3689.0,-3.0,-2.0,41 / 33 / 68,33 / 41 / 35,1,1,blue,0.5,4.0,1.33,3.5,4.0,3.0,1.33,1.33,3.67,4.0
+/match/br/2720448475,Quinn,Pantheon,Shaco,Amumu,Zed,Lux,Jinx,Samira,Alistar,Thresh,3256.0,3.0,0.0,30 / 19 / 50,19 / 30 / 23,2,0,blue,3.5,0.25,4.5,2.67,1.67,1.0,2.75,2.0,5.5,3.0
+/match/br/2720448217,Gnar,Pantheon,Jarvan IV,Kha'Zix,Taliyah,Kassadin,Twitch,Jinx,Milio,Senna,-6883.0,0.0,-2.0,14 / 30 / 14,30 / 14 / 21,0,1,red,0.5,2.33,1.25,4.5,0.6,1.0,4.0,1.0,3.0,5.0
+/match/br/2720445402,Dr. Mundo,Yasuo,Kindred,Maokai,Katarina,Malphite,Karthus,Jhin,Lulu,Swain,1647.0,2.0,2.0,33 / 28 / 69,27 / 33 / 52,0,2,blue,0.83,2.0,1.6,4.0,3.5,4.5,5.0,4.5,2.67,3.0
+/match/br/2720437253,Akshan,Malphite,Lee Sin,Vi,Cassiopeia,Akali,Samira,Xayah,Seraphine,Bard,1896.0,-1.0,-2.0,30 / 48 / 56,48 / 30 / 87,1,1,red,2.67,7.5,2.6,3.67,1.5,2.33,2.0,1.2,2.0,1.67
+/match/br/2720434204,Malphite,K'Sante,Kayn,Ivern,Anivia,Viktor,Ezreal,Lucian,Xerath,Nami,6239.0,4.0,-2.0,35 / 22 / 36,22 / 35 / 30,2,0,blue,4.0,3.0,2.6,3.0,1.5,1.0,2.25,1.83,1.2,2.4
+/match/br/2720430759,Urgot,Sion,Lee Sin,Twitch,Viktor,Syndra,Samira,Jinx,Leona,Senna,5011.0,1.0,3.0,37 / 34 / 51,34 / 37 / 62,1,0,blue,1.0,2.33,1.8,2.25,2.5,1.67,2.5,1.25,4.5,2.0
+/match/br/2720431117,K'Sante,Nasus,Kayn,Wukong,Sylas,Fizz,Zeri,Xayah,Morgana,Rakan,2336.0,1.0,0.0,24 / 36 / 37,36 / 24 / 57,1,1,red,0.25,3.0,6.0,2.33,5.0,1.25,1.14,2.8,2.6,3.5
+/match/br/2720419938,Jax,Aurelion Sol,Fiddlesticks,Rek'Sai,Gangplank,Yuumi,Jhin,Kled,Seraphine,Ezreal,3022.0,0.0,1.0,38 / 32 / 59,32 / 38 / 42,2,0,red,2.0,0.8,10.0,1.0,1.75,4.0,1.25,2.33,1.0,9.0
+/match/br/2720417257,Warwick,Lillia,Jarvan IV,Tristana,Ahri,Rek'Sai,Jinx,Caitlyn,Milio,Janna,-4159.0,-4.0,-3.0,25 / 27 / 44,27 / 26 / 58,0,2,red,1.5,1.25,2.33,3.67,6.0,0.5,2.0,4.5,2.0,8.0
+/match/br/2720415301,Jinx,Zac,Graves,Kayn,Lux,Rumble,Pantheon,Aphelios,Thresh,Nautilus,-10670.0,-5.0,-2.0,21 / 41 / 31,41 / 21 / 52,1,1,red,0.86,5.67,2.5,3.0,1.0,3.33,0.71,13.0,1.0,3.5
+/match/br/2720405540,Gangplank,Malphite,Jarvan IV,Karthus,Lissandra,Ahri,Zeri,Samira,Galio,Rell,-641.0,-2.0,-2.0,24 / 37 / 38,37 / 24 / 65,1,1,red,0.5,11.0,2.2,4.33,3.33,1.2,1.2,2.4,1.25,6.5
+/match/br/2720399658,Camille,Gwen,Varus,Shaco,Lux,Yasuo,Lee Sin,Xayah,Sona,Bard,-2971.0,-3.0,2.0,29 / 12 / 54,12 / 29 / 16,0,2,blue,3.0,1.5,1.0,1.0,8.0,0.6,3.0,2.5,7.0,7.0
+/match/br/2720392011,Mordekaiser,Sylas,Viego,Bel'Veth,Veigar,Azir,Ezreal,Jinx,Karma,Milio,-1463.0,-3.0,2.0,19 / 31 / 27,31 / 19 / 45,0,2,red,3.0,4.0,1.25,2.33,0.4,6.0,2.5,2.0,3.0,6.0
+/match/br/2720382105,Warwick,Kennen,Kayn,Kha'Zix,Qiyana,Jayce,Jinx,Xayah,Milio,Rakan,-6448.0,-4.0,-2.0,30 / 44 / 49,44 / 31 / 68,0,2,red,3.0,2.5,0.3,2.67,0.33,5.33,2.33,5.5,1.75,6.0
+/match/br/2720376277,Kled,Lulu,Karthus,Hecarim,Yasuo,Vayne,Lucian,Renekton,Rakan,Lissandra,4089.0,3.0,1.0,45 / 35 / 92,35 / 45 / 48,2,0,blue,0.33,2.0,7.5,2.0,1.2,1.75,11.0,1.5,3.0,4.0
+/match/br/2720365650,Shen,K'Sante,Shaco,Viego,Yuumi,Veigar,Zeri,Jinx,Ahri,Nautilus,2247.0,-1.0,-1.0,34 / 17 / 75,17 / 34 / 29,0,2,blue,1.0,7.0,3.33,0.8,11.0,0.4,9.0,0.25,3.5,4.0
+/match/br/2720364881,Rammus,Warwick,Udyr,Kha'Zix,Ziggs,Anivia,Caitlyn,Sivir,Lux,Karma,-2403.0,0.0,2.0,26 / 32 / 40,31 / 26 / 45,0,2,red,1.5,3.0,2.33,5.0,2.0,0.8,5.0,0.5,5.0,0.25
+/match/br/2720367174,Darius,Jayce,Xin Zhao,Karthus,Kassadin,Lee Sin,Jinx,Samira,Zilean,Bard,370.0,1.0,-3.0,53 / 31 / 73,31 / 53 / 39,2,0,blue,1.25,1.0,4.5,3.0,3.0,0.57,1.57,2.0,3.25,2.2
+/match/br/2720364459,Xin Zhao,Shen,Master Yi,Vi,Zoe,Aurelion Sol,Veigar,Jinx,Tahm Kench,Lulu,7687.0,5.0,-1.0,37 / 23 / 52,23 / 37 / 44,2,0,blue,10.0,1.2,5.33,2.0,1.25,2.0,2.0,2.67,2.0,2.0
+/match/br/2720362253,Gragas,Vladimir,Lee Sin,Viego,Irelia,Jayce,Xayah,Jinx,Nautilus,Rakan,10990.0,6.0,2.0,34 / 15 / 52,15 / 34 / 23,1,1,blue,6.5,0.56,7.5,1.5,2.0,1.0,12.0,0.6,4.0,0.6
+/match/br/2720355966,Nasus,Yone,Viego,Vi,Ziggs,Fizz,Ezreal,Jhin,Bard,Senna,-5754.0,-3.0,-3.0,18 / 34 / 36,34 / 18 / 54,0,2,red,2.0,1.0,4.5,2.0,2.33,1.33,2.0,2.5,1.67,1.0
+/match/br/2720356474,Gnar,Aatrox,Kha'Zix,Sylas,Anivia,Viego,Seraphine,Ezreal,Thresh,Karma,-1432.0,-1.0,-3.0,22 / 35 / 30,35 / 22 / 57,1,1,red,1.4,2.0,1.6,2.0,1.75,4.33,2.0,2.0,2.0,6.0
+/match/br/2720356438,Shen,Pantheon,Kindred,Rek'Sai,Lissandra,Katarina,Xayah,Kai'Sa,Vel'Koz,Braum,2254.0,-2.0,0.0,57 / 36 / 97,36 / 57 / 41,1,0,blue,2.8,2.2,1.71,0.78,2.5,1.8,13.0,1.67,3.25,2.25
+/match/br/2720356148,Jayce,Irelia,Poppy,Olaf,Viktor,Gragas,Jinx,Sivir,Thresh,Sona,3099.0,2.0,0.0,33 / 15 / 36,15 / 33 / 16,1,1,blue,0.86,1.14,3.67,4.0,7.0,1.0,3.5,2.0,2.0,2.0
+/match/br/2720561324,Illaoi,Gangplank,Sejuani,Ekko,Veigar,Yasuo,Ezreal,Jinx,Milio,Thresh,-4562.0,-2.0,-2.0,18 / 28 / 25,28 / 18 / 31,2,0,red,2.5,0.0,8.0,7.0,2.0,0.5,0.5,3.0,5.0,0.33
+/match/br/2720545871,Riven,Kled,Nidalee,Hecarim,Qiyana,Syndra,Ashe,Vayne,Senna,Lulu,-2189.0,-2.0,2.0,26 / 37 / 32,37 / 26 / 60,0,2,red,0.33,4.0,2.67,1.6,6.0,1.0,0.8,3.0,1.67,3.5
+/match/br/2720531073,Riven,Illaoi,Ekko,Nidalee,Yasuo,Syndra,Nilah,Vayne,Soraka,Nautilus,-1064.0,0.0,-2.0,20 / 37 / 23,37 / 20 / 56,2,0,red,3.0,1.67,1.0,5.0,4.0,3.5,0.75,6.0,1.0,2.75
+/match/br/2721474330,Kayle,Talon,Jax,Udyr,Vladimir,Janna,Ezreal,Nasus,Karma,Zeri,-5700.0,-1.0,1.0,14 / 28 / 14,28 / 14 / 35,0,2,red,0.0,6.0,2.0,4.5,1.33,3.0,1.67,1.5,2.5,1.67
+/match/br/2720349048,Kled,Renekton,Elise,Ezreal,Yasuo,Ekko,Lux,Yone,Senna,Soraka,-597.0,-1.0,-1.0,25 / 37 / 26,37 / 25 / 44,2,0,red,2.0,1.5,8.0,10.0,0.25,2.0,3.0,1.2,0.6,4.0
+/match/br/2720333423,K'Sante,Fiora,Kha'Zix,Lee Sin,Fizz,Ahri,Jinx,Aphelios,Milio,Thresh,-2550.0,1.0,-1.0,31 / 34 / 55,34 / 31 / 58,1,1,blue,4.0,1.0,2.4,4.67,2.0,4.33,2.17,2.4,3.25,2.0
+/match/br/2720311738,Warwick,Aatrox,Ahri,Viego,Nocturne,Qiyana,Aphelios,Xayah,Zilean,Sona,-4605.0,-2.0,-2.0,32 / 33 / 30,33 / 32 / 45,1,1,red,1.33,1.25,1.8,0.86,2.0,2.67,0.5,3.0,2.0,3.0
+/match/br/2720301800,Fiora,Gragas,Karthus,Sylas,Lux,Ahri,Jinx,Miss Fortune,Thresh,Twitch,-1074.0,0.0,2.0,42 / 46 / 67,46 / 42 / 47,0,1,blue,0.6,4.5,2.5,4.25,1.5,7.0,1.22,1.0,3.25,1.86
+/match/br/2720294876,Vladimir,Camille,Jarvan IV,Rengar,Veigar,Kassadin,Samira,Seraphine,Rell,Sona,-3605.0,-1.0,2.0,25 / 47 / 42,47 / 25 / 86,0,2,red,0.83,5.67,2.0,6.33,2.0,2.33,1.25,3.5,1.29,3.75
+/match/br/2720289914,Aatrox,Olaf,Lee Sin,Viego,Nautilus,Ahri,Jinx,Aphelios,Thresh,Lulu,-2376.0,-1.0,0.0,24 / 30 / 44,30 / 24 / 54,0,2,red,7.0,1.5,3.25,2.0,1.6,3.25,2.0,5.5,1.5,2.67
+/match/br/2720292322,Elise,Renekton,Kled,Wukong,Yasuo,Fiora,Samira,Nami,Yuumi,Vayne,-2957.0,-1.0,-2.0,20 / 34 / 32,34 / 20 / 55,1,1,red,3.0,9.0,3.5,3.0,0.5,2.0,1.4,1.67,4.5,3.0
+/match/br/2720282369,Illaoi,Darius,Fiddlesticks,Shyvana,Katarina,Gragas,Kai'Sa,Xayah,Rakan,Alistar,4660.0,1.0,-2.0,50 / 24 / 62,24 / 50 / 23,2,0,blue,0.83,0.8,9.0,1.67,1.6,2.0,13.0,0.17,13.0,0.29
+/match/br/2720272817,Kennen,Udyr,Viego,Lee Sin,Lux,Syndra,Jinx,Xayah,Pyke,Rakan,8374.0,2.0,3.0,46 / 31 / 61,31 / 46 / 49,2,0,blue,2.25,1.57,3.0,1.11,6.33,1.33,2.0,1.75,3.0,4.0
+/match/br/2720270112,K'Sante,Viktor,Ekko,Fiora,Vladimir,Vayne,Zeri,Lee Sin,Yuumi,Lulu,592.0,0.0,0.0,29 / 10 / 54,10 / 29 / 14,1,0,blue,1.0,1.33,4.5,1.0,8.0,0.5,1.0,2.0,1.0,2.0
+/match/br/2720243842,Malphite,Gwen,Wukong,Hecarim,Syndra,Lulu,Zeri,Jinx,Pyke,Gragas,-1628.0,-4.0,-2.0,30 / 42 / 47,42 / 30 / 62,1,1,red,2.5,1.4,1.29,4.75,1.25,3.25,3.33,3.33,1.0,3.75
+/match/br/2720241137,Jax,K'Sante,Viego,Xin Zhao,Ahri,Taliyah,Aphelios,Jinx,Rakan,Thresh,-2648.0,-1.0,0.0,24 / 31 / 38,31 / 24 / 70,1,1,red,0.5,4.5,1.25,5.0,10.0,1.67,5.0,1.6,2.0,3.0
+/match/br/2720229747,Fiora,Jax,Lee Sin,Kha'Zix,Fizz,LeBlanc,Xayah,Ezreal,Rakan,Heimerdinger,1483.0,0.0,-2.0,39 / 25 / 51,25 / 39 / 28,2,0,blue,3.5,0.25,3.5,1.5,1.0,3.0,1.75,2.0,2.33,2.5
+/match/br/2720230547,Aatrox,Shen,Fiddlesticks,Jarvan IV,Qiyana,Zeri,Jinx,Xayah,Thresh,Rakan,462.0,0.0,0.0,40 / 25 / 81,25 / 40 / 50,1,1,blue,1.5,2.0,1.67,2.4,6.5,1.67,4.0,2.75,4.0,2.75
+/match/br/2720205970,Shen,Gragas,Nidalee,Kindred,Qiyana,K'Sante,Aphelios,Jinx,Thresh,Maokai,7337.0,0.0,2.0,48 / 20 / 84,20 / 48 / 30,1,1,blue,1.75,1.0,4.33,1.25,11.0,2.0,4.0,2.0,5.33,1.0
+/match/br/2720205680,Bel'Veth,K'Sante,Leona,Kha'Zix,Zed,Zac,Draven,Zeri,Karthus,Janna,3783.0,1.0,1.0,29 / 17 / 51,17 / 29 / 41,2,0,blue,5.0,0.67,3.5,1.75,9.0,2.5,3.0,2.0,2.67,2.0
+/match/br/2720160327,Yorick,Irelia,Kayn,Jarvan IV,Akali,Cho'Gath,Ashe,Jinx,Milio,Zoe,4627.0,3.0,0.0,40 / 24 / 65,24 / 40 / 32,0,2,blue,6.0,0.2,6.0,2.75,2.43,1.29,5.5,1.67,13.0,0.6
+/match/br/2720162027,Shen,Xin Zhao,Hecarim,Kha'Zix,Akali,Sylas,Zeri,Ezreal,Yuumi,Heimerdinger,-7083.0,-3.0,-2.0,22 / 34 / 41,34 / 22 / 46,0,2,red,3.5,4.0,1.0,3.0,0.67,1.4,2.75,2.33,6.0,4.0
+/match/br/2720145587,Gragas,Udyr,Kai'Sa,Bel'Veth,Aurelion Sol,Malzahar,Varus,Xayah,Thresh,Seraphine,-114.0,-4.0,-1.0,24 / 37 / 47,37 / 24 / 71,0,2,red,1.0,4.0,1.67,6.5,2.33,0.75,2.0,2.75,1.67,6.5
+/match/br/2720140258,Irelia,Jayce,Poppy,Talon,Akali,Ahri,Zeri,Varus,Karthus,Senna,2650.0,1.0,0.0,54 / 42 / 51,42 / 55 / 49,2,0,blue,3.5,0.57,2.75,1.71,3.5,3.0,1.71,1.57,1.25,2.0
+/match/br/2720105487,Poppy,Jayce,Gragas,Bel'Veth,Yone,Taliyah,Xayah,Tristana,Rakan,Leona,-4137.0,-4.0,2.0,41 / 22 / 75,22 / 41 / 27,1,1,blue,1.0,3.5,3.25,1.0,1.83,4.5,6.0,0.75,15.0,1.0
+/match/br/2720099817,Quinn,Aurelion Sol,Ekko,Bel'Veth,Taliyah,Sylas,Ashe,Xayah,Braum,Rakan,-3463.0,-2.0,-1.0,14 / 31 / 30,30 / 14 / 60,0,2,red,0.0,5.0,1.14,12.0,3.0,2.0,1.25,4.5,3.5,2.2
+/match/br/2720100473,Pyke,Olaf,Sylas,Kayn,Anivia,Vladimir,Gnar,Ezreal,Taric,Lux,1714.0,2.0,2.0,22 / 31 / 35,31 / 22 / 52,1,1,red,9.0,0.14,6.0,2.67,1.5,2.5,1.0,3.0,10.0,3.5
+/match/br/2720089589,Renekton,Jax,Evelynn,Talon,Qiyana,Lissandra,Caitlyn,Jinx,Karma,Seraphine,6927.0,4.0,-1.0,30 / 14 / 36,14 / 30 / 18,2,0,blue,3.0,1.5,2.5,0.25,6.0,1.0,1.0,1.0,1.0,3.0
+/match/br/2720079627,Riven,Xin Zhao,Viego,Vi,Yuumi,Ahri,Caitlyn,Ashe,Katarina,Karma,-4073.0,-1.0,2.0,26 / 38 / 49,38 / 26 / 83,1,1,red,0.38,4.33,2.0,2.75,12.0,4.67,2.2,2.2,2.0,11.0
+/match/br/2720076019,Anivia,Quinn,Talon,Vi,LeBlanc,Katarina,Vayne,Ezreal,Rakan,Morgana,-3178.0,-3.0,1.0,35 / 26 / 53,26 / 35 / 41,1,1,blue,4.5,1.4,1.75,4.33,1.25,0.8,1.2,4.33,1.5,12.0
+/match/br/2720069129,Renekton,Gwen,Rek'Sai,Kindred,Gragas,Akshan,Sivir,Samira,Lulu,Pyke,-9696.0,-4.0,-3.0,20 / 34 / 29,34 / 20 / 42,1,1,red,4.0,1.5,1.5,12.0,0.75,5.0,1.0,3.0,0.71,5.0
+/match/br/2720063951,Yasuo,Jayce,Elise,Jarvan IV,Renekton,Katarina,Samira,Jinx,Nautilus,Taric,5790.0,3.0,-2.0,24 / 33 / 27,33 / 24 / 76,2,0,red,2.33,0.6,2.67,2.0,6.0,2.0,1.0,10.0,1.25,4.5
+/match/br/2720063706,Camille,Renekton,Bel'Veth,Nidalee,Ahri,Vex,Caitlyn,Jinx,Lux,Pyke,-9763.0,-3.0,-2.0,25 / 43 / 31,43 / 25 / 44,1,0,red,0.25,2.5,1.6,5.0,1.75,2.75,0.62,6.0,1.0,3.0
+/match/br/2720062281,Kled,Lissandra,Taliyah,Udyr,Ahri,Kayle,Caitlyn,Tristana,Soraka,Lulu,3190.0,1.0,-2.0,42 / 38 / 58,38 / 42 / 47,2,0,red,1.67,1.67,7.5,1.6,3.5,3.5,1.33,1.8,2.0,1.17
+/match/br/2720050679,Vladimir,Bel'Veth,Jarvan IV,Maokai,Cassiopeia,Ahri,Kalista,Aphelios,Blitzcrank,Thresh,-3649.0,-3.0,0.0,33 / 43 / 66,43 / 34 / 93,1,1,red,2.0,2.25,2.0,5.5,2.75,7.0,3.25,2.83,3.0,2.8
+/match/br/2720049179,Camille,Jax,Zed,Poppy,Azir,Malzahar,Zeri,Jinx,Lulu,Heimerdinger,-3572.0,-2.0,2.0,22 / 38 / 23,38 / 22 / 52,0,2,red,2.0,0.2,1.0,6.0,0.57,4.67,1.0,4.5,1.75,3.67
+/match/br/2720044977,K'Sante,Jayce,Pantheon,Kha'Zix,Akali,Ahri,Xayah,Vayne,Bard,Lulu,883.0,2.0,1.0,29 / 35 / 39,35 / 29 / 50,1,1,red,12.0,0.83,2.4,1.5,0.86,4.33,3.5,2.33,7.5,2.5
+/match/br/2720035444,Renekton,Akali,Wukong,Vi,Taliyah,Aurelion Sol,Xayah,Zeri,Leona,Rakan,7624.0,3.0,1.0,44 / 20 / 74,20 / 44 / 33,2,0,blue,4.0,0.33,5.5,1.8,14.0,0.8,2.0,3.67,2.6,2.67
+/match/br/2720035212,Nasus,Lissandra,Hecarim,Udyr,Fizz,Kayle,Seraphine,Tristana,Lux,Lulu,-828.0,-1.0,-1.0,25 / 32 / 35,32 / 25 / 46,1,1,red,3.5,1.67,2.67,1.33,2.75,1.75,1.75,2.75,1.2,3.25
+/match/br/2720025978,Sion,Riven,Lillia,Udyr,Talon,Zac,Sivir,Karthus,Bard,Milio,9647.0,4.0,0.0,44 / 24 / 55,23 / 44 / 35,2,0,blue,1.5,1.25,9.0,0.88,2.25,1.0,1.75,1.6,3.0,1.75
+/match/br/2720026746,Malphite,Vladimir,Trundle,Kai'Sa,Aurelion Sol,Rammus,Xayah,Jinx,Rakan,Thresh,-4851.0,-3.0,0.0,27 / 21 / 68,21 / 27 / 38,0,2,blue,0.25,5.0,3.5,10.0,8.0,10.0,1.75,2.0,1.67,3.25
+/match/br/2720015304,Gwen,Sion,Graves,Jarvan IV,Lux,Aurelion Sol,Jinx,Twitch,Milio,Alistar,8096.0,2.0,2.0,34 / 16 / 69,16 / 34 / 26,1,1,blue,3.0,1.67,6.5,2.25,16.0,0.67,2.5,2.0,9.0,0.8
+/match/br/2720008259,Riven,Karthus,Kayn,Graves,Singed,Karma,Zeri,Xayah,Milio,Lux,5662.0,3.0,-2.0,36 / 15 / 53,15 / 36 / 24,2,0,blue,1.67,1.0,4.0,3.5,2.5,4.0,2.0,2.67,11.0,1.14
+/match/br/2720005362,Akshan,Malphite,Rek'Sai,Kha'Zix,Cassiopeia,Taliyah,Xayah,Jinx,Rakan,Thresh,3107.0,1.0,1.0,30 / 17 / 40,17 / 30 / 22,2,0,blue,0.5,5.0,3.33,1.0,4.5,1.4,2.5,1.5,8.0,2.33
+/match/br/2719950877,Riven,Teemo,Udyr,Jarvan IV,Fizz,Talon,Ahri,Vayne,Ashe,Soraka,-2133.0,-1.0,0.0,29 / 32 / 48,32 / 29 / 42,1,1,red,1.75,1.0,5.5,2.0,4.5,4.5,2.0,3.33,1.8,2.67
+/match/br/2719941862,Kennen,Yorick,Kog'Maw,Udyr,Sylas,Ryze,Tristana,Jinx,Yuumi,Rakan,-5507.0,-2.0,2.0,16 / 28 / 26,28 / 16 / 46,0,2,red,1.2,1.67,1.5,3.0,3.0,3.5,1.5,5.0,0.67,10.0
+/match/br/2719946064,Olaf,Jayce,Master Yi,Kindred,Ornn,Zed,Vayne,Zeri,Lulu,Soraka,-775.0,0.0,2.0,40 / 29 / 59,29 / 40 / 38,1,1,blue,6.0,1.0,6.0,1.67,1.2,1.67,3.0,2.0,5.0,1.2
+/match/br/2719935475,Darius,Riven,Graves,Rek'Sai,Aurelion Sol,Jayce,Jinx,Karthus,Thresh,Blitzcrank,-8609.0,-3.0,0.0,29 / 48 / 54,48 / 29 / 69,0,2,red,0.83,3.5,1.57,3.5,2.8,3.0,2.5,4.0,1.86,2.33
+/match/br/2719922579,Sion,Lillia,Wukong,Lee Sin,Irelia,Yasuo,Soraka,Zoe,Sona,Zyra,-1627.0,1.0,-2.0,28 / 22 / 58,22 / 28 / 28,2,0,blue,1.67,2.25,1.6,2.0,2.75,1.75,4.0,4.0,4.0,2.0
+/match/br/2719918215,Yasuo,Fiora,Ivern,Karthus,Sylas,Viego,Thresh,Ezreal,Jinx,Taric,-844.0,0.0,-2.0,38 / 30 / 59,30 / 38 / 42,2,0,blue,1.5,1.0,3.5,4.5,2.0,1.5,2.75,3.0,0.4,4.67
+/match/br/2719909996,Gragas,Nami,Milio,Vi,Kog'Maw,Diana,Viktor,Jinx,Shen,Darius,-5828.0,-3.0,-2.0,16 / 22 / 33,22 / 16 / 48,0,2,red,3.0,5.0,3.0,2.5,2.0,2.5,2.33,5.0,5.0,2.0
+/match/br/2719907653,Gwen,Azir,Graves,Wukong,Vladimir,Zac,Jinx,Twitch,Lulu,Yuumi,1723.0,1.0,-2.0,29 / 27 / 56,27 / 29 / 37,2,0,blue,0.25,1.5,1.5,8.0,4.0,3.33,4.0,2.0,1.0,2.0
+/match/br/2719900392,Malphite,Sylas,Vi,Hecarim,Rumble,Jayce,Xayah,Karthus,Thresh,Maokai,-7716.0,-7.0,-2.0,30 / 40 / 47,40 / 30 / 53,0,2,red,1.0,2.0,2.33,8.5,0.14,2.0,2.25,2.8,7.0,3.0
+/match/br/2719890629,Nasus,Garen,Shaco,Gragas,Vex,Qiyana,Jinx,Ashe,Taric,Milio,6680.0,3.0,2.0,33 / 35 / 41,35 / 33 / 48,2,0,red,0.75,1.5,17.0,3.25,2.25,1.5,4.0,0.71,4.33,1.33
+/match/br/2719873903,Malphite,Gnar,Maokai,Vi,Zeri,Sylas,Ahri,Ezreal,Seraphine,Sona,-259.0,-1.0,3.0,21 / 23 / 46,23 / 21 / 40,0,2,red,5.0,1.5,3.67,0.6,3.5,2.0,1.0,3.0,13.0,1.0
+/match/br/2719870970,K'Sante,Gwen,Maokai,Vi,Lissandra,Viego,Jinx,Ezreal,Milio,Blitzcrank,7124.0,3.0,-1.0,37 / 18 / 73,18 / 37 / 30,1,1,blue,6.0,0.0,3.0,1.33,6.5,1.4,4.25,3.0,9.0,1.5
+/match/br/2719865156,Gwen,K'Sante,Lee Sin,Zac,Irelia,Akali,Ezreal,Zeri,Pyke,Taric,8647.0,4.0,1.0,37 / 29 / 57,29 / 37 / 47,2,0,blue,2.67,1.33,2.0,2.25,2.0,2.0,3.5,1.5,3.67,1.83
+/match/br/2719850564,Malphite,Aurelion Sol,Lee Sin,Ivern,Veigar,Katarina,Lucian,Aphelios,Sona,Nami,-4254.0,-2.0,-2.0,22 / 31 / 39,31 / 22 / 57,1,1,red,6.0,2.67,11.0,4.5,0.5,0.5,2.0,0.83,2.5,4.5
+/match/br/2719833333,K'Sante,Kled,Graves,Kayn,Vladimir,Annie,Zeri,Karthus,Thresh,Maokai,-3701.0,-2.0,0.0,29 / 40 / 51,40 / 29 / 60,0,2,red,0.38,4.33,2.4,14.0,3.33,11.0,1.75,0.8,2.67,0.57
+/match/br/2719828822,Kayle,Vayne,Elise,Katarina,Lux,Tryndamere,Nilah,Yuumi,Janna,Jarvan IV,7686.0,4.0,1.0,31 / 16 / 58,16 / 31 / 26,2,0,blue,2.25,1.25,16.0,1.25,1.33,1.0,9.0,0.33,10.0,0.67
+/match/br/2719804309,Gragas,Gnar,Poppy,Lillia,Zed,Sion,Kai'Sa,Samira,Rakan,Lulu,-1329.0,0.0,-2.0,22 / 32 / 31,32 / 22 / 65,2,0,red,2.0,4.0,4.5,3.0,1.0,2.0,2.67,3.0,1.6,2.75
+/match/br/2719803118,Tryndamere,Viktor,Rengar,Kayn,Talon,Aatrox,Karthus,Xayah,Lux,Twitch,8468.0,3.0,0.0,48 / 20 / 45,20 / 48 / 20,2,0,blue,9.0,0.0,3.25,1.33,2.33,1.33,2.0,3.0,8.5,0.7
+/match/br/2719783036,Gragas,Darius,Rek'Sai,Lillia,Galio,Yasuo,Zeri,Jinx,Zilean,Nautilus,-139.0,-1.0,-2.0,38 / 22 / 70,22 / 38 / 29,2,0,blue,2.0,0.5,2.75,3.5,11.0,0.43,2.0,2.0,1.25,4.5
+/match/br/2719757552,Jhin,Varus,Tryndamere,Elise,Cho'Gath,Renekton,Sona,Yuumi,Sylas,Veigar,2499.0,3.0,0.0,29 / 19 / 54,19 / 29 / 31,2,0,blue,0.6,3.5,3.0,1.4,4.0,6.0,3.0,9.0,1.4,4.0
+/match/br/2719743898,Warwick,Illaoi,Graves,Vi,LeBlanc,Seraphine,Zeri,Aphelios,Nautilus,Senna,3671.0,2.0,0.0,36 / 38 / 58,38 / 36 / 75,2,0,red,0.67,2.0,2.75,1.5,8.0,1.0,3.0,2.2,3.0,1.44
+/match/br/2719740461,Aurelion Sol,Yone,Hecarim,Wukong,Zed,Gwen,Kai'Sa,Jinx,Blitzcrank,Milio,-2649.0,-3.0,2.0,27 / 27 / 43,27 / 27 / 38,0,2,red,4.0,1.67,3.0,1.67,0.67,4.0,7.0,1.33,2.33,2.0
+/match/br/2719741251,Gnar,Jayce,Nidalee,Kha'Zix,Zed,Karthus,Lucian,Samira,Nami,Yuumi,3206.0,1.0,1.0,35 / 39 / 37,39 / 35 / 51,2,0,red,1.0,1.0,3.33,1.43,2.5,1.33,2.0,2.0,3.0,1.4
+/match/br/2719731954,Kennen,Dr. Mundo,Lee Sin,Kayn,LeBlanc,Seraphine,Caitlyn,Akshan,Lux,Milio,13490.0,5.0,2.0,38 / 14 / 49,14 / 38 / 17,2,0,blue,5.0,0.0,11.0,0.75,6.0,0.75,5.5,0.4,6.0,0.67
+/match/br/2719713192,Shen,Illaoi,Lee Sin,Annie,Thresh,Viego,Jinx,Zeri,Pyke,Tahm Kench,3128.0,-1.0,-3.0,36 / 21 / 70,21 / 36 / 28,0,1,blue,4.5,0.67,1.83,2.0,3.75,2.0,8.0,1.5,13.0,2.33
+/match/br/2719705758,Riven,Poppy,Kayn,Kindred,Orianna,Lux,Seraphine,Xayah,Rakan,Pyke,-11119.0,-4.0,-2.0,13 / 36 / 16,36 / 13 / 51,0,2,red,0.14,10.0,0.86,4.0,2.0,5.0,1.0,3.67,2.25,3.0
+/match/br/2719704103,Aatrox,Udyr,Hecarim,Kennen,Katarina,Ahri,Seraphine,Xayah,Milio,Yuumi,-6577.0,-3.0,-2.0,13 / 24 / 25,24 / 13 / 42,0,2,red,1.67,8.0,0.6,10.0,1.33,1.33,2.0,4.5,2.0,10.0
+/match/br/2719694819,Heimerdinger,Malphite,Jarvan IV,Ekko,Annie,Akali,Ezreal,Jinx,Senna,Milio,8701.0,4.0,2.0,26 / 11 / 47,11 / 26 / 16,1,0,blue,0.0,3.0,12.0,1.0,4.5,0.8,2.5,0.75,3.0,4.0
+/match/br/2719690704,Renekton,Fiora,Rek'Sai,Rengar,Lux,Yone,Xayah,Karthus,Rakan,Heimerdinger,1137.0,2.0,-2.0,47 / 30 / 61,30 / 47 / 32,2,0,blue,2.25,0.56,1.67,3.33,1.17,2.5,2.0,1.44,3.75,4.25
+/match/br/2719692590,Kennen,Vladimir,Wukong,Jarvan IV,Yone,Cassiopeia,Zeri,Xayah,Pyke,Lulu,5500.0,3.0,-2.0,44 / 38 / 63,38 / 44 / 58,1,0,blue,2.0,1.0,3.25,2.25,1.5,1.8,2.25,1.8,7.0,1.5
+/match/br/2719683683,Ornn,Shen,Lillia,Sejuani,Sett,Irelia,Nilah,Varus,Soraka,Thresh,-9233.0,-7.0,-2.0,13 / 35 / 21,35 / 13 / 60,0,2,red,0.8,12.0,0.4,5.5,0.8,2.4,0.8,11.0,0.75,11.0
+/match/br/2719684001,Malphite,Riven,Rengar,Nunu & Willump,Anivia,Ahri,Vayne,Sivir,Pyke,Rakan,6315.0,4.0,3.0,40 / 22 / 50,21 / 40 / 34,2,0,blue,3.33,0.5,12.0,1.8,1.0,2.5,4.0,0.75,3.0,1.0
+/match/br/2719669701,Vayne,Fiora,Zac,Graves,Annie,Rumble,Rakan,Ashe,Seraphine,Lulu,5542.0,3.0,0.0,32 / 16 / 57,16 / 32 / 30,1,1,blue,2.5,0.67,2.33,2.33,4.0,1.25,4.5,3.0,10.0,1.5
+/match/br/2719664119,Gnar,Jax,Ekko,Kindred,Irelia,Ahri,Anivia,Sivir,Pyke,Leona,-1066.0,1.0,-2.0,23 / 33 / 25,33 / 23 / 49,0,2,red,1.0,2.67,10.0,1.0,2.25,4.5,6.0,2.75,0.86,2.5
+/match/br/2719659059,Quinn,Malphite,Fiddlesticks,Gragas,Pantheon,Talon,Ezreal,Samira,Twitch,Rell,-1078.0,0.0,-2.0,45 / 58 / 73,58 / 45 / 82,1,0,red,1.29,1.0,3.25,2.25,6.5,1.33,4.0,1.86,1.56,3.5
+/match/br/2719645761,Gwen,Gnar,Vi,Lee Sin,Jayce,Camille,Karthus,Jhin,Yuumi,Annie,-10472.0,-4.0,-2.0,18 / 46 / 25,46 / 18 / 74,0,2,red,0.5,1.67,1.17,9.0,2.33,3.0,0.38,15.0,0.67,6.0
+/match/br/2719641697,Warwick,Wukong,Sylas,Shen,Ahri,Akshan,Zeri,Seraphine,Ashe,Senna,-592.0,1.0,-2.0,26 / 36 / 54,36 / 26 / 70,1,0,red,0.33,4.0,2.5,6.0,0.67,3.5,1.25,3.5,1.67,4.5
+/match/br/2719624881,Akali,Darius,Viego,Wukong,Malzahar,Karma,Samira,Jinx,Amumu,Ahri,7181.0,3.0,-1.0,41 / 20 / 57,19 / 41 / 27,2,0,blue,9.0,0.2,7.0,0.6,10.0,0.8,1.0,1.5,7.0,1.0
+/match/br/2719627485,Zac,Olaf,Hecarim,Jarvan IV,Gragas,Lux,Sivir,Ezreal,Twitch,Pyke,-4924.0,-2.0,-2.0,23 / 42 / 31,42 / 23 / 62,0,2,red,1.0,3.0,0.5,15.0,2.5,5.0,2.0,1.67,1.0,4.0
+/match/br/2719624662,Riven,Sett,Wukong,Ekko,Nautilus,Aurelion Sol,Ezreal,Jhin,Karma,Bard,-6322.0,0.0,-2.0,22 / 40 / 36,40 / 22 / 70,0,2,red,1.25,3.67,1.8,17.0,1.75,3.0,1.0,3.33,1.0,5.0
+/match/br/2719623400,Illaoi,Pantheon,Shaco,Diana,Aurelion Sol,Yasuo,Aphelios,Twitch,Janna,Yuumi,846.0,0.0,-1.0,21 / 30 / 25,30 / 21 / 44,1,1,red,3.5,1.2,3.25,3.67,4.0,1.0,0.57,2.67,2.0,4.0
+/match/br/2719618634,Renekton,Jayce,Sylas,Vi,Syndra,Rumble,Jinx,Draven,Thresh,Brand,-6891.0,-3.0,-3.0,19 / 29 / 30,29 / 19 / 37,0,2,red,4.0,0.33,1.14,2.0,8.0,6.0,0.8,6.0,1.8,2.8
+/match/br/2719611856,Malphite,Gnar,Xin Zhao,Jarvan IV,LeBlanc,Cassiopeia,Aphelios,Jinx,Braum,Milio,4105.0,3.0,1.0,33 / 19 / 53,19 / 33 / 46,2,0,blue,3.5,0.5,5.0,0.4,8.0,1.0,5.0,1.0,5.0,4.0
+/match/br/2719608326,Maokai,Gragas,Lee Sin,Evelynn,Katarina,Cassiopeia,Ezreal,Draven,Alistar,Thresh,-7617.0,-3.0,-2.0,11 / 31 / 14,31 / 11 / 53,0,1,red,0.5,4.0,4.0,3.0,1.0,1.75,0.4,8.0,1.0,13.0
+/match/br/2719605475,Jayce,K'Sante,Hecarim,Fiddlesticks,Akali,Zoe,Xayah,Ezreal,Nautilus,Pyke,1921.0,2.0,2.0,51 / 39 / 60,39 / 51 / 64,1,1,blue,0.83,3.0,2.8,1.57,2.25,1.67,9.0,1.6,4.0,4.5
+/match/br/2719586653,Ornn,Sion,Shaco,Evelynn,Akali,Orianna,Tristana,Xayah,Janna,Rakan,-1006.0,-1.0,2.0,29 / 16 / 39,16 / 29 / 15,0,2,blue,0.75,3.0,2.0,3.0,2.5,0.25,6.0,0.75,1.67,7.0
+/match/br/2719591164,Malphite,Tristana,Diana,Graves,Vladimir,Sylas,Xayah,Samira,Alistar,Rell,-4567.0,-2.0,-1.0,30 / 43 / 37,43 / 31 / 55,1,1,red,2.75,3.0,1.25,2.17,2.5,1.0,9.0,2.0,2.0,1.4
+/match/br/2719572936,Jayce,K'Sante,Vi,Diana,Zoe,Samira,Ezreal,Annie,Senna,Pyke,3221.0,1.0,-2.0,40 / 24 / 65,24 / 40 / 34,1,1,blue,3.0,4.0,1.6,1.29,1.67,4.0,4.0,1.14,5.0,2.25
+/match/br/2719569344,Irelia,Quinn,Karthus,Nidalee,Katarina,Vladimir,Sona,Lucian,Sivir,Karma,-3389.0,-2.0,-2.0,31 / 31 / 48,31 / 31 / 45,1,1,blue,1.25,3.0,2.0,3.0,3.33,4.0,2.0,3.5,1.0,2.25
+/match/br/2719560305,Ornn,Yone,Master Yi,Gragas,Kassadin,Vladimir,Ezreal,Xayah,Karma,Bard,-1938.0,-2.0,2.0,26 / 21 / 34,21 / 26 / 29,1,1,blue,1.0,3.5,2.0,2.67,1.0,5.0,1.75,1.33,1.4,4.0
+/match/br/2719555488,Malphite,Jax,Lillia,Hecarim,Ahri,Akali,Jinx,Aphelios,Lulu,Karthus,-3398.0,0.0,-1.0,29 / 40 / 55,40 / 29 / 41,0,1,red,1.0,3.0,1.33,2.4,2.0,1.0,2.67,3.5,3.0,1.6
+/match/br/2719554271,Gragas,Aatrox,Kindred,Viego,Yone,Aurelion Sol,Aphelios,Vayne,Janna,Karma,1728.0,1.0,3.0,32 / 21 / 55,21 / 32 / 33,1,1,blue,2.5,2.0,2.5,2.2,3.0,3.33,3.0,1.4,3.0,3.5
+/match/br/2719545714,Poppy,Jax,Malphite,Xin Zhao,Corki,Sylas,Xayah,Ezreal,Nautilus,Seraphine,-4109.0,0.0,-2.0,12 / 33 / 13,33 / 13 / 55,0,2,red,0.0,11.0,0.33,11.0,1.5,3.33,2.0,1.5,2.0,2.25
+/match/br/2719539494,Fiora,Kennen,Gragas,Pantheon,Corki,Kassadin,Caitlyn,Ashe,Karma,Milio,-757.0,-1.0,-1.0,38 / 29 / 46,29 / 38 / 42,0,2,blue,1.2,1.8,2.33,4.5,0.67,4.0,2.67,0.86,2.67,8.0
+/match/br/2719535716,LeBlanc,Fiora,Ekko,Udyr,Camille,Vayne,Xayah,Zeri,Milio,Leona,-133.0,-1.0,-1.0,35 / 28 / 64,28 / 35 / 20,0,2,blue,4.0,1.25,2.5,3.33,1.0,8.0,2.0,0.83,2.5,1.75
+/match/br/2719537114,Maokai,Pantheon,Jarvan IV,Viego,Akali,Orianna,Ashe,Xayah,Leona,Milio,-1083.0,0.0,0.0,24 / 30 / 35,30 / 24 / 63,2,0,red,3.0,2.5,2.67,1.5,9.0,1.0,4.5,2.0,1.75,0.75
+/match/br/2719526983,Malphite,Jayce,Viego,Lillia,Lux,Akshan,Rumble,Jinx,Rakan,Karma,-5725.0,-1.0,-2.0,29 / 20 / 47,19 / 29 / 21,1,1,blue,2.25,0.5,2.33,4.0,1.5,7.0,1.25,2.33,1.75,2.0
+/match/br/2719519993,Renekton,Sett,Bel'Veth,Rengar,Rakan,Katarina,Veigar,Malzahar,Elise,Twitch,-843.0,-2.0,-2.0,38 / 42 / 54,42 / 38 / 52,0,2,red,1.0,1.83,2.17,0.86,3.5,1.57,2.33,3.33,1.88,7.0
+/match/br/2719515996,Hecarim,Pantheon,Viego,Udyr,Ahri,Katarina,Zeri,Jinx,Lulu,Seraphine,-88.0,-1.0,-3.0,23 / 37 / 40,37 / 23 / 57,1,1,red,1.5,3.0,1.6,3.0,4.33,3.67,1.17,3.67,1.0,5.0
+/match/br/2719500948,Camille,Tahm Kench,Karthus,Kindred,Malzahar,Aurelion Sol,Ezreal,Jhin,Karma,Nunu & Willump,-295.0,0.0,-3.0,47 / 55 / 74,55 / 47 / 83,1,1,red,4.0,2.33,2.86,2.6,4.0,2.83,3.0,2.4,2.57,1.25
+/match/br/2719495565,Lillia,Gwen,Shen,Kayn,Yone,Yasuo,Aphelios,Jinx,Karma,Milio,6952.0,2.0,2.0,47 / 26 / 75,26 / 47 / 46,1,1,blue,5.0,0.88,4.5,0.6,3.5,1.0,7.0,0.5,16.0,2.0
+/match/br/2719474726,Garen,K'Sante,Wukong,Vi,Ashe,Ahri,Seraphine,Vayne,Cassiopeia,Karma,-3803.0,-2.0,-2.0,26 / 38 / 56,38 / 26 / 70,0,2,red,0.6,3.0,2.25,10.0,10.0,1.5,8.0,0.67,2.0,1.5
+/match/br/2719469685,Gragas,Camille,Kha'Zix,Lillia,Malzahar,Orianna,Xayah,Ezreal,Pyke,Xerath,560.0,-1.0,2.0,35 / 25 / 38,25 / 35 / 35,0,2,blue,1.4,1.33,3.67,3.67,3.0,0.75,1.33,2.67,1.5,7.0
+/match/br/2719448676,Kennen,Jayce,Rengar,Kindred,Qiyana,LeBlanc,Vayne,Kai'Sa,Pyke,Karma,-1466.0,0.0,0.0,45 / 30 / 47,30 / 45 / 43,0,2,blue,1.0,0.6,5.0,3.33,1.5,8.0,2.75,1.0,1.8,2.67
+/match/br/2719447614,Akali,Fiora,Elise,Lee Sin,Lucian,Riven,Jinx,Draven,Soraka,Milio,-3251.0,-2.0,0.0,27 / 30 / 55,30 / 27 / 32,1,1,red,0.4,5.0,1.67,8.0,0.4,4.0,6.0,1.33,3.0,2.5
+/match/br/2719443806,Camille,Riven,Udyr,Evelynn,Karma,Qiyana,Xayah,Ezreal,Heimerdinger,Rakan,5207.0,1.0,2.0,40 / 19 / 59,19 / 40 / 24,2,0,blue,2.0,0.57,15.0,0.8,12.0,0.29,2.5,2.5,6.0,1.5
+/match/br/2719427314,Irelia,Riven,Hecarim,Aphelios,Sylas,Swain,Caitlyn,Maokai,Varus,Qiyana,5929.0,1.0,1.0,47 / 33 / 34,33 / 48 / 27,2,0,blue,0.71,1.33,4.0,0.29,2.33,1.25,2.6,1.5,4.0,1.25
+/match/br/2719392859,Warwick,Illaoi,Kha'Zix,Wukong,Ryze,Syndra,Jinx,Seraphine,Milio,Senna,358.0,1.0,2.0,20 / 15 / 37,15 / 20 / 24,2,0,blue,0.33,6.0,7.0,6.0,6.0,0.4,1.25,3.0,6.0,3.0
+/match/br/2719394042,Udyr,Tahm Kench,Wukong,Lillia,Ahri,Karthus,Jinx,Varus,Karma,Renekton,-3394.0,0.0,-3.0,19 / 32 / 24,32 / 19 / 43,1,1,red,1.25,1.0,1.33,6.5,1.5,8.0,1.67,1.33,2.33,1.5
+/match/br/2719366417,Sejuani,Varus,Xayah,Renekton,Veigar,Taliyah,Yuumi,Lulu,Sylas,Gragas,-4278.0,0.0,-1.0,18 / 30 / 30,30 / 18 / 40,1,1,red,2.0,9.0,2.2,1.5,1.0,5.0,6.5,1.8,0.4,8.0
+/match/br/2719338455,Gwen,Malphite,Maokai,Sylas,Annie,Katarina,Draven,Jinx,Leona,Janna,1625.0,1.0,0.0,27 / 26 / 40,26 / 27 / 53,1,1,blue,7.0,0.4,1.2,3.0,3.0,0.33,1.5,12.0,1.0,13.0
+/match/br/2719313251,Aatrox,Quinn,Hecarim,Shaco,Vex,Yasuo,Ashe,Jinx,Milio,Thresh,-2059.0,-1.0,0.0,20 / 32 / 29,32 / 20 / 59,0,1,red,2.33,1.0,1.67,1.75,10.0,2.0,1.0,10.0,1.67,4.5
+/match/br/2719289558,Nasus,Gragas,Skarner,Kindred,Vex,Ahri,Xayah,Ezreal,Rakan,Karma,-825.0,0.0,-1.0,36 / 36 / 49,35 / 36 / 51,1,1,blue,3.5,0.33,5.0,1.4,0.57,1.8,3.0,9.0,1.5,3.0
+/match/br/2719285321,Udyr,Riven,Lee Sin,Lillia,Gragas,Zilean,Jinx,Samira,Rakan,Pyke,-5221.0,-1.0,0.0,17 / 32 / 28,32 / 18 / 43,1,1,red,0.25,3.0,4.0,5.0,1.0,3.5,1.75,2.5,2.0,4.0
+/match/br/2719262563,Urgot,Jayce,Rengar,Diana,Cassiopeia,Zed,Xayah,Kalista,Thresh,Alistar,-5342.0,-1.0,0.0,46 / 36 / 78,36 / 46 / 52,1,1,blue,3.0,1.0,2.75,1.83,7.0,1.0,0.75,3.75,0.8,6.5
+/match/br/2719259149,Riven,Gragas,Lillia,Poppy,Veigar,Talon,Aphelios,Jinx,Leona,Nautilus,968.0,2.0,0.0,28 / 33 / 60,33 / 30 / 70,1,1,blue,7.0,1.25,1.6,1.8,1.33,11.0,0.83,16.0,1.4,4.33
+/match/br/2719254432,Draven,Graves,Jax,Gragas,Ahri,Lux,Ornn,Ezreal,Thresh,Karma,4830.0,3.0,2.0,32 / 17 / 51,17 / 32 / 19,2,0,blue,4.0,0.4,4.5,1.67,11.0,1.67,0.33,1.0,7.0,1.67
+/match/br/2719252477,Jinx,Lissandra,Katarina,Vayne,Jax,Sion,Thresh,Yuumi,Renekton,Wukong,-1493.0,0.0,2.0,17 / 30 / 26,30 / 17 / 59,1,1,red,2.25,1.33,2.67,5.0,3.0,4.5,10.0,3.0,0.5,3.5
+/match/br/2719240100,Kennen,Warwick,Kha'Zix,Bel'Veth,LeBlanc,Katarina,Xayah,Ezreal,Soraka,Karma,-4738.0,-2.0,2.0,30 / 35 / 41,35 / 30 / 49,0,2,red,0.5,5.5,3.4,2.5,3.33,0.5,1.43,2.4,2.5,3.5
+/match/br/2719234261,Quinn,Yasuo,Nidalee,Fiddlesticks,Irelia,Pantheon,Jinx,Tristana,Thresh,Milio,3348.0,3.0,2.0,33 / 34 / 63,34 / 33 / 57,1,1,red,0.83,6.0,3.67,3.0,3.67,0.88,4.0,0.75,10.0,1.67
+/match/br/2719213892,Akali,Malphite,Hecarim,Viego,Viktor,Ahri,Jinx,Zeri,Ashe,Milio,1622.0,1.0,-3.0,23 / 40 / 41,40 / 23 / 80,2,0,red,2.0,4.0,1.4,12.0,0.2,6.0,0.5,4.0,1.25,5.5
+/match/br/2719198211,Camille,Riven,Vladimir,Lissandra,Sylas,Kai'Sa,Yuumi,Wukong,Ezreal,Soraka,-5241.0,-3.0,-3.0,17 / 26 / 32,26 / 17 / 52,0,2,red,0.0,5.0,2.0,2.5,1.33,6.0,5.0,2.5,5.0,0.67
+/match/br/2719190826,Kayle,Gragas,Bel'Veth,Kha'Zix,Akali,Sylas,Ashe,Kog'Maw,Senna,Milio,-2593.0,-2.0,-2.0,25 / 39 / 33,39 / 25 / 57,2,0,red,2.5,1.25,3.75,4.0,3.5,0.67,1.0,3.4,1.12,5.33
+/match/br/2719185438,Gangplank,Ahri,Shaco,Evelynn,Taliyah,Tristana,Lucian,Ezreal,Milio,Nautilus,523.0,-2.0,-2.0,41 / 24 / 65,24 / 41 / 39,2,0,blue,2.0,1.33,10.0,2.0,1.75,4.0,2.0,2.0,2.67,3.0
+/match/br/2719182526,Renekton,Pantheon,Lee Sin,Nidalee,Xerath,Diana,Karthus,Zeri,Morgana,Leona,2785.0,3.0,0.0,65 / 52 / 84,51 / 65 / 61,1,0,blue,1.67,1.0,6.0,1.88,2.4,1.43,1.0,1.86,2.6,3.75
+/match/br/2719170472,Aatrox,Volibear,Kha'Zix,Vi,Akali,Ryze,Seraphine,Jinx,Gragas,Rell,-2472.0,0.0,-2.0,25 / 35 / 47,35 / 25 / 53,0,1,red,1.67,4.0,3.33,1.5,2.2,0.4,10.0,4.5,2.67,3.5
+/match/br/2719151171,Gangplank,Lucian,Elise,Viego,K'Sante,Jayce,Aphelios,Lux,Milio,Maokai,5104.0,0.0,-2.0,45 / 29 / 61,29 / 46 / 41,2,0,blue,1.71,0.71,10.5,0.86,6.5,1.14,0.75,4.5,6.5,2.0
+/match/br/2719149190,K'Sante,Yone,Master Yi,Elise,LeBlanc,Malphite,Ashe,Xayah,Karma,Lulu,3107.0,3.0,0.0,35 / 45 / 59,45 / 35 / 76,2,0,red,2.0,2.0,2.0,1.5,10.5,1.71,2.6,1.0,4.33,1.6
+/match/br/2719134973,Shen,Gwen,Fiddlesticks,Jarvan IV,Irelia,Darius,Ezreal,Caitlyn,Karma,Lux,-835.0,-3.0,-2.0,42 / 26 / 69,26 / 43 / 30,2,0,blue,5.5,0.14,8.5,2.75,2.0,0.62,0.6,3.0,2.0,9.0
+/match/br/2719129962,Gangplank,Gragas,Lillia,Kindred,Lissandra,Cassiopeia,Xayah,Ezreal,Rakan,Pyke,5938.0,3.0,2.0,47 / 27 / 67,27 / 47 / 20,0,2,blue,1.0,6.0,2.0,2.67,4.0,0.67,4.75,0.43,5.67,0.88
+/match/br/2719016663,Sylas,Malphite,Shaco,Kayn,Jax,Taliyah,Caitlyn,Xayah,Janna,Rakan,-1544.0,0.0,-1.0,26 / 35 / 39,35 / 26 / 64,2,0,red,0.5,2.67,1.75,2.0,3.67,1.6,3.5,2.75,3.2,2.75
+/match/br/2718774099,Lissandra,Viktor,Vayne,Caitlyn,Fiddlesticks,Aatrox,Milio,Jarvan IV,Camille,Blitzcrank,-7236.0,-1.0,-2.0,15 / 39 / 13,38 / 16 / 63,1,1,red,0.5,4.5,0.0,12.0,0.8,15.0,0.2,8.0,2.0,0.5
+/match/br/2718680970,Lulu,Renata Glasc,Vayne,Viego,Yone,Kassadin,Veigar,Malphite,Skarner,Xayah,3563.0,1.0,-3.0,24 / 14 / 38,14 / 24 / 23,2,0,blue,2.5,2.33,0.67,3.0,1.0,2.0,5.0,4.0,1.0,3.0
+/match/br/2717843318,K'Sante,Jax,Nidalee,Skarner,Irelia,Galio,Lux,Tristana,Ashe,Taric,2964.0,1.0,-1.0,30 / 34 / 44,34 / 30 / 63,0,2,red,2.0,1.0,4.25,1.4,2.5,2.75,1.0,3.67,3.67,2.75
+/match/br/2717573715,Ivern,Irelia,Lee Sin,Lillia,Ahri,Yone,Kai'Sa,Aphelios,Pyke,Thresh,-669.0,-2.0,0.0,36 / 23 / 68,23 / 36 / 33,1,1,blue,0.86,6.0,5.5,3.5,3.67,1.0,4.33,1.0,7.0,1.4
+/match/br/2716625237,Ivern,K'Sante,Diana,Elise,Lissandra,Katarina,Sivir,Xayah,Yuumi,Heimerdinger,-10885.0,-4.0,-2.0,20 / 45 / 34,45 / 22 / 36,0,2,red,0.2,5.0,0.43,5.33,1.43,4.0,1.57,2.0,2.2,3.0
+/match/br/2716375887,Gragas,Fiora,Kha'Zix,Ekko,Ahri,Zed,Jinx,Xayah,Lulu,Rakan,-454.0,0.0,0.0,31 / 32 / 47,32 / 31 / 47,0,1,red,1.33,0.33,1.0,11.0,4.0,2.0,2.0,4.0,4.0,1.2
+/match/br/2716274842,Aatrox,Taliyah,Gragas,Vayne,Tristana,Renekton,Anivia,Yuumi,Soraka,Ivern,-7037.0,-4.0,0.0,15 / 32 / 25,32 / 15 / 69,1,0,red,0.5,3.5,1.33,7.0,0.0,11.0,1.33,5.0,0.25,11.0
+/match/br/2716214578,Camille,Varus,Zac,Lulu,Kindred,Kayn,Kai'Sa,Taliyah,Rell,Fiora,-7117.0,-3.0,1.0,18 / 34 / 29,34 / 18 / 51,1,1,red,1.67,4.0,0.67,10.0,1.33,8.0,2.0,1.0,4.5,4.0
+/match/br/2716194446,Vladimir,Yuumi,Akali,Taliyah,Varus,Zac,Poppy,Kai'Sa,Renata Glasc,Fiora,-7313.0,-3.0,-1.0,16 / 34 / 26,34 / 16 / 56,1,0,red,5.0,2.33,0.43,3.5,0.67,6.5,3.0,3.67,0.17,15.0
+/match/br/2714897461,Vayne,K'Sante,Ekko,Sylas,Yone,Tristana,Zeri,Jinx,Blitzcrank,Rakan,-10354.0,-5.0,-2.0,14 / 38 / 25,38 / 14 / 56,1,1,red,0.86,1.5,0.67,16.0,2.0,9.0,0.43,14.0,0.29,14.0
+/match/eune/3359534060,Shen,Tryndamere,Rammus,Zed,Veigar,Sylas,Nilah,Lucian,Yuumi,Thresh,-471.0,0.0,-2.0,36 / 18 / 52,18 / 36 / 23,1,0,red,3.67,0.43,7.0,3.0,2.5,2.5,2.67,2.33,4.5,1.75
+/match/eune/3359543483,Camille,Aurelion Sol,Zed,Jarvan IV,Qiyana,Malphite,Ezreal,Lucian,Miss Fortune,Twitch,823.0,0.0,-2.0,28 / 41 / 27,41 / 28 / 51,1,1,red,1.25,6.0,3.33,3.33,3.0,2.25,1.83,2.2,1.0,1.86
+/match/eune/3359530592,Gwen,Darius,Kayn,Jarvan IV,Viktor,Katarina,Jinx,Karthus,Janna,Milio,-7764.0,-3.0,0.0,28 / 36 / 46,36 / 28 / 60,1,1,red,1.5,1.0,0.67,8.0,0.0,6.0,0.5,5.0,0.4,8.0
+/match/eune/3359534077,Fiora,Gragas,Nidalee,Rek'Sai,Yasuo,Lissandra,Varus,Xayah,Milio,Taliyah,1992.0,0.0,1.0,29 / 22 / 42,22 / 29 / 40,2,0,blue,1.0,1.0,1.5,2.67,1.0,5.0,8.0,1.5,8.0,1.67
+/match/eune/3359530321,Garen,Cho'Gath,Jarvan IV,Sejuani,Zoe,Yone,Samira,Zeri,Senna,Yuumi,3852.0,1.0,1.0,38 / 39 / 55,39 / 38 / 89,1,1,red,0.4,4.0,2.5,2.25,3.0,0.83,3.0,2.0,12.0,2.0
+/match/eune/3359521811,Shen,Camille,Nidalee,Jarvan IV,Ahri,Seraphine,Draven,Kai'Sa,Thresh,Blitzcrank,9103.0,3.0,2.0,34 / 12 / 59,12 / 34 / 25,2,0,blue,13.0,0.11,9.0,1.4,7.0,3.0,2.5,7.0,1.4,2.0
+/match/eune/3359507357,Ornn,Camille,Jarvan IV,Nunu & Willump,Quinn,Yasuo,Jinx,Kai'Sa,Lulu,Soraka,-1977.0,-1.0,0.0,25 / 35 / 39,35 / 25 / 64,1,1,red,1.25,3.67,4.0,2.6,3.25,3.33,2.25,1.75,4.0,1.29
+/match/eune/3359503483,Pantheon,Jax,Viego,Nunu & Willump,Mordekaiser,Yasuo,Kennen,Seraphine,Ekko,Karma,4189.0,2.0,0.0,42 / 48 / 45,48 / 42 / 82,2,0,red,1.5,0.75,2.2,1.83,2.5,1.8,2.67,1.0,7.5,3.67
+/match/eune/3359503183,Malphite,Irelia,Jarvan IV,Wukong,Aurelion Sol,Syndra,Xayah,Jinx,Morgana,Thresh,-125.0,1.0,1.0,34 / 21 / 83,19 / 34 / 42,1,1,blue,5.0,1.67,3.25,2.0,4.0,7.0,5.0,1.5,3.33,1.25
+/match/eune/3359490811,Riven,Garen,Shaco,Vi,Malzahar,Twitch,Vayne,Galio,Janna,Rakan,320.0,-2.0,-1.0,28 / 20 / 49,20 / 28 / 21,1,1,blue,2.25,0.67,2.0,2.0,0.8,3.5,0.0,5.0,1.0,7.0
+/match/eune/3359483044,Jayce,Illaoi,Karthus,Kha'Zix,Diana,Twisted Fate,Varus,Xayah,Ashe,Thresh,4501.0,2.0,0.0,54 / 37 / 65,37 / 54 / 51,0,2,blue,6.0,0.17,6.5,3.5,1.5,1.0,2.0,1.6,4.5,1.67
+/match/eune/3359487644,Shen,Camille,Hecarim,Kayn,Veigar,Miss Fortune,Jinx,Zeri,Milio,Lulu,-5396.0,-4.0,-2.0,17 / 25 / 29,25 / 17 / 30,2,0,red,4.0,0.5,10.0,2.0,0.5,3.0,0.2,3.0,7.0,1.67
+/match/eune/3359483188,Aatrox,Camille,Kindred,Xin Zhao,Orianna,Janna,Draven,Karthus,Annie,Cassiopeia,2767.0,1.0,1.0,30 / 41 / 51,41 / 30 / 89,1,1,red,4.0,0.75,3.0,1.4,7.0,3.0,1.33,2.17,1.67,5.5
+/match/eune/3359480201,Ornn,Irelia,Viego,Graves,Ekko,Syndra,Kai'Sa,Xayah,Amumu,Thresh,-3577.0,-1.0,0.0,25 / 33 / 41,33 / 25 / 56,2,0,red,1.0,0.33,1.25,1.33,2.67,1.0,1.25,4.67,2.67,14.0
+/match/eune/3359477392,Yasuo,Darius,Kayn,Rengar,Nasus,Cassiopeia,Kai'Sa,Twitch,Nautilus,Yuumi,-2995.0,0.0,-2.0,33 / 30 / 40,30 / 33 / 27,1,1,blue,2.75,1.2,0.75,11.0,0.67,2.0,0.8,1.6,0.6,4.0
+/match/eune/3359474492,Fiora,Darius,Amumu,Sylas,Vex,Katarina,Nilah,Morgana,Lulu,Jhin,2732.0,1.0,0.0,30 / 30 / 49,30 / 31 / 30,1,1,blue,0.0,5.0,1.75,1.0,3.0,2.0,7.0,2.0,4.0,1.5
+/match/eune/3359468475,Swain,Ornn,Volibear,Kayn,Vex,Fizz,Kai'Sa,Lucian,Nautilus,Thresh,8335.0,2.0,3.0,37 / 22 / 56,22 / 37 / 39,2,0,blue,11.0,1.5,6.0,1.14,3.67,2.25,3.75,0.83,4.0,0.83
+/match/eune/3359472133,Tryndamere,Warwick,Zac,Viego,Anivia,Viktor,Ezreal,Twitch,Sona,Milio,4054.0,3.0,3.0,38 / 19 / 68,19 / 38 / 22,0,2,blue,1.25,1.6,9.0,3.5,2.67,0.71,2.0,4.0,1.75,3.0
+/match/eune/3359459877,Gwen,Jax,Master Yi,Trundle,Malzahar,Ahri,Ezreal,Tristana,Zoe,Pyke,777.0,0.0,-3.0,26 / 42 / 27,42 / 27 / 40,1,0,red,1.75,1.0,1.33,6.5,1.5,1.0,2.0,2.4,1.0,4.0
+/match/eune/3359453245,Camille,Aatrox,Graves,Evelynn,Veigar,Zed,Vayne,Tristana,Soraka,Janna,-7913.0,-2.0,-2.0,5 / 23 / 8,23 / 5 / 37,0,2,red,1.0,0.5,0.33,9.0,0.0,1.0,0.2,6.0,1.0,6.0
+/match/eune/3359444973,Pantheon,Camille,Trundle,Master Yi,Nasus,Aurelion Sol,Caitlyn,Draven,Vel'Koz,Amumu,-5943.0,-3.0,-3.0,30 / 34 / 41,34 / 30 / 40,1,1,red,1.67,1.0,5.0,3.0,3.5,1.0,1.0,2.25,2.5,4.0
+/match/eune/3359451269,Illaoi,Kai'Sa,Rek'Sai,Evelynn,Veigar,Viego,Ezreal,Kled,Bard,Yuumi,1525.0,0.0,2.0,34 / 26 / 59,26 / 34 / 42,0,2,blue,3.5,1.25,3.25,3.0,2.2,2.0,4.0,1.0,14.0,3.5
+/match/eune/3359447354,Malphite,Sylas,Rek'Sai,Amumu,Syndra,Akshan,Draven,Ezreal,Taric,Heimerdinger,3242.0,2.0,-2.0,38 / 25 / 54,25 / 38 / 28,1,1,blue,2.33,0.86,4.0,9.0,0.5,4.0,2.67,0.8,1.75,2.0
+/match/eune/3359450084,Garen,Heimerdinger,Diana,Sejuani,Yasuo,Zed,Caitlyn,Jinx,Blitzcrank,Morgana,-3224.0,-2.0,2.0,26 / 35 / 35,35 / 26 / 56,0,2,red,3.5,0.75,10.0,6.5,1.0,1.14,2.5,1.67,2.17,5.5
+/match/eune/3359442379,Rengar,Illaoi,Ekko,Master Yi,LeBlanc,Veigar,Jinx,Jhin,Milio,Karma,-1108.0,-1.0,0.0,32 / 19 / 54,19 / 32 / 22,0,2,blue,0.6,1.0,1.6,1.75,7.0,0.6,8.0,1.5,8.0,6.0
+/match/eune/3359414841,Rumble,Yasuo,Ekko,Nocturne,Viktor,Aurelion Sol,Jhin,Jinx,Milio,Sona,7860.0,4.0,2.0,35 / 21 / 64,20 / 35 / 38,1,1,blue,6.0,0.5,1.5,0.8,4.5,3.5,2.33,1.0,7.0,2.5
+/match/eune/3359414181,Shen,Pantheon,Kayn,Diana,Quinn,Talon,Zeri,Tristana,Yuumi,Senna,3275.0,1.0,0.0,43 / 26 / 65,26 / 43 / 29,1,1,blue,3.33,1.4,1.4,1.4,2.4,1.0,3.75,1.75,8.0,1.14
+/match/eune/3359403587,Darius,Dr. Mundo,Kayn,Kha'Zix,Ahri,Katarina,Varus,Ezreal,Zilean,Renata Glasc,7076.0,4.0,-2.0,38 / 29 / 56,29 / 38 / 31,2,0,blue,0.83,1.0,5.33,3.0,5.5,0.2,4.33,1.29,2.5,2.2
+/match/eune/3359393012,Bel'Veth,Gwen,Malphite,Elise,Anivia,Zed,Ezreal,Xayah,Zilean,Thresh,1394.0,1.0,-2.0,27 / 32 / 32,32 / 27 / 45,1,1,red,5.5,1.33,1.2,2.0,3.5,1.4,1.33,0.8,5.0,2.33
+/match/eune/3359397724,Akali,Sion,Gragas,Hecarim,Ahri,Lux,Jinx,Kai'Sa,Lulu,Leona,3083.0,3.0,-2.0,40 / 40 / 58,40 / 40 / 60,2,0,red,3.0,0.75,19.0,1.67,10.0,0.17,1.67,2.25,2.0,2.75
+/match/eune/3359373914,Senna,Tristana,Cho'Gath,Hecarim,Malphite,Ashe,Annie,Gwen,Nocturne,Ahri,-7242.0,-2.0,-2.0,22 / 44 / 28,44 / 22 / 55,1,1,red,1.43,2.0,1.43,3.2,2.5,0.5,0.75,3.5,0.2,13.0
+/match/eune/3359373541,Shen,Gangplank,Diana,Kayn,Vladimir,Cassiopeia,Lucian,Caitlyn,Milio,Seraphine,2014.0,1.0,0.0,20 / 21 / 33,21 / 21 / 39,1,1,red,5.0,0.33,8.0,3.0,1.67,1.33,2.5,0.67,6.0,0.75
+/match/eune/3359373143,Cho'Gath,Yone,Master Yi,Jarvan IV,Twisted Fate,Fizz,Jinx,Cassiopeia,Yuumi,Nautilus,2153.0,2.0,-1.0,37 / 34 / 57,34 / 38 / 27,1,1,blue,2.25,0.62,1.17,2.0,1.67,1.5,2.67,1.67,5.0,3.0
+/match/eune/3359369156,Aatrox,Mordekaiser,Jarvan IV,Rengar,Annie,Kennen,Ezreal,Jinx,Milio,Sona,5512.0,3.0,1.0,37 / 20 / 58,20 / 37 / 30,0,2,blue,0.0,4.0,2.0,1.0,6.0,1.67,7.0,0.75,7.5,1.0
+/match/eune/3359354788,Annie,Ezreal,Nami,Rek'Sai,Gragas,Ziggs,Olaf,Neeko,Lucian,Sett,-2616.0,-4.0,1.0,49 / 33 / 76,33 / 49 / 29,1,1,blue,2.6,1.67,2.57,1.71,2.67,3.0,1.67,1.0,2.83,2.0
+/match/eune/3359350977,Singed,Cho'Gath,Lee Sin,Kha'Zix,Kassadin,Malzahar,Twitch,Xin Zhao,Zyra,Nami,-4526.0,-1.0,0.0,23 / 34 / 37,34 / 23 / 45,0,2,red,0.17,5.0,2.33,2.67,2.5,6.0,3.0,1.67,2.0,2.33
+/match/eune/3359340064,Pantheon,Olaf,Sejuani,Ekko,Yasuo,Sylas,Caitlyn,Miss Fortune,Karma,Lulu,1269.0,0.0,3.0,22 / 36 / 44,36 / 22 / 66,1,1,red,0.83,3.0,3.0,2.33,2.0,3.0,2.67,1.0,8.0,3.5
+/match/eune/3359337769,Gwen,Annie,Lee Sin,Kayn,Orianna,Thresh,Caitlyn,Aphelios,Nautilus,Lissandra,-4210.0,-1.0,0.0,15 / 26 / 22,26 / 16 / 41,0,2,red,0.67,5.0,2.67,8.0,0.5,5.0,4.0,1.75,2.0,1.4
+/match/eune/3359343464,Jax,Vi,Rengar,Hecarim,Sylas,Tristana,Xayah,Varus,Thresh,Rakan,3715.0,2.0,0.0,29 / 30 / 39,30 / 29 / 54,1,1,red,3.0,0.12,2.5,1.57,2.33,6.0,4.0,1.5,7.5,11.0
+/match/eune/3359332359,Jayce,Sion,Jarvan IV,Nunu & Willump,Katarina,Cassiopeia,Jinx,Twitch,Sona,Milio,1678.0,0.0,-2.0,38 / 25 / 60,25 / 38 / 43,2,0,blue,2.5,2.0,4.0,1.8,7.5,0.25,1.5,2.33,3.33,2.0
+/match/eune/3359322208,Gangplank,Aatrox,Xin Zhao,Master Yi,Mordekaiser,Ahri,Ezreal,Jinx,Anivia,Rakan,-2375.0,-1.0,-3.0,24 / 40 / 26,40 / 24 / 47,0,2,red,1.0,5.0,0.67,4.0,1.0,4.0,2.0,0.5,5.0,5.0
+/match/eune/3359320341,K'Sante,Tryndamere,Ekko,Rek'Sai,Ahri,Syndra,Samira,Jinx,Zilean,Lulu,-4951.0,-1.0,-2.0,24 / 25 / 23,25 / 24 / 27,2,0,red,1.0,1.0,2.0,2.67,9.0,0.75,1.5,4.0,1.67,2.33
+/match/eune/3359307777,Talon,Shen,Diana,Ekko,Heimerdinger,Syndra,Kai'Sa,Samira,Nautilus,Leona,-695.0,2.0,-2.0,16 / 36 / 27,36 / 16 / 61,2,0,red,2.0,7.0,0.8,4.5,1.25,4.5,6.0,1.67,2.33,2.25
+/match/eune/3359313258,Yone,Cho'Gath,Master Yi,Hecarim,Malzahar,Syndra,Kog'Maw,Caitlyn,Milio,Yuumi,1647.0,2.0,1.0,12 / 31 / 15,31 / 12 / 57,2,0,red,2.5,1.0,4.0,2.0,1.5,3.0,2.0,4.0,0.5,4.0
+/match/eune/3359303234,Darius,Ornn,Kha'Zix,Lillia,Ahri,Vex,Twitch,Ezreal,Lulu,Senna,-10044.0,-3.0,-2.0,14 / 32 / 16,32 / 14 / 50,0,2,red,0.43,10.0,1.0,5.5,1.0,6.5,3.0,2.0,1.75,3.0
+/match/eune/3359298366,Camille,Urgot,Nocturne,Amumu,Akali,Akshan,Ezreal,Kai'Sa,Thresh,Sona,99.0,2.0,-1.0,25 / 34 / 31,34 / 26 / 61,1,0,red,1.2,1.0,1.5,4.5,2.0,3.0,1.0,4.0,2.0,3.5
+/match/eune/3359295595,Mordekaiser,Yorick,Rengar,Poppy,Sylas,Ahri,Sivir,Seraphine,Zilean,Blitzcrank,-160.0,-1.0,0.0,23 / 34 / 23,34 / 23 / 61,1,1,red,0.67,1.67,3.25,1.0,0.67,5.0,4.0,0.0,4.0,3.5
+/match/eune/3359300216,Sivir,Singed,Gangplank,Akshan,Syndra,Fizz,Graves,Thresh,Rakan,Kai'Sa,1797.0,-1.0,1.0,38 / 30 / 71,30 / 38 / 37,1,1,blue,2.5,1.6,2.0,0.67,0.5,5.5,4.0,8.0,2.67,1.75
+/match/eune/3359299109,Irelia,Jax,Nidalee,Nunu & Willump,Yone,Zoe,Jhin,Zeri,Yuumi,Zilean,7196.0,2.0,0.0,31 / 15 / 41,15 / 31 / 25,1,1,blue,0.8,2.33,3.0,3.33,2.67,1.67,4.0,1.5,10.0,0.75
+/match/eune/3359289364,Gangplank,Malphite,Master Yi,Skarner,Zed,Swain,Veigar,Seraphine,Nautilus,Senna,1527.0,3.0,-1.0,34 / 29 / 58,29 / 34 / 46,2,0,blue,0.5,2.0,2.0,14.0,2.67,7.0,2.5,1.8,1.6,3.0
+/match/eune/3359291145,Vladimir,Cassiopeia,Volibear,Jarvan IV,Zed,Tryndamere,Xayah,Draven,Rakan,Rell,-820.0,-1.0,-1.0,34 / 18 / 70,18 / 34 / 22,0,2,blue,0.75,9.0,9.0,7.0,3.0,0.2,5.0,0.0,1.75,2.0
+/match/eune/3359286150,Miss Fortune,Darius,Jarvan IV,Amumu,Sylas,Ahri,Ornn,Zeri,Blitzcrank,Lulu,8032.0,5.0,2.0,29 / 11 / 52,11 / 29 / 18,2,0,blue,7.0,0.5,11.0,1.0,5.0,2.0,3.5,0.4,5.0,0.33
+/match/eune/3359280424,Wukong,Kled,Kayn,Nocturne,Diana,LeBlanc,Nilah,Aphelios,Soraka,Brand,3409.0,0.0,0.0,35 / 25 / 57,25 / 35 / 33,1,0,blue,10.0,0.86,3.0,2.0,1.2,3.0,1.5,2.67,5.0,1.2
+/match/eune/3359265977,Kayle,Akshan,Sejuani,Kha'Zix,Orianna,Sylas,Nilah,Yasuo,Taric,Nami,3903.0,0.0,0.0,30 / 11 / 43,11 / 30 / 15,0,1,blue,3.0,0.25,7.0,5.0,2.0,1.5,1.0,1.0,4.0,1.0
+/match/eune/3359266733,Vayne,Fiora,Hecarim,Kha'Zix,Xayah,Sion,Ahri,Jinx,Rakan,Xerath,-4287.0,-2.0,1.0,44 / 29 / 60,29 / 44 / 32,0,1,blue,0.2,4.0,1.4,6.0,2.4,1.0,1.5,2.75,6.0,1.2
+/match/eune/3359269523,Malphite,Jax,Diana,Nunu & Willump,Kog'Maw,Zed,Sivir,Karthus,Lulu,Nami,1876.0,0.0,2.0,31 / 42 / 38,42 / 31 / 78,1,0,red,0.33,5.0,5.5,1.6,0.83,1.67,2.67,1.67,5.5,2.67
+/match/eune/3359272135,Malphite,Vi,Kayn,Kha'Zix,Rumble,Ahri,Darius,Draven,Blitzcrank,Zilean,5845.0,4.0,3.0,41 / 23 / 51,23 / 41 / 35,1,1,blue,1.25,1.25,2.5,1.67,4.0,2.67,3.67,0.5,12.0,0.71
+/match/eune/3359256845,Kled,Mordekaiser,Udyr,Jarvan IV,Vex,LeBlanc,Xayah,Twitch,Nautilus,Senna,2937.0,1.0,2.0,39 / 21 / 66,21 / 39 / 33,1,0,blue,1.5,1.67,2.67,2.67,6.0,1.6,1.67,2.0,2.0,2.33
+/match/eune/3359250854,Olaf,Aatrox,Gragas,Diana,Sylas,Yasuo,Xayah,Miss Fortune,Amumu,Leona,-4649.0,-2.0,0.0,30 / 51 / 41,51 / 30 / 79,0,1,red,1.0,13.0,3.75,9.0,1.5,1.29,1.5,2.67,1.86,2.14
+/match/eune/3359244053,Sion,Akali,Nidalee,Vi,Yasuo,Darius,Samira,Varus,Ashe,Leona,-516.0,2.0,0.0,22 / 46 / 26,45 / 22 / 59,1,0,red,0.22,5.5,10.0,1.67,1.5,1.17,2.0,2.33,3.33,2.0
+/match/eune/3359240553,Illaoi,Zeri,Kayn,Karthus,Fizz,Pantheon,Jinx,Darius,Seraphine,Rakan,-3693.0,-1.0,0.0,39 / 31 / 66,31 / 39 / 38,1,1,blue,1.4,1.67,4.67,2.5,1.75,2.75,2.0,1.0,2.33,4.5
+/match/eune/3359239294,Pantheon,Gragas,Udyr,Nidalee,Ahri,Zed,Kai'Sa,Sivir,Thresh,Poppy,2742.0,-1.0,2.0,41 / 21 / 77,21 / 41 / 25,2,0,blue,1.0,2.33,6.0,1.75,11.0,0.29,1.33,3.0,5.5,2.0
+/match/eune/3359238376,Poppy,Rumble,Evelynn,Rek'Sai,Pantheon,Akshan,Jinx,Irelia,Thresh,Sejuani,-2823.0,1.0,-2.0,34 / 47 / 55,47 / 35 / 73,1,0,red,0.8,1.2,6.5,10.0,1.4,1.75,1.2,1.17,2.0,3.0
+/match/eune/3359226897,Gnar,Ornn,Nocturne,Skarner,Kassadin,Ahri,Kog'Maw,Tristana,Yuumi,Annie,4726.0,2.0,0.0,52 / 31 / 91,31 / 52 / 68,1,0,blue,6.0,1.0,4.0,2.0,12.0,0.43,2.4,2.0,6.5,1.0
+/match/eune/3359219790,Sion,Irelia,Kayn,Hecarim,Yasuo,Galio,Jinx,Kai'Sa,Lulu,Nami,-6463.0,-1.0,0.0,17 / 34 / 16,34 / 17 / 51,1,1,red,2.0,0.75,1.0,4.0,1.6,2.2,0.25,15.0,0.57,15.0
+/match/eune/3359222259,Riven,Mordekaiser,Hecarim,Jarvan IV,Lux,Gangplank,Xayah,Seraphine,Lulu,Senna,-5336.0,1.0,1.0,27 / 38 / 47,38 / 27 / 61,0,1,red,0.25,3.0,2.33,4.5,1.0,8.0,2.0,4.5,3.0,1.33
+/match/eune/3359209623,Shaco,Sion,Nasus,Udyr,Orianna,Neeko,Karthus,Sivir,Blitzcrank,Seraphine,5810.0,1.0,0.0,57 / 20 / 95,20 / 57 / 16,0,1,blue,17.0,0.8,0.67,2.0,6.5,0.2,9.5,0.33,4.0,0.67
+/match/eune/3359208453,Trundle,Irelia,Vex,Kennen,Dr. Mundo,Volibear,Ezreal,Xayah,Renata Glasc,Janna,160.0,-1.0,1.0,32 / 21 / 41,21 / 32 / 23,1,1,blue,6.0,3.5,1.67,0.33,0.6,2.67,2.33,3.5,2.0,2.67
+/match/eune/3359211113,Sett,Singed,Nunu & Willump,Warwick,Tristana,Zed,Ashe,Zeri,Milio,Lulu,-2556.0,2.0,-1.0,38 / 49 / 60,49 / 39 / 80,0,2,red,1.0,1.75,3.5,1.14,1.75,2.67,3.0,4.33,2.5,5.0
+/match/eune/3359199430,Illaoi,Sion,Taliyah,Graves,Vladimir,Orianna,Xayah,Vayne,Rell,Pyke,326.0,2.0,-2.0,43 / 43 / 58,43 / 43 / 51,1,1,red,1.5,1.0,5.0,4.5,3.0,1.0,1.6,1.29,1.4,4.5
+/match/eune/3359188756,Olaf,Vayne,Lillia,Shyvana,Vladimir,Yasuo,Tristana,Varus,Karma,Alistar,-1441.0,1.0,-3.0,16 / 31 / 22,31 / 16 / 53,2,0,red,2.0,1.0,1.5,2.5,0.75,8.0,1.33,3.5,2.0,4.0
+/match/eune/3359182981,Poppy,Maokai,Diana,Hecarim,Rumble,Azir,Samira,Jinx,Thresh,Lulu,8126.0,3.0,2.0,26 / 17 / 37,17 / 26 / 30,2,0,blue,1.0,1.33,4.0,1.0,7.0,1.5,1.25,2.0,9.0,0.75
+/match/eune/3359191312,Kayn,K'Sante,Hecarim,Kha'Zix,Ahri,Qiyana,Veigar,Aphelios,Poppy,Renata Glasc,-733.0,0.0,1.0,35 / 32 / 35,32 / 35 / 36,0,2,blue,0.5,4.0,1.6,6.0,2.0,1.0,1.2,2.25,1.0,4.5
+/match/eune/3359188254,Yasuo,Riven,Gragas,Lee Sin,Galio,Ahri,Aphelios,Jinx,Lulu,Soraka,-1974.0,0.0,-1.0,18 / 35 / 20,35 / 18 / 41,0,1,red,1.0,1.75,2.67,2.0,1.33,2.0,1.0,2.5,2.5,8.0
+/match/eune/3359188097,Sion,Aatrox,Fizz,Master Yi,Orianna,Yasuo,Ashe,Veigar,Soraka,Leona,-4189.0,-2.0,2.0,28 / 40 / 54,40 / 28 / 44,1,1,red,0.67,8.0,1.57,2.17,3.25,2.0,2.75,1.75,1.67,5.5
+/match/eune/3359181513,Graves,Kayn,Zilean,Milio,Irelia,Akali,Dr. Mundo,Kennen,Karthus,Kai'Sa,3295.0,3.0,2.0,32 / 32 / 33,32 / 32 / 34,0,0,blue,1.67,2.6,2.75,2.8,1.33,2.25,1.5,0.5,1.44,3.5
+/match/eune/3359178321,Ornn,Olaf,Nunu & Willump,Sylas,Seraphine,Lucian,Kai'Sa,Ezreal,Senna,Janna,245.0,0.0,2.0,30 / 25 / 63,24 / 30 / 27,1,1,blue,0.33,3.5,14.0,1.33,3.0,0.2,3.0,0.67,4.33,3.0
+/match/eune/3359166931,Mordekaiser,Ornn,Volibear,Graves,Jayce,Ahri,Jinx,Kai'Sa,Milio,Thresh,-6637.0,-3.0,-1.0,13 / 35 / 12,35 / 13 / 61,0,2,red,0.6,2.67,0.5,16.0,0.4,7.0,0.4,9.0,1.0,16.0
+/match/eune/3359171576,Irelia,Ornn,Kayn,Rengar,Sylas,Thresh,Tristana,Nilah,Xerath,Mordekaiser,2651.0,1.0,-2.0,28 / 33 / 39,33 / 28 / 41,2,0,red,4.0,0.0,2.33,3.33,0.71,1.5,2.0,5.0,1.33,3.0
+/match/eune/3359169449,Cassiopeia,Jarvan IV,Fiora,Pantheon,Samira,Kai'Sa,Hecarim,Sylas,Karma,Dr. Mundo,-734.0,-2.0,-2.0,31 / 42 / 32,41 / 31 / 51,1,1,red,1.5,2.0,0.5,2.0,2.0,1.33,2.67,5.0,3.6,1.5
+/match/eune/3359162933,Illaoi,Malphite,Zed,Udyr,Kassadin,Sylas,Kai'Sa,Twitch,Zilean,Thresh,1220.0,0.0,-2.0,28 / 41 / 42,41 / 28 / 62,0,2,red,0.5,4.0,2.5,3.33,1.5,2.0,5.67,1.0,4.5,2.75
+/match/eune/3359161881,Yone,Cassiopeia,Poppy,Rengar,Orianna,Lux,Veigar,Xayah,Pyke,Lulu,-5164.0,-1.0,0.0,26 / 48 / 21,47 / 26 / 47,1,0,red,0.5,1.25,2.25,6.5,1.17,2.0,0.67,3.0,0.8,3.67
+/match/eune/3359164280,Zed,Gnar,Ekko,Kayn,Kayle,Vladimir,Ezreal,Xayah,Soraka,Yuumi,-4546.0,-3.0,-2.0,24 / 39 / 41,39 / 24 / 59,2,0,red,2.0,1.67,2.0,5.5,1.0,1.0,1.0,4.5,1.0,5.5
+/match/eune/3359159552,Malphite,Riven,Kha'Zix,Lillia,Zoe,Kassadin,Jinx,Twitch,Pyke,Nautilus,6588.0,0.0,1.0,43 / 27 / 57,27 / 43 / 26,1,1,blue,5.5,0.8,4.33,0.5,4.67,1.5,2.0,1.33,1.83,1.5
+/match/eune/3359158455,Darius,Fiora,Shyvana,Ekko,Viego,Zed,Jhin,Jinx,Xerath,Morgana,-935.0,0.0,2.0,36 / 35 / 28,35 / 36 / 33,2,0,blue,0.5,2.0,3.0,5.0,1.0,4.0,2.0,2.0,1.0,1.67
+/match/eune/3359153549,Sett,Shen,Vi,Evelynn,Viktor,Orianna,Ezreal,Jinx,Senna,Amumu,245.0,2.0,2.0,30 / 28 / 49,28 / 30 / 42,1,0,blue,1.67,1.8,2.0,4.25,0.71,9.0,0.5,6.0,1.0,9.0
+/match/eune/3359139986,Shen,Zac,Rengar,Jinx,Vladimir,Zoe,Kai'Sa,Evelynn,Lulu,Blitzcrank,-7500.0,-4.0,-2.0,29 / 46 / 42,46 / 29 / 65,0,1,red,1.6,2.0,1.0,14.0,2.5,1.0,0.88,11.5,0.56,7.0
+/match/eune/3359151209,Shen,Yone,Udyr,Jarvan IV,Corki,Katarina,Kai'Sa,Ezreal,Pyke,Soraka,3906.0,2.0,-1.0,44 / 34 / 76,34 / 44 / 58,2,0,blue,5.0,1.0,1.2,6.0,1.33,3.0,3.25,2.2,1.6,2.0
+/match/eune/3359146335,Camille,Riven,Lillia,Jarvan IV,Malzahar,Galio,Ezreal,Jinx,Senna,Milio,5261.0,2.0,2.0,36 / 19 / 60,19 / 37 / 33,1,1,blue,4.0,0.62,12.0,2.0,2.5,0.6,2.33,2.0,2.33,7.0
+/match/eune/3359136972,Cho'Gath,Aatrox,Sylas,Mordekaiser,Vladimir,Malzahar,Twitch,Cassiopeia,Bard,Amumu,-1297.0,0.0,0.0,40 / 51 / 61,50 / 40 / 61,1,1,red,0.5,3.0,2.14,1.83,4.67,1.33,3.0,1.8,13.0,2.0
+/match/eune/3359140511,Mordekaiser,Jax,Rengar,Elise,Yone,Ahri,Zeri,Jinx,Lulu,Thresh,-1092.0,-1.0,-1.0,16 / 32 / 21,32 / 16 / 65,0,2,red,2.5,0.75,1.0,16.0,0.6,3.5,1.5,9.0,0.6,3.67
+/match/eune/3359138337,Mordekaiser,Illaoi,Rammus,Karthus,Zed,Kai'Sa,Jhin,Varus,Senna,Pyke,-788.0,0.0,0.0,37 / 24 / 46,24 / 37 / 26,1,0,blue,0.67,3.0,12.0,1.0,6.0,0.0,2.67,4.33,1.43,2.2
+/match/eune/3359134717,Darius,Pantheon,Amumu,Jarvan IV,Lux,Katarina,Draven,Varus,Janna,Ashe,-3237.0,-2.0,-1.0,41 / 39 / 66,39 / 41 / 63,0,2,blue,3.0,1.0,2.25,3.0,1.4,2.75,0.9,3.25,1.33,5.33
+/match/eune/3359139283,Malphite,Ornn,Rengar,Kha'Zix,Aurelion Sol,Veigar,Vayne,Caitlyn,Sona,Bard,2052.0,-1.0,-1.0,42 / 26 / 66,26 / 42 / 39,0,2,blue,1.5,4.0,9.0,2.5,1.0,1.0,1.33,1.67,3.75,2.75
+/match/eune/3359134125,Irelia,Sett,Lissandra,Viego,Nocturne,Vladimir,Kai'Sa,Aphelios,Zoe,Janna,-1279.0,-1.0,-3.0,27 / 38 / 39,38 / 27 / 48,0,2,red,0.75,1.5,0.0,1.5,4.0,2.67,5.0,2.5,1.8,1.5
+/match/eune/3359135111,Yasuo,Irelia,Rek'Sai,Kayn,Vel'Koz,LeBlanc,Ashe,Ezreal,Milio,Karma,950.0,3.0,2.0,37 / 24 / 56,24 / 38 / 26,1,1,blue,0.43,2.5,3.67,4.5,1.0,1.25,6.5,1.25,7.0,1.0
+/match/eune/3359121944,Sejuani,Darius,Lillia,Master Yi,Sylas,Ahri,Zeri,Kai'Sa,Pyke,Blitzcrank,-1302.0,-2.0,-2.0,36 / 41 / 54,41 / 37 / 70,0,1,red,2.0,1.33,5.0,2.0,2.67,1.0,0.25,5.5,0.75,11.0
+/match/eune/3359114985,Darius,Nasus,Talon,Udyr,Annie,Vladimir,Ezreal,Twitch,Yuumi,Senna,-7078.0,-3.0,-1.0,20 / 35 / 24,34 / 20 / 39,0,2,red,1.2,0.5,1.5,3.33,0.67,2.0,2.0,3.0,6.0,4.5
+/match/eune/3359114046,Sion,Ornn,Sylas,Fiddlesticks,Irelia,Ezreal,Caitlyn,Twitch,Milio,Lulu,-560.0,-1.0,-1.0,24 / 24 / 45,24 / 24 / 42,1,1,red,1.5,1.5,7.0,5.0,0.5,5.0,3.0,2.0,4.0,3.0
+/match/eune/3359122349,Malphite,Darius,Jarvan IV,Nunu & Willump,Miss Fortune,Zed,Varus,Aphelios,Bard,Fiddlesticks,8351.0,4.0,0.0,36 / 22 / 39,22 / 36 / 27,1,1,blue,6.0,0.0,12.0,1.33,1.8,1.43,1.5,1.2,3.67,2.67
+/match/eune/3359116094,Illaoi,Mordekaiser,Xin Zhao,Hecarim,Corki,Malzahar,Miss Fortune,Draven,Janna,Zilean,-988.0,1.0,2.0,28 / 40 / 36,40 / 28 / 54,0,2,red,0.62,4.5,2.5,1.6,4.5,1.33,1.67,1.5,11.0,2.67
+/match/eune/3359102059,Riven,Darius,Rengar,Jarvan IV,Kassadin,Orianna,Caitlyn,Xayah,Nami,Zyra,-7842.0,-4.0,-2.0,16 / 27 / 19,27 / 16 / 28,0,2,red,1.0,1.5,1.6,5.0,4.0,1.25,0.75,4.5,1.2,7.0
+/match/eune/3359107406,Olaf,Riven,Kha'Zix,Lee Sin,Galio,Zoe,Jinx,Swain,Milio,Bard,-9405.0,-4.0,-2.0,22 / 43 / 41,43 / 22 / 66,1,1,red,0.5,3.5,1.12,8.0,1.33,2.4,1.17,17.0,1.0,5.0
+/match/eune/3359098686,Sion,Fiora,Nidalee,Hecarim,Aurelion Sol,Taliyah,Sivir,Jinx,Yuumi,Lulu,4951.0,2.0,0.0,32 / 16 / 52,16 / 32 / 19,1,1,blue,7.0,1.0,11.0,1.75,0.67,4.0,4.0,0.4,3.5,2.0
+/match/eune/3359097347,Ekko,Nasus,Gragas,Hecarim,Galio,Katarina,Jinx,Miss Fortune,Janna,Soraka,3876.0,1.0,2.0,21 / 26 / 36,26 / 21 / 47,1,1,red,12.0,1.33,4.0,1.5,5.0,0.33,4.0,1.0,7.0,0.33
+/match/eune/3359091204,Illaoi,Cho'Gath,Shaco,Master Yi,Zed,Katarina,Kai'Sa,Ezreal,Rakan,Sona,3426.0,2.0,2.0,28 / 17 / 41,17 / 28 / 21,2,0,blue,1.5,0.5,3.0,2.5,2.0,0.86,6.0,1.0,2.5,4.0
+/match/eune/3359082813,Gwen,Yone,Bel'Veth,Sylas,Ryze,Shaco,Sivir,Xayah,Rell,Morgana,6777.0,3.0,0.0,34 / 21 / 46,21 / 34 / 30,1,1,blue,0.33,2.0,3.5,1.2,4.0,0.75,12.0,0.4,14.0,0.25
+/match/eune/3359081601,Singed,Darius,Kayn,Udyr,Yasuo,Galio,Ezreal,Kai'Sa,Bard,Rakan,-4316.0,0.0,-2.0,34 / 56 / 47,55 / 35 / 91,0,2,red,1.0,4.0,0.62,8.5,0.83,5.33,1.86,0.83,3.0,2.83
+/match/eune/3359080253,Shen,Cho'Gath,Rengar,Kayn,Zed,Orianna,Vayne,Miss Fortune,Yuumi,Heimerdinger,-4132.0,-3.0,0.0,21 / 23 / 27,23 / 21 / 35,0,2,red,1.5,4.0,8.0,1.0,4.0,0.67,6.0,1.0,5.0,0.5
+/match/eune/3359078311,Gnar,Malphite,Kha'Zix,Volibear,Vex,Aurelion Sol,Jinx,Xayah,Fiddlesticks,Pyke,5121.0,4.0,1.0,33 / 20 / 57,20 / 33 / 23,1,1,blue,6.0,1.33,2.0,0.67,6.0,1.75,5.5,1.33,3.0,0.5
+/match/eune/3359069966,Darius,Gwen,Kha'Zix,Hecarim,Yone,Cassiopeia,Ezreal,Xayah,Senna,Nidalee,1161.0,2.0,-1.0,39 / 20 / 46,19 / 39 / 11,1,1,blue,1.0,1.0,2.0,3.5,2.0,1.0,3.0,4.0,1.0,1.33
+/match/eune/3359066959,Riven,Poppy,Lee Sin,Trundle,Katarina,Cho'Gath,Draven,Kai'Sa,Brand,Alistar,-2743.0,-5.0,1.0,22 / 41 / 40,41 / 22 / 58,0,2,red,0.75,3.5,1.6,3.33,0.8,12.0,1.75,2.2,1.14,5.0
+/match/eune/3359063630,Sion,Shen,Diana,Skarner,Orianna,Swain,Samira,Draven,Lulu,Pyke,-5346.0,1.0,-1.0,20 / 47 / 22,47 / 20 / 73,0,2,red,1.5,2.5,2.0,11.0,1.75,2.33,1.67,1.17,1.4,3.75
+/match/eune/3359066176,Tryndamere,Sion,Hecarim,Volibear,Kai'Sa,Cassiopeia,Irelia,Yasuo,Yuumi,Milio,-3827.0,-2.0,-2.0,22 / 39 / 35,39 / 22 / 69,1,1,red,2.0,3.0,1.0,5.0,0.43,13.0,0.71,3.33,4.5,6.0
+/match/eune/3359053921,Zed,Malphite,Lillia,Kindred,Mordekaiser,Twisted Fate,Jinx,Twitch,Zilean,Rell,-951.0,-1.0,-1.0,28 / 36 / 47,36 / 28 / 57,0,2,red,1.0,4.5,2.67,1.0,6.0,0.67,0.67,4.67,2.0,3.5
+/match/eune/3359049905,Urgot,Malphite,Lux,Master Yi,Syndra,Ekko,Jinx,Kai'Sa,Wukong,Lulu,-2366.0,-2.0,-2.0,17 / 30 / 18,29 / 17 / 32,0,2,red,0.0,3.0,2.5,2.5,0.5,3.0,1.25,1.0,1.5,8.0
+/match/eune/3359055403,Lucian,Gnar,Kayn,Katarina,Aurelion Sol,Vi,Darius,Xayah,Rakan,Soraka,-1970.0,-2.0,1.0,17 / 31 / 32,31 / 17 / 48,1,1,red,1.2,2.33,2.5,2.67,9.0,11.0,1.33,0.33,4.0,1.5
+/match/eune/3359047981,Sett,Pantheon,Jarvan IV,Kha'Zix,Azir,LeBlanc,Varus,Jinx,Lulu,Braum,4918.0,1.0,3.0,26 / 16 / 48,16 / 26 / 18,1,1,blue,1.67,1.0,11.0,2.5,2.5,6.0,3.5,0.5,4.5,0.75
+/match/eune/3359043954,Mordekaiser,Kled,Jarvan IV,Warwick,Ekko,Cassiopeia,Kai'Sa,Miss Fortune,Alistar,Rell,-1226.0,0.0,2.0,29 / 40 / 51,40 / 29 / 77,1,1,red,0.88,3.25,3.0,1.62,4.33,6.5,3.33,2.0,5.0,2.25
+/match/eune/3359050078,Nasus,Kha'Zix,Master Yi,Gragas,Lissandra,Qiyana,Jinx,Nilah,Rakan,Jarvan IV,-6045.0,-3.0,-3.0,42 / 50 / 79,50 / 43 / 74,1,1,blue,0.83,1.75,1.83,6.0,0.8,2.2,1.0,5.0,0.71,5.67
+/match/eune/3359040327,Aatrox,Zed,Kindred,Hecarim,Katarina,Kayle,Jinx,Lucian,Thresh,Nami,3712.0,3.0,0.0,41 / 38 / 38,38 / 41 / 49,1,1,blue,4.0,0.5,6.0,2.0,2.5,0.38,0.33,4.0,2.6,4.67
+/match/eune/3359030320,Malphite,Darius,Kha'Zix,Karthus,Kassadin,Tryndamere,Caitlyn,Jinx,Karma,Milio,-1333.0,-2.0,-2.0,32 / 30 / 51,30 / 32 / 67,0,2,blue,0.5,1.5,9.0,2.33,3.0,5.0,0.33,3.5,1.25,2.67
+/match/eune/3359025423,Nasus,Dr. Mundo,Lee Sin,Amumu,Malphite,Katarina,Twitch,Xayah,Lulu,Renata Glasc,-7211.0,-4.0,-3.0,21 / 24 / 32,24 / 22 / 42,0,2,red,7.0,1.0,1.25,3.0,0.6,9.0,2.0,2.67,2.33,2.25
+/match/eune/3359026078,Nasus,Sejuani,Zac,Lillia,Vladimir,Sylas,Jinx,Twitch,Thresh,Lulu,3621.0,-2.0,0.0,39 / 21 / 67,21 / 39 / 30,0,1,blue,1.0,3.0,15.0,1.67,11.0,0.29,1.67,1.0,8.5,1.75
+/match/eune/3359015722,Tahm Kench,Gwen,Elise,Kayn,Jinx,Yone,Katarina,Xayah,Milio,Rakan,3378.0,-1.0,2.0,18 / 22 / 20,22 / 19 / 43,2,0,red,0.5,2.0,10.0,0.5,5.0,1.0,7.0,0.0,7.0,0.75
+/match/eune/3359014183,Malphite,Darius,Rengar,Ekko,Kassadin,Yone,Draven,Jinx,Lulu,Thresh,184.0,2.0,1.0,34 / 31 / 42,31 / 34 / 38,1,1,blue,0.75,1.25,2.0,3.5,1.0,2.25,1.75,4.25,3.5,2.5
+/match/eune/3359010330,Illaoi,Kayle,Sejuani,Kayn,Veigar,Kai'Sa,Seraphine,Lissandra,Rakan,Milio,-3068.0,0.0,-2.0,18 / 35 / 25,35 / 18 / 44,1,0,red,1.14,2.0,1.0,4.67,0.8,6.0,1.0,6.0,1.67,5.0
+/match/eune/3359003532,Darius,Kayn,Gragas,Diana,Annie,Nasus,Draven,Samira,Nautilus,Milio,-2569.0,-2.0,0.0,30 / 30 / 54,30 / 30 / 48,0,2,blue,2.0,2.0,2.5,4.0,0.38,7.0,4.0,3.0,1.25,8.0
+/match/eune/3358988989,Poppy,Illaoi,Fiddlesticks,Kayn,Irelia,Fizz,Seraphine,Kog'Maw,Bard,Janna,2575.0,1.0,2.0,48 / 21 / 73,21 / 48 / 27,1,1,blue,5.0,0.25,11.0,0.78,2.4,0.83,2.0,7.0,1.67,3.5
+/match/eune/3358993755,Rengar,Riven,Jarvan IV,Sejuani,Lissandra,LeBlanc,Varus,Jinx,Lux,Milio,-8353.0,-4.0,-2.0,29 / 55 / 37,55 / 29 / 55,1,1,red,0.5,3.67,1.17,3.67,3.0,8.0,0.5,2.6,3.0,5.0
+/match/eune/3358983041,Aatrox,Shen,Warwick,Bel'Veth,Ahri,Annie,Xayah,Kai'Sa,Rakan,Milio,-6004.0,-3.0,-1.0,27 / 44 / 34,44 / 28 / 68,0,2,red,2.33,0.8,1.33,6.0,2.0,2.67,0.89,6.0,1.12,6.33
+/match/eune/3358982722,Ornn,Aurelion Sol,Seraphine,Fiora,Diana,Maokai,Irelia,Thresh,Syndra,Kai'Sa,-7555.0,-2.0,-3.0,16 / 41 / 29,40 / 16 / 69,0,2,red,1.0,8.0,1.67,4.0,1.33,7.0,0.86,1.5,1.5,8.0
+/match/eune/3358983571,Shen,Dr. Mundo,Kayn,Zed,Vladimir,Katarina,Karthus,Seraphine,Nautilus,Blitzcrank,2131.0,1.0,1.0,37 / 27 / 78,26 / 38 / 56,2,0,blue,3.5,2.33,2.67,2.67,3.0,2.67,1.33,5.5,1.25,10.0
+/match/eune/3358979781,Lee Sin,Kha'Zix,Ezreal,Ashe,Pyke,Teemo,Cho'Gath,Blitzcrank,Annie,Twisted Fate,-1809.0,0.0,-1.0,32 / 51 / 40,51 / 32 / 56,1,0,red,2.8,4.0,1.57,6.5,1.25,1.71,3.0,1.0,1.75,2.0
+/match/eune/3358970043,Tristana,Orianna,Rengar,Gragas,Janna,Kha'Zix,Xayah,Ezreal,Karma,Yuumi,3942.0,2.0,3.0,23 / 12 / 41,12 / 23 / 20,0,1,blue,5.0,1.0,2.33,1.0,8.0,6.0,1.0,1.25,8.0,2.0
+/match/eune/3358974321,Gragas,Ornn,Lucian,Draven,Teemo,Vex,Nami,Viego,Tryndamere,Thresh,3370.0,2.0,0.0,40 / 37 / 54,37 / 40 / 51,0,1,blue,3.0,1.8,6.5,1.25,0.4,2.0,2.75,1.6,2.0,3.67
+/match/eune/3358967837,Gnar,Jax,Jarvan IV,Bel'Veth,Lux,Annie,Jhin,Lucian,Rakan,Pyke,-5222.0,-2.0,-2.0,38 / 48 / 51,48 / 38 / 54,1,1,red,1.0,6.0,3.4,2.0,2.83,1.86,1.62,1.71,1.36,4.0
+/match/eune/3358975190,Yasuo,Jinx,Karthus,Ekko,Aurelion Sol,Garen,Varus,Qiyana,Blitzcrank,Milio,5772.0,1.0,0.0,42 / 28 / 71,28 / 42 / 34,0,1,blue,1.33,4.0,8.5,0.86,2.5,1.17,3.33,0.75,3.0,9.0
+/match/eune/3358964064,K'Sante,Jax,Sejuani,Jarvan IV,LeBlanc,Yasuo,Samira,Veigar,Swain,Alistar,-4106.0,-3.0,-2.0,36 / 46 / 81,46 / 36 / 99,0,2,red,2.33,0.25,2.8,21.0,2.75,2.67,2.0,2.75,2.4,3.0
+/match/eune/3358961690,Malphite,Sion,Fizz,Shaco,Diana,Lissandra,Lucian,Jinx,Thresh,Janna,5823.0,0.0,-1.0,53 / 29 / 103,29 / 53 / 53,0,1,blue,12.0,1.25,1.67,1.25,5.67,3.33,16.0,0.88,10.5,0.62
+/match/eune/3358955822,Sett,Vladimir,Wukong,Sejuani,Lux,Riven,Kai'Sa,Caitlyn,Thresh,Renata Glasc,-8117.0,-6.0,-2.0,17 / 21 / 28,21 / 17 / 20,0,1,red,0.67,5.0,3.5,4.0,1.33,1.67,3.5,5.0,1.25,2.0
+/match/eune/3358958551,Lillia,Illaoi,Sett,Draven,Ziggs,Aurelion Sol,Zed,Volibear,Rakan,Leona,-10368.0,-4.0,0.0,26 / 45 / 56,45 / 26 / 54,0,2,red,1.6,3.5,1.0,3.0,1.25,3.2,2.33,3.5,2.0,5.0
+/match/eune/3358959358,Mordekaiser,Jinx,Rengar,Poppy,Vladimir,Veigar,Draven,Tahm Kench,Nami,Thresh,11264.0,3.0,0.0,43 / 35 / 48,35 / 43 / 45,2,0,blue,5.0,0.5,12.0,0.71,2.0,0.8,2.67,1.44,1.57,4.0
+/match/eune/3358954403,Poppy,Ornn,Master Yi,Hecarim,Xayah,Akali,Kennen,Aphelios,Rakan,Lulu,1329.0,1.0,-1.0,15 / 32 / 22,32 / 16 / 49,2,0,red,1.0,1.0,2.0,1.6,0.67,3.0,1.5,1.67,1.5,6.0
+/match/eune/3358951429,Aatrox,Kled,Kha'Zix,Gragas,Annie,Qiyana,Jinx,Zeri,Milio,Thresh,2209.0,0.0,1.0,37 / 27 / 57,27 / 37 / 21,2,0,blue,6.0,0.17,1.43,1.2,1.67,3.75,6.0,3.5,2.75,1.2
+/match/eune/3358949259,Nasus,Olaf,Talon,Kindred,Veigar,Cho'Gath,Xayah,Cassiopeia,Yuumi,Senna,132.0,1.0,-3.0,23 / 33 / 37,33 / 23 / 60,2,0,red,7.0,0.17,3.0,3.0,1.0,4.0,1.0,4.0,4.0,3.5
+/match/eune/3358944565,Jayce,Zed,Nocturne,Karthus,Fizz,Cho'Gath,Ezreal,Caitlyn,Janna,Annie,4078.0,-1.0,2.0,31 / 16 / 36,16 / 31 / 12,0,1,blue,1.0,2.0,11.0,1.5,1.0,1.0,0.5,1.0,4.0,0.0
+/match/eune/3358943536,Gangplank,Aatrox,Evelynn,Diana,Senna,Zed,Kai'Sa,Jhin,Ahri,Morgana,2533.0,2.0,-2.0,31 / 44 / 23,44 / 32 / 53,1,0,red,0.5,1.0,2.0,8.0,1.33,3.5,0.75,4.0,4.0,1.0
+/match/eune/3358939492,Mordekaiser,Ornn,Lillia,Diana,Veigar,Irelia,Xayah,Kai'Sa,Rakan,Blitzcrank,-4141.0,-3.0,1.0,24 / 40 / 30,40 / 25 / 45,1,1,red,1.25,1.5,1.8,4.67,0.8,6.5,1.6,1.25,2.0,1.2
+/match/eune/3358933830,Cho'Gath,Darius,Kayn,Skarner,Katarina,Kassadin,Ezreal,Kai'Sa,Thresh,Senna,-3677.0,-2.0,-3.0,29 / 37 / 50,37 / 29 / 58,1,1,red,1.5,1.0,3.0,2.25,2.2,2.5,1.33,1.67,4.0,2.67
+/match/eune/3358935398,Kayn,Ornn,Jarvan IV,Rek'Sai,Zed,LeBlanc,Miss Fortune,Draven,Swain,Zilean,5489.0,4.0,2.0,29 / 28 / 41,28 / 29 / 57,2,0,blue,1.75,7.0,4.0,2.25,0.67,1.0,7.0,1.0,3.0,1.17
+/match/eune/3358923886,Jax,Shen,Poppy,Master Yi,Ahri,Quinn,Xayah,Karthus,Lulu,Morgana,-3873.0,-2.0,1.0,30 / 41 / 46,40 / 30 / 70,0,1,red,3.33,1.0,1.33,3.0,2.5,4.0,1.2,2.75,1.2,5.0
+/match/eune/3358931365,Yone,Warwick,Rengar,Fiddlesticks,Annie,Anivia,Jhin,Jinx,Xerath,Lulu,-201.0,-1.0,2.0,37 / 30 / 58,30 / 37 / 33,2,0,blue,2.33,2.2,1.75,1.5,1.5,4.0,1.2,2.67,2.33,3.0
+/match/eune/3358916012,Fiora,Akshan,Kha'Zix,Vi,Fizz,Zed,Jinx,Kai'Sa,Lulu,Heimerdinger,-7800.0,-4.0,0.0,34 / 39 / 43,39 / 35 / 38,1,1,red,8.0,0.8,0.6,2.67,0.67,2.0,0.83,4.5,3.0,4.0
+/match/eune/3358916914,Nasus,Yone,Viego,Bel'Veth,Rumble,Annie,Jinx,Kog'Maw,Vel'Koz,Milio,-12782.0,-4.0,-2.0,20 / 42 / 25,42 / 20 / 49,0,2,red,1.25,2.0,0.14,2.33,1.2,5.5,0.5,15.0,0.6,7.5
+/match/eune/3358915953,Irelia,Shen,Wukong,Ekko,Akshan,Zed,Twitch,Miss Fortune,Brand,Morgana,-1333.0,3.0,-2.0,21 / 48 / 27,47 / 22 / 61,2,0,red,2.0,2.5,2.0,1.5,0.4,12.0,1.33,2.5,1.0,4.5
+/match/eune/3358920269,Rakan,Olaf,Rengar,Elise,Ahri,Kassadin,Kai'Sa,Jinx,Gnar,Milio,-17.0,-1.0,2.0,37 / 18 / 62,18 / 37 / 33,0,2,blue,2.0,2.0,5.0,1.0,8.0,0.4,2.0,1.0,0.33,5.0
+/match/eune/3358912744,Milio,Darius,Kassadin,Jhin,Sion,Thresh,Jinx,Katarina,Kindred,Elise,-2199.0,2.0,1.0,39 / 44 / 49,44 / 39 / 56,1,0,blue,1.29,4.0,1.29,1.17,0.0,10.0,2.0,6.0,0.5,3.0
+/match/eune/3358914575,Gnar,Pantheon,Hecarim,Warwick,Viktor,Sett,Miss Fortune,Jinx,Blitzcrank,Taric,937.0,1.0,-2.0,53 / 34 / 82,34 / 53 / 47,0,2,blue,4.0,0.88,3.2,3.25,1.29,1.5,2.0,2.75,2.0,2.6
+/match/eune/3358913290,Darius,Nocturne,Nunu & Willump,Diana,Lux,Yone,Ezreal,Kog'Maw,Yuumi,Lulu,5084.0,2.0,1.0,43 / 27 / 71,27 / 43 / 36,1,1,blue,2.0,1.2,2.4,4.33,1.75,0.83,6.5,0.33,6.5,1.8
+/match/eune/3358901029,Kayle,Sion,Evelynn,Wukong,Yasuo,Syndra,Jhin,Jinx,Janna,Rell,3337.0,2.0,1.0,32 / 19 / 42,19 / 32 / 24,2,0,blue,1.67,0.8,3.67,2.67,3.0,0.14,8.0,2.0,4.0,3.5
+/match/eune/3358901817,Aatrox,Irelia,Veigar,Rell,Lucian,Azir,Nami,Aphelios,Nocturne,Xin Zhao,4197.0,1.0,0.0,43 / 30 / 65,30 / 44 / 41,0,1,blue,0.33,10.0,1.33,2.0,4.25,0.83,8.5,1.29,1.5,1.86
+/match/eune/3358892600,Kennen,Teemo,Jarvan IV,Poppy,Ahri,Xerath,Jinx,Xayah,Yuumi,Senna,5821.0,4.0,0.0,35 / 24 / 61,24 / 35 / 45,0,2,blue,5.0,0.75,5.0,1.2,6.0,1.25,3.0,1.5,4.5,1.2
+/match/eune/3358899159,Jarvan IV,Tryndamere,Hecarim,Vladimir,Vex,Sejuani,Aphelios,Ezreal,Thresh,Janna,-3982.0,-2.0,-1.0,14 / 26 / 14,26 / 14 / 32,1,0,red,1.0,0.8,6.0,7.0,1.0,0.0,0.4,4.5,0.8,5.5
+/match/eune/3358876639,Syndra,Corki,Nocturne,Braum,Varus,Kennen,Malphite,Kai'Sa,Rakan,Poppy,-1921.0,0.0,-3.0,24 / 35 / 26,35 / 25 / 65,1,1,red,1.0,5.5,4.0,4.33,1.4,1.86,2.0,1.0,1.29,6.0
+/match/eune/3358867932,Zed,Pantheon,Shyvana,Wukong,LeBlanc,Ziggs,Vayne,Cho'Gath,Thresh,Senna,7199.0,1.0,3.0,39 / 17 / 41,17 / 39 / 22,2,0,blue,4.5,0.5,6.0,0.17,6.0,0.6,3.5,1.25,2.0,2.67
+/match/eune/3358874482,Yone,Shen,Jarvan IV,Hecarim,Ahri,Kassadin,Twitch,Aphelios,Karma,Blitzcrank,2445.0,1.0,0.0,27 / 35 / 41,35 / 27 / 57,1,1,red,1.5,2.0,1.83,3.0,2.0,1.0,7.0,1.67,8.0,1.8
+/match/eune/3358869505,Shen,Darius,Talon,Nunu & Willump,LeBlanc,Malzahar,Karthus,Xayah,Nami,Yuumi,-1194.0,-2.0,-1.0,34 / 37 / 58,37 / 34 / 67,0,1,red,1.33,3.0,2.5,1.8,5.0,1.67,1.43,2.2,1.25,6.0
+/match/eune/3358857047,Teemo,Aatrox,Lillia,Hecarim,Ziggs,Veigar,Jhin,Ezreal,Pyke,Xerath,-3205.0,-2.0,-2.0,27 / 44 / 30,44 / 27 / 32,2,0,red,0.5,1.0,1.25,4.0,2.25,1.0,2.25,2.75,1.57,1.57
+/match/eune/3358839031,Gnar,Jayce,Kayn,Kha'Zix,Yone,Orianna,Xayah,Kai'Sa,Xerath,Lux,-1654.0,3.0,-3.0,22 / 39 / 12,39 / 22 / 51,0,1,red,3.5,0.6,1.33,10.0,1.2,1.0,0.67,2.75,0.67,8.0
+/match/eune/3358839859,Gragas,Sion,Evelynn,Wukong,Orianna,Viktor,Vayne,Ezreal,Leona,Janna,-3831.0,-3.0,1.0,25 / 35 / 25,35 / 25 / 57,0,1,red,1.0,5.0,4.0,1.0,1.0,2.25,1.8,1.4,2.33,2.67
+/match/eune/3358831963,Akali,Darius,Rengar,Fiddlesticks,Yone,Zoe,Kog'Maw,Ezreal,Yuumi,Karma,-2554.0,0.0,0.0,41 / 32 / 51,32 / 41 / 52,1,1,blue,9.0,2.75,1.0,9.0,1.0,0.75,0.5,3.67,2.67,6.0
+/match/eune/3358838413,Mordekaiser,Jax,Rek'Sai,Evelynn,Ahri,Lux,Ezreal,Draven,Karma,Pyke,1610.0,-2.0,2.0,36 / 15 / 48,15 / 36 / 19,1,1,blue,3.0,0.4,4.67,2.5,4.5,1.33,4.5,1.5,3.0,2.0
+/match/eune/3358838299,Kayn,Fiora,Hecarim,Xin Zhao,Ahri,Lissandra,Samira,Zeri,Nautilus,Lulu,-2030.0,0.0,2.0,26 / 39 / 51,39 / 26 / 64,0,2,red,0.4,5.0,5.0,5.5,5.0,3.0,2.5,1.33,3.0,1.5
+/match/eune/3358824453,Illaoi,Singed,Viego,Pantheon,Xerath,Diana,Miss Fortune,Ezreal,Leona,Senna,-4479.0,0.0,-2.0,19 / 38 / 19,38 / 19 / 45,0,2,red,0.8,0.5,1.4,6.5,1.5,3.5,0.8,4.5,3.0,4.0
+/match/eune/3358820450,Volibear,Tryndamere,Jarvan IV,Zed,Irelia,Aurelion Sol,Lucian,Caitlyn,Yuumi,Pantheon,-390.0,-1.0,0.0,42 / 35 / 42,35 / 42 / 51,2,0,blue,0.83,0.8,4.67,3.33,1.6,1.5,1.75,3.33,4.5,1.4
+/match/eune/3358825074,Fiora,Dr. Mundo,Vi,Jarvan IV,Cho'Gath,Rumble,Ezreal,Twitch,Heimerdinger,Lulu,-1022.0,1.0,-1.0,31 / 46 / 30,46 / 32 / 87,2,0,red,2.0,0.0,2.5,2.17,3.0,2.0,1.0,3.2,1.43,4.67
+/match/eune/3358819413,Singed,Riven,Rengar,Master Yi,Swain,Talon,Ziggs,Ezreal,Senna,Xerath,-5979.0,-2.0,-2.0,22 / 41 / 29,41 / 22 / 33,0,2,red,0.8,1.75,1.5,3.0,0.67,4.0,1.33,0.75,1.5,6.0
+/match/eune/3358797830,Garen,Cassiopeia,Zac,Amumu,Lux,Zed,Twitch,Jinx,Bard,Vel'Koz,-2607.0,-1.0,-1.0,21 / 37 / 26,36 / 21 / 49,2,0,red,1.5,0.67,1.6,6.0,4.0,1.5,1.33,2.5,1.17,3.33
+/match/eune/3358792827,Mordekaiser,Shen,Zac,Pantheon,Akali,Quinn,Jinx,Nilah,Milio,Heimerdinger,-756.0,1.0,-3.0,26 / 42 / 35,42 / 26 / 53,2,0,red,1.0,0.5,4.33,4.0,2.2,1.8,1.0,1.75,2.0,3.33
+/match/eune/3358792338,Camille,Vladimir,Fiddlesticks,Kha'Zix,Yone,Azir,Seraphine,Jhin,Karma,Yuumi,2608.0,1.0,2.0,36 / 22 / 59,21 / 36 / 32,1,1,blue,2.0,6.0,7.0,4.0,1.6,0.75,1.33,1.67,4.0,2.0
+/match/eune/3358785006,Teemo,Aatrox,Wukong,Hecarim,Malzahar,Annie,Caitlyn,Lucian,Senna,Thresh,-6834.0,-4.0,-2.0,23 / 44 / 42,44 / 23 / 55,0,2,red,0.33,4.0,1.75,6.0,1.0,13.0,1.5,5.0,0.57,5.0
+/match/eune/3358786841,Irelia,Shen,Nunu & Willump,Nocturne,Aurelion Sol,LeBlanc,Jinx,Xayah,Alistar,Rakan,-7382.0,-1.0,-1.0,33 / 40 / 71,40 / 33 / 52,1,1,blue,0.0,12.0,1.29,9.0,1.2,9.0,1.57,4.0,1.33,2.8
+/match/eune/3358789296,Sion,Sett,Zac,Vi,Taliyah,Kayle,Ezreal,Kai'Sa,Lux,Zyra,197.0,1.0,1.0,36 / 24 / 71,24 / 36 / 27,1,1,blue,1.5,1.5,2.75,3.5,8.0,1.0,2.0,2.4,1.29,5.5
+/match/eune/3358783347,Dr. Mundo,Nocturne,Lee Sin,Jarvan IV,Ahri,Sylas,Zeri,Jinx,Thresh,Renata Glasc,2084.0,1.0,0.0,26 / 34 / 50,34 / 26 / 70,0,2,red,1.67,1.33,4.0,4.5,10.0,1.5,9.0,1.67,1.6,1.2
+/match/eune/3358779494,Kayle,Malphite,Hecarim,Graves,Vladimir,Gangplank,Kai'Sa,Jinx,Blitzcrank,Taric,-5895.0,-3.0,-3.0,33 / 36 / 49,36 / 33 / 62,0,2,blue,1.0,4.0,2.75,1.33,0.86,3.33,1.25,5.5,1.33,7.0
+/match/eune/3358772572,Skarner,Fiora,Jarvan IV,Diana,Vladimir,Qiyana,Draven,Tristana,Renata Glasc,Thresh,-4633.0,-1.0,-3.0,31 / 31 / 60,31 / 31 / 44,0,2,blue,0.67,8.0,1.2,2.33,1.0,3.33,2.0,7.0,0.67,4.33
+/match/eune/3358771476,Jax,Illaoi,Nocturne,Evelynn,Vladimir,Yone,Twitch,Jinx,Bard,Alistar,3657.0,0.0,2.0,30 / 19 / 36,19 / 30 / 21,0,1,blue,5.0,0.4,2.0,2.5,4.0,1.0,3.0,2.0,1.0,4.0
+/match/eune/3358772453,Sion,Yone,Kha'Zix,Graves,Lux,Lissandra,Caitlyn,Karthus,Swain,Senna,-8297.0,-5.0,-2.0,26 / 40 / 33,40 / 26 / 53,0,2,red,0.83,3.33,1.25,8.0,1.0,1.25,8.0,2.25,6.5,1.5
+/match/eune/3358742576,Sylas,Dr. Mundo,Fiddlesticks,Kayn,Jayce,Cho'Gath,Miss Fortune,Ezreal,Janna,Sona,-3084.0,0.0,0.0,24 / 31 / 34,31 / 24 / 48,0,2,red,1.33,9.0,1.5,4.0,1.75,1.4,3.0,3.0,3.0,4.0
+/match/eune/3358732786,Sion,Cho'Gath,Vi,Nocturne,Zed,Aurelion Sol,Xayah,Sivir,Morgana,Milio,12600.0,5.0,2.0,36 / 15 / 47,14 / 36 / 14,1,0,blue,2.67,0.75,4.5,0.57,4.33,0.67,6.0,0.33,7.0,1.0
+/match/eune/3358726897,Zed,Darius,Trundle,Rengar,Maokai,Vladimir,Jinx,Samira,Sion,Senna,1076.0,1.0,2.0,34 / 33 / 51,33 / 34 / 34,1,1,red,9.0,1.0,7.0,0.8,8.5,0.25,15.0,0.43,1.0,3.0
+/match/eune/3358733324,Jax,Fiora,Gragas,Vi,Fizz,Kassadin,Twitch,Kai'Sa,Milio,Vel'Koz,10557.0,4.0,1.0,39 / 19 / 56,19 / 39 / 35,1,1,blue,2.0,0.57,9.0,0.8,4.0,0.8,3.25,0.75,14.0,1.67
+/match/eune/3358731195,Rumble,Wukong,Jarvan IV,Kha'Zix,Zed,Viktor,Jinx,Jhin,Milio,Senna,6636.0,4.0,0.0,39 / 14 / 59,13 / 40 / 14,0,2,blue,1.67,1.0,8.0,1.67,3.0,0.57,4.0,0.75,12.0,0.75
+/match/eune/3358721032,Wukong,Zac,Rek'Sai,Fiddlesticks,Quinn,Gangplank,Zeri,Jhin,Sylas,Xerath,590.0,-1.0,3.0,42 / 27 / 40,26 / 42 / 37,2,0,blue,1.5,2.0,12.0,1.8,2.67,1.25,2.0,1.8,1.5,1.2
+/match/eune/3358718620,Jax,Sion,Taliyah,Kai'Sa,Talon,Vladimir,Jinx,Master Yi,Lulu,Pyke,8826.0,4.0,1.0,45 / 27 / 68,27 / 45 / 34,0,2,blue,0.75,1.33,16.0,0.71,2.0,3.0,2.6,1.0,14.0,1.17
+/match/eune/3358708857,Kayle,Yasuo,Rek'Sai,Udyr,Irelia,Annie,Ezreal,Xayah,Neeko,Rakan,-6733.0,-1.0,-3.0,14 / 30 / 16,30 / 14 / 45,0,2,red,1.0,2.0,2.67,3.33,0.83,4.5,5.0,4.5,1.0,10.0
+/match/eune/3358706925,Kennen,Malphite,Kayn,Jarvan IV,Shen,Ekko,Kai'Sa,Miss Fortune,Rakan,Thresh,-1154.0,-2.0,-1.0,20 / 30 / 36,30 / 21 / 57,1,1,red,0.0,1.0,2.0,5.0,0.75,3.33,1.25,2.5,2.5,4.0
+/match/eune/3358705823,Malzahar,Sion,Kayn,Zac,Lissandra,Vladimir,Caitlyn,Ezreal,Zoe,Taric,92.0,1.0,0.0,53 / 38 / 84,38 / 54 / 49,1,1,blue,1.14,2.0,2.0,3.0,3.5,0.33,1.5,3.67,1.8,2.2
+/match/eune/3358695242,Jayce,Katarina,Evelynn,Lillia,Ashe,Mordekaiser,Ezreal,Caitlyn,Rakan,Janna,-2039.0,-2.0,-3.0,17 / 35 / 24,35 / 17 / 33,0,1,red,0.67,2.67,1.5,8.0,0.78,2.75,7.0,1.33,7.0,3.0
+/match/eune/3358689499,Camille,Maokai,Vi,Poppy,Veigar,Syndra,Zeri,Aphelios,Lulu,Thresh,4942.0,2.0,1.0,37 / 25 / 54,25 / 37 / 49,2,0,blue,2.0,4.5,1.2,3.0,2.33,4.0,3.0,3.25,2.75,1.33
+/match/eune/3358685721,Nunu & Willump,Janna,Vladimir,Riven,Malphite,Rumble,Caitlyn,Sylas,Morgana,Yasuo,-4650.0,1.0,0.0,32 / 54 / 49,53 / 32 / 66,1,0,red,1.8,3.33,1.25,2.33,1.0,5.0,1.5,3.33,2.0,2.2
+/match/eune/3358687150,Darius,Ornn,Anivia,Kayn,Jarvan IV,Vladimir,Kai'Sa,Jinx,Pyke,Bard,-5742.0,-3.0,-1.0,18 / 29 / 26,29 / 18 / 44,1,1,red,5.0,0.5,0.33,4.0,0.67,7.0,1.5,2.33,8.0,3.0
+/match/eune/3358678804,Ornn,Shen,Skarner,Kha'Zix,Ahri,Zoe,Tristana,Twitch,Pyke,Milio,6420.0,2.0,2.0,40 / 24 / 60,24 / 40 / 39,2,0,blue,9.0,2.67,7.0,1.14,1.0,3.0,10.0,1.25,2.17,1.5
+/match/eune/3358684138,Malphite,Rumble,Nunu & Willump,Rengar,Karthus,Aurelion Sol,Vayne,Xayah,Blitzcrank,Zilean,-5360.0,-3.0,1.0,20 / 45 / 23,45 / 20 / 70,1,0,red,4.0,0.2,2.67,3.33,0.88,14.0,0.8,2.67,2.0,3.67
+/match/eune/3358670919,Wukong,Jax,Shaco,Jinx,Syndra,Vladimir,Aphelios,Trundle,Soraka,Milio,-3973.0,0.0,-2.0,1 / 15 / 1,15 / 1 / 22,2,0,red,0.0,4.0,0.0,6.0,0.0,1.0,0.0,3.0,0.0,2.0
+/match/eune/3358660962,Irelia,Shen,Hecarim,Bel'Veth,Diana,Vladimir,Ezreal,Kai'Sa,Thresh,Senna,3777.0,3.0,-2.0,36 / 50 / 42,50 / 36 / 78,2,0,red,0.89,3.0,3.0,2.0,2.5,1.29,2.5,3.0,1.8,1.14
+/match/eune/3358664632,Mordekaiser,Lee Sin,Sion,Hecarim,Zed,Syndra,Jinx,Veigar,Blitzcrank,Alistar,8166.0,3.0,0.0,43 / 20 / 53,18 / 43 / 21,2,0,blue,7.0,0.2,2.0,0.83,12.0,0.67,2.67,1.75,13.0,0.6
+/match/eune/3358660169,Pantheon,Lee Sin,Gragas,Kha'Zix,Jax,Talon,Jinx,Karthus,Pyke,Karma,5860.0,2.0,0.0,46 / 25 / 49,25 / 46 / 33,2,0,blue,3.0,0.29,2.33,1.6,4.5,1.5,3.33,1.25,3.0,1.5
+/match/eune/3358658426,Olaf,Shen,Ekko,Udyr,Neeko,Zoe,Vayne,Kai'Sa,Alistar,Thresh,7228.0,4.0,-1.0,33 / 44 / 42,44 / 33 / 98,1,0,red,6.0,1.4,4.33,1.4,7.0,1.2,0.2,6.0,1.75,2.0
+/match/eune/3358640007,Fiora,Sett,Lillia,Sejuani,Vel'Koz,Jinx,Jhin,Swain,Soraka,Seraphine,4129.0,-2.0,0.0,32 / 23 / 43,23 / 32 / 38,2,0,blue,11.0,0.0,7.0,1.75,1.67,1.2,0.75,3.33,1.0,5.5
+/match/eune/3358643786,Gwen,Sett,Kha'Zix,Zac,Fizz,Pantheon,Kai'Sa,Ezreal,Milio,Ashe,-10339.0,-8.0,-1.0,19 / 32 / 30,32 / 19 / 44,0,2,red,2.33,2.67,9.0,8.0,0.71,15.0,0.33,1.5,1.5,1.5
+/match/eune/3358626751,Gwen,Gangplank,Hecarim,Rengar,Akshan,Irelia,Jhin,Yasuo,Karma,Vel'Koz,-7099.0,-2.0,-3.0,46 / 50 / 55,50 / 46 / 47,0,2,blue,1.4,1.8,1.29,11.0,1.5,2.25,0.75,3.75,0.86,8.0
+/match/eune/3358634250,Dr. Mundo,Gwen,Lee Sin,Kha'Zix,Lissandra,Nasus,Varus,Ezreal,Annie,Tahm Kench,827.0,1.0,-2.0,39 / 40 / 56,40 / 39 / 62,2,0,red,1.25,1.75,1.33,1.8,8.0,6.0,2.0,0.62,3.33,4.33
+/match/eune/3358618728,Irelia,Jax,Nocturne,Kha'Zix,Anivia,Poppy,Xayah,Kai'Sa,Thresh,Karma,781.0,1.0,-2.0,29 / 42 / 40,42 / 29 / 52,2,0,red,0.67,9.0,1.5,7.0,1.4,2.0,3.33,1.6,1.67,2.17
+/match/eune/3358616940,Kled,Malphite,Kayn,Master Yi,LeBlanc,Viktor,Darius,Kog'Maw,Braum,Milio,6043.0,3.0,3.0,40 / 24 / 55,24 / 40 / 40,1,1,blue,1.75,1.67,10.0,0.75,6.0,1.25,8.0,1.33,2.0,3.0
+/match/eune/3358620527,Teemo,Garen,Vi,Rammus,Talon,Akshan,Caitlyn,Kog'Maw,Milio,Lulu,-1182.0,1.0,1.0,16 / 30 / 16,30 / 16 / 43,0,1,red,0.5,2.5,2.0,6.0,1.0,1.5,1.33,2.0,4.0,5.0
+/match/eune/3358614755,Yorick,Garen,Jarvan IV,Evelynn,Viktor,Vladimir,Zeri,Samira,Lulu,Rell,-1722.0,1.0,2.0,17 / 34 / 18,34 / 17 / 44,1,1,red,0.5,3.0,1.5,6.0,0.67,10.0,3.33,0.43,2.0,3.67
+/match/eune/3358621310,Jax,Shen,Nidalee,Kha'Zix,Lux,Cassiopeia,Kai'Sa,Jinx,Taric,Zyra,8377.0,3.0,0.0,39 / 21 / 47,21 / 39 / 25,2,0,blue,1.2,4.0,5.0,0.78,10.0,0.17,3.33,1.75,3.0,1.0
+/match/eune/3358623183,Malphite,Sylas,Udyr,Master Yi,Diana,Syndra,Seraphine,Jinx,Nami,Lulu,4388.0,4.0,1.0,57 / 25 / 106,24 / 57 / 36,2,0,blue,1.0,1.71,6.5,2.0,2.25,0.6,6.0,0.6,6.5,1.67
+/match/eune/3358612615,Riven,Irelia,Diana,Maokai,Zed,Lux,Varus,Miss Fortune,Lulu,Yuumi,984.0,0.0,2.0,31 / 18 / 28,18 / 31 / 23,1,1,blue,1.0,2.33,3.0,3.0,3.0,1.0,4.0,1.25,1.33,2.0
+/match/eune/3358606027,Swain,Lee Sin,Skarner,Rek'Sai,Akshan,Vladimir,Jinx,Kai'Sa,Senna,Alistar,-1129.0,2.0,-1.0,37 / 32 / 71,32 / 37 / 41,2,0,blue,3.0,1.5,1.67,14.0,0.6,8.0,2.5,1.25,2.5,1.83
+/match/eune/3358609779,Yone,Tristana,Nunu & Willump,Jarvan IV,Lulu,Yasuo,Jinx,Darius,Irelia,Pantheon,-7955.0,-3.0,-2.0,30 / 42 / 50,42 / 30 / 47,0,1,red,2.8,1.0,2.0,1.5,2.0,9.0,1.5,6.5,0.43,6.5
+/match/eune/3358614252,Irelia,Vladimir,Udyr,Warwick,Tristana,Malzahar,Veigar,Kai'Sa,Senna,Soraka,3975.0,2.0,1.0,31 / 26 / 32,26 / 31 / 34,2,0,blue,0.0,6.0,2.0,3.25,3.67,0.67,1.0,2.67,2.5,3.0
+/match/eune/3358604773,Volibear,Illaoi,Graves,Zac,Syndra,Katarina,Kai'Sa,Twitch,Aurelion Sol,Thresh,-5287.0,-2.0,0.0,31 / 46 / 36,46 / 31 / 72,1,1,red,1.67,0.6,2.5,6.5,1.2,1.5,0.5,21.0,0.4,18.0
+/match/eune/3358613213,Malphite,Akshan,Volibear,Lillia,Lux,Xayah,Aphelios,Ahri,Orianna,Blitzcrank,-7817.0,-2.0,-1.0,26 / 41 / 58,41 / 27 / 68,1,1,red,1.25,4.0,2.67,3.67,5.33,1.5,1.71,3.33,2.8,3.4
+/match/eune/3358602903,Camille,Warwick,Hecarim,Evelynn,LeBlanc,Kai'Sa,Varus,Jinx,Milio,Thresh,-2480.0,0.0,-2.0,38 / 32 / 66,32 / 38 / 29,0,2,blue,1.0,2.33,3.67,1.33,3.0,1.14,1.5,1.75,1.5,7.0
+/match/eune/3358593922,Shen,Gragas,Nunu & Willump,Kayn,Kayle,Lissandra,Jinx,Jhin,Lulu,Twitch,-6099.0,-3.0,0.0,16 / 38 / 27,38 / 16 / 62,2,0,red,1.75,10.0,1.8,7.0,0.4,2.67,0.83,6.0,4.0,3.4
+/match/eune/3358595309,Neeko,Lee Sin,Rek'Sai,Skarner,Vladimir,Malzahar,Ezreal,Caitlyn,Taric,Lux,1674.0,0.0,-1.0,27 / 30 / 31,30 / 28 / 58,0,2,red,1.2,1.0,13.0,3.33,4.5,0.5,2.0,1.67,2.75,3.25
+/match/eune/3358590440,Shen,Kayle,Lillia,Mordekaiser,Senna,Pyke,Karthus,Draven,Akshan,Milio,-3628.0,-2.0,-1.0,31 / 49 / 42,49 / 31 / 77,0,2,red,1.6,1.25,1.4,3.75,7.5,5.0,1.83,1.5,2.0,2.2
+/match/eune/3358583789,Nasus,Xin Zhao,Hecarim,Volibear,Katarina,Vladimir,Caitlyn,Tristana,Janna,Soraka,1140.0,-1.0,-2.0,38 / 31 / 63,31 / 38 / 48,2,0,blue,5.0,0.5,4.0,3.5,1.4,3.0,2.0,6.0,1.4,3.5
+/match/eune/3358582465,Shen,Lux,Fiddlesticks,Warwick,Zed,Sylas,Jinx,Kai'Sa,Lulu,Kayle,-1692.0,-3.0,-1.0,35 / 16 / 41,16 / 35 / 21,1,0,blue,0.67,5.0,7.0,8.0,1.25,0.0,3.0,2.5,0.0,1.33
+/match/eune/3358584449,Yone,Gangplank,Pantheon,Kayn,Lissandra,Fizz,Kai'Sa,Nilah,Thresh,Senna,2333.0,1.0,1.0,40 / 19 / 67,19 / 40 / 19,0,1,blue,0.33,1.5,4.0,3.0,0.67,1.25,10.0,0.33,11.0,0.5
+/match/eune/3358586210,Sett,Sion,Gragas,Zac,Heimerdinger,Ahri,Kai'Sa,Xayah,Thresh,Pyke,-3792.0,-2.0,-2.0,17 / 35 / 22,35 / 17 / 50,1,1,red,2.5,1.33,2.0,3.5,0.71,2.33,4.0,5.0,1.2,4.5
+/match/eune/3358577579,Shen,Evelynn,Zed,Vladimir,Veigar,Kai'Sa,Xayah,Darius,Lulu,Rell,-5614.0,-1.0,-2.0,20 / 24 / 46,24 / 20 / 43,1,0,red,5.0,0.5,2.0,2.33,0.5,6.0,1.67,5.0,2.5,3.5
+/match/eune/3358572865,Aatrox,Kled,Nunu & Willump,Gragas,Vladimir,Rumble,Sivir,Akshan,Zilean,Milio,3250.0,3.0,0.0,36 / 25 / 50,25 / 36 / 34,2,0,blue,1.0,1.25,3.67,6.0,1.5,2.67,10.0,1.0,2.5,1.17
+/match/eune/3358570843,Kennen,Aatrox,Hecarim,Maokai,Ahri,Vladimir,Zeri,Ezreal,Lulu,Pyke,-4263.0,-1.0,-1.0,19 / 34 / 28,34 / 19 / 38,1,1,red,1.0,2.0,2.25,5.5,1.25,4.0,1.6,1.6,2.67,4.33
+/match/eune/3358580168,Irelia,Fiora,Lillia,Fiddlesticks,Katarina,Lissandra,Ezreal,Zeri,Nami,Soraka,-10038.0,-3.0,-2.0,14 / 38 / 17,38 / 14 / 58,1,1,red,2.0,0.8,0.83,13.0,0.4,12.0,0.0,7.0,0.14,22.0
+/match/eune/3358575246,Nasus,Gragas,Kayn,Kha'Zix,Ahri,Lux,Veigar,Jinx,Thresh,Nami,1670.0,0.0,0.0,31 / 20 / 29,20 / 31 / 25,0,2,blue,0.0,1.0,3.67,1.5,2.0,2.67,3.0,0.33,4.0,2.0
+/match/eune/3358559211,Olaf,Jax,Fiddlesticks,Talon,Lissandra,Kayle,Jinx,Vayne,Senna,Nautilus,1072.0,4.0,2.0,34 / 27 / 53,27 / 34 / 22,1,1,blue,0.83,1.17,5.5,2.0,1.0,11.0,4.5,0.75,3.0,2.2
+/match/eune/3358547837,Singed,Warwick,Nunu & Willump,Evelynn,Yasuo,K'Sante,Twitch,Ezreal,Milio,Alistar,-4292.0,-1.0,0.0,20 / 51 / 42,48 / 20 / 58,0,2,red,0.14,5.0,0.71,6.5,0.5,2.33,1.67,5.0,6.0,10.0
+/match/eune/3358560114,Jax,Darius,Elise,Vi,Cassiopeia,Sylas,Ezreal,Kai'Sa,Pyke,Karma,-7077.0,-5.0,-1.0,42 / 35 / 64,35 / 42 / 51,0,2,blue,0.43,4.0,1.0,10.0,2.33,2.2,1.75,3.0,1.4,2.75
+/match/eune/3358553570,Renekton,Ornn,Vi,Kayn,LeBlanc,Akali,Karthus,Ezreal,Blitzcrank,Soraka,1011.0,3.0,0.0,31 / 38 / 32,38 / 31 / 59,2,0,red,3.5,2.0,3.67,1.75,2.67,1.6,1.12,1.12,4.5,4.0
+/match/eune/3358553496,Irelia,Kayle,Xin Zhao,Jarvan IV,Azir,Fizz,Jinx,Kog'Maw,Milio,Lulu,12422.0,9.0,2.0,41 / 25 / 64,25 / 41 / 51,2,0,blue,3.25,1.0,4.33,1.6,5.0,1.25,7.0,0.43,7.0,1.4
+/match/eune/3358542919,Darius,Shen,Gragas,Viego,Qiyana,Nasus,Draven,Kog'Maw,Janna,Blitzcrank,4532.0,1.0,1.0,31 / 23 / 47,23 / 31 / 38,1,1,blue,2.0,10.0,12.0,1.33,3.5,1.6,1.0,2.2,7.0,1.83
+/match/eune/3358547209,Malphite,Riven,Amumu,Jarvan IV,Yasuo,Viktor,Samira,Miss Fortune,Blitzcrank,Annie,4234.0,1.0,3.0,29 / 28 / 48,28 / 29 / 39,2,0,blue,1.5,0.5,2.25,4.0,2.33,2.75,1.67,1.4,1.75,5.0
+/match/eune/3358537428,Camille,Vayne,Fiddlesticks,Udyr,Aurelion Sol,Ziggs,Ezreal,Kai'Sa,Yuumi,Pyke,-2983.0,-1.0,-2.0,25 / 28 / 32,27 / 25 / 35,0,2,red,1.0,1.0,7.0,5.0,0.6,1.25,1.25,2.0,5.0,7.0
+/match/eune/3358537220,Camille,Aatrox,Kindred,Kha'Zix,Kassadin,Viktor,Cho'Gath,Kai'Sa,Senna,Nautilus,2914.0,0.0,2.0,41 / 35 / 60,35 / 41 / 46,0,1,blue,2.5,2.0,1.67,3.5,6.0,0.67,2.0,1.4,5.0,2.0
+/match/eune/3358533160,Darius,Camille,Jarvan IV,Kha'Zix,Taliyah,Gragas,Veigar,Karthus,Rakan,Blitzcrank,4467.0,1.0,0.0,37 / 21 / 45,21 / 37 / 26,1,1,blue,4.5,0.5,1.67,1.6,3.5,4.0,3.0,2.75,2.0,1.5
+/match/eune/3358531360,Gragas,Gwen,Graves,Kayn,Jax,Irelia,Nilah,Draven,Rakan,Janna,-2116.0,0.0,-2.0,19 / 35 / 28,35 / 19 / 53,1,0,red,2.0,0.5,2.0,2.0,0.8,3.5,0.67,1.5,3.0,4.0
+/match/eune/3358505973,Sion,Aatrox,Rengar,Gragas,Sylas,Irelia,Ezreal,Karthus,Annie,Senna,430.0,0.0,-2.0,51 / 52 / 70,52 / 51 / 79,0,2,red,5.5,0.5,0.9,2.0,1.0,3.5,3.67,2.5,2.2,3.0
+/match/eune/3358508459,Sion,Irelia,Ekko,Shen,Syndra,Cassiopeia,Ezreal,Kalista,Yuumi,Rell,-6619.0,-2.0,2.0,19 / 36 / 26,36 / 19 / 56,1,1,red,0.5,2.5,0.5,7.0,1.5,8.0,1.6,4.0,4.0,3.67
+/match/eune/3358506134,Ornn,Shen,Diana,Zed,Yasuo,Katarina,Sivir,Ashe,Alistar,Milio,3374.0,4.0,-1.0,16 / 36 / 15,36 / 16 / 60,0,1,red,0.8,3.0,1.75,2.0,2.0,2.0,1.0,6.0,2.0,1.67
+/match/eune/3358499487,Darius,Aatrox,Udyr,Jarvan IV,Rumble,Katarina,Karthus,Seraphine,Karma,Senna,-6164.0,-1.0,-2.0,12 / 31 / 16,31 / 12 / 54,2,0,red,0.6,2.67,1.25,5.0,0.67,5.0,3.0,4.0,1.5,3.0
+/match/eune/3358497649,Riven,Dr. Mundo,Nocturne,Jarvan IV,Vex,Irelia,Karthus,Ezreal,Blitzcrank,Rakan,302.0,-3.0,-3.0,45 / 34 / 81,34 / 45 / 76,1,1,red,3.0,0.5,7.0,1.75,1.4,0.86,5.5,3.0,7.5,2.25
+/match/eune/3358490581,Udyr,Darius,Amumu,Lillia,Taliyah,Tristana,Jinx,Caitlyn,Senna,Karma,-4672.0,-2.0,-1.0,31 / 34 / 65,34 / 31 / 36,2,0,blue,1.75,1.4,1.33,12.0,1.4,4.0,1.29,8.5,1.17,2.17
+/match/eune/3358486420,Darius,Gwen,Shaco,Master Yi,Vel'Koz,Zed,Draven,Zeri,Pyke,Alistar,6796.0,2.0,2.0,40 / 27 / 54,27 / 40 / 32,1,1,blue,1.5,1.0,14.0,1.0,2.0,1.0,2.67,0.6,3.0,8.0
+/match/eune/3358474690,Akshan,Renekton,Hecarim,Kha'Zix,Sylas,Lissandra,Karthus,Sivir,Rakan,Alistar,-112.0,1.0,0.0,30 / 36 / 36,36 / 31 / 53,0,2,red,1.75,1.75,2.2,2.0,2.33,0.57,4.0,1.0,11.0,2.2
+/match/eune/3358467036,Kled,Gragas,Fiddlesticks,Master Yi,Malphite,Ahri,Kai'Sa,Xayah,Nautilus,Yuumi,3901.0,4.0,-1.0,41 / 29 / 73,28 / 41 / 39,2,0,blue,10.0,0.0,3.33,2.2,2.0,0.83,1.33,4.33,1.57,7.0
+/match/eune/3358466544,Cho'Gath,Vayne,Shaco,Diana,Ziggs,Pantheon,Yone,Sivir,Swain,Alistar,-525.0,1.0,0.0,25 / 40 / 45,40 / 25 / 61,1,0,red,0.0,3.0,2.0,11.0,1.5,4.0,4.5,1.5,4.0,2.0
+/match/eune/3358454920,Shen,Rengar,Hecarim,Elise,Malzahar,Kassadin,Twitch,Jhin,Morgana,Soraka,-6568.0,-5.0,0.0,35 / 49 / 49,49 / 35 / 55,0,0,red,1.0,3.0,2.75,3.67,1.0,2.25,2.2,2.0,3.33,1.6
+/match/eune/3358453540,Jax,Fiora,Skarner,Nunu & Willump,Galio,Vladimir,Xayah,Caitlyn,Annie,Zilean,-5933.0,-2.0,-2.0,14 / 34 / 15,34 / 14 / 48,2,0,red,0.83,1.5,7.0,6.0,0.83,2.0,0.25,10.0,0.67,15.0
+/match/eune/3358449195,Fiora,Singed,Fiddlesticks,Kha'Zix,Annie,Karthus,Xayah,Aphelios,Rakan,Senna,1911.0,1.0,0.0,40 / 19 / 54,19 / 41 / 37,1,1,blue,2.0,0.6,7.0,4.0,1.0,3.0,3.0,0.67,11.0,1.67
+/match/eune/3358431719,Cho'Gath,Malphite,Gragas,Kha'Zix,Ahri,Annie,Xayah,Seraphine,Rakan,Senna,5996.0,3.0,0.0,35 / 19 / 61,19 / 35 / 38,2,0,blue,5.0,3.0,5.5,1.0,3.0,1.67,8.0,1.0,4.67,0.75
+/match/eune/3358422964,Cho'Gath,Sylas,Kha'Zix,Bel'Veth,Kai'Sa,Cassiopeia,Nautilus,Seraphine,Taliyah,Senna,7379.0,2.0,3.0,42 / 21 / 72,21 / 42 / 47,1,1,blue,1.0,3.0,6.0,1.29,6.5,1.5,3.2,1.33,3.0,2.33
+/match/eune/3358410040,Sylas,Malphite,Hecarim,Kha'Zix,LeBlanc,Vladimir,Lulu,Kog'Maw,Jinx,Milio,5433.0,2.0,0.0,36 / 18 / 61,18 / 36 / 24,2,0,blue,3.0,0.6,5.5,1.75,11.0,1.0,2.0,5.0,1.6,1.0
+/match/eune/3358415363,Sion,Malphite,Lillia,Kha'Zix,Lux,Orianna,Xayah,Jinx,Kennen,Thresh,3988.0,2.0,-3.0,22 / 13 / 28,13 / 22 / 23,2,0,blue,5.0,1.0,8.0,1.0,5.0,2.0,1.0,7.0,0.5,9.0
+/match/eune/3358416324,Dr. Mundo,Camille,Graves,Shaco,Viktor,Lux,Draven,Veigar,Thresh,Zilean,-5844.0,-2.0,1.0,16 / 46 / 12,46 / 16 / 50,1,1,red,1.0,2.0,3.0,7.0,0.25,2.0,0.5,4.0,0.71,14.0
+/match/eune/3358402993,Gragas,Cassiopeia,Kha'Zix,Jarvan IV,Zed,Sylas,Seraphine,Caitlyn,Senna,Milio,-10747.0,-4.0,-2.0,27 / 48 / 55,48 / 27 / 64,0,1,red,1.2,1.75,1.4,4.5,1.0,3.5,0.5,6.0,0.83,16.0
+/match/eune/3358407201,Sion,Poppy,Nidalee,Bel'Veth,Viktor,Lux,Twitch,Jinx,Milio,Thresh,-6989.0,-4.0,-3.0,10 / 20 / 8,20 / 10 / 32,0,2,red,5.0,0.5,0.5,3.0,0.25,5.0,1.0,5.0,2.0,6.0
+/match/eune/3358394946,Kennen,Camille,Lee Sin,Rek'Sai,Katarina,Malzahar,Varus,Jinx,Rakan,Senna,-1739.0,-2.0,-2.0,21 / 27 / 27,27 / 21 / 54,1,0,red,2.0,1.0,4.5,5.0,1.2,2.5,2.33,4.5,3.0,1.0
+/match/eune/3358391938,Darius,Malphite,Elise,Rengar,LeBlanc,Ahri,Twitch,Kalista,Milio,Thresh,5690.0,1.0,-2.0,35 / 11 / 48,11 / 35 / 18,2,0,blue,8.0,0.2,5.5,0.14,12.0,0.75,3.5,4.0,7.0,2.0
+/match/eune/3358384918,Darius,Ornn,Kha'Zix,Lee Sin,Ahri,Zed,Karthus,Kai'Sa,Thresh,Karma,6730.0,5.0,2.0,39 / 26 / 53,26 / 39 / 45,2,0,blue,1.0,1.67,10.0,3.5,3.0,0.67,1.2,1.75,3.0,2.67
+/match/eune/3358388278,Mordekaiser,Malphite,Nidalee,Jhin,Zed,Ekko,Draven,Jinx,Senna,Lulu,-5804.0,0.0,1.0,15 / 33 / 19,33 / 15 / 42,0,1,red,0.5,2.0,0.25,5.5,0.5,7.0,0.75,2.5,1.25,8.0
+/match/eune/3358380625,Sivir,Gwen,Evelynn,Hecarim,Annie,Katarina,Shen,Samira,Senna,Rell,2066.0,2.0,0.0,38 / 36 / 62,36 / 39 / 54,1,1,blue,4.33,0.71,11.0,3.33,1.2,2.0,2.33,1.33,3.25,1.6
+/match/eune/3358381079,Pantheon,Ornn,Elise,Udyr,Bard,Vladimir,Xayah,Varus,Garen,Thresh,-688.0,1.0,-1.0,32 / 41 / 55,41 / 32 / 67,1,1,red,3.33,1.5,4.0,2.17,2.2,3.75,1.0,3.0,3.0,2.0
+/match/eune/3358365716,Camille,Ornn,Viego,Lillia,Gragas,Zed,Draven,Jinx,Zyra,Lulu,5360.0,4.0,1.0,46 / 36 / 48,35 / 46 / 38,2,0,blue,0.75,2.75,3.0,0.88,4.5,2.5,1.71,1.0,5.67,2.2
+/match/eune/3358370431,Ornn,Cho'Gath,Irelia,Zed,Lillia,Katarina,Ezreal,Vayne,Nautilus,Senna,134.0,0.0,0.0,35 / 48 / 45,48 / 35 / 58,2,0,red,2.25,0.67,10.0,3.0,3.33,1.6,0.86,2.33,0.88,5.5
+/match/eune/3358360959,Mordekaiser,Garen,Jarvan IV,Lillia,Xerath,Zed,Tristana,Sivir,Leona,Senna,2480.0,2.0,0.0,42 / 26 / 60,26 / 42 / 30,1,1,blue,0.8,1.33,3.0,1.0,10.0,0.4,3.25,1.67,11.0,0.86
+/match/eune/3358360438,Kennen,Olaf,Kha'Zix,Amumu,Ziggs,Syndra,Samira,Jinx,Rell,Lulu,7067.0,2.0,-2.0,36 / 28 / 35,28 / 36 / 47,1,1,blue,10.0,0.5,6.0,0.67,1.25,0.8,3.5,1.25,3.0,3.0
+/match/eune/3358353925,Ornn,Azir,Wukong,Jarvan IV,Mordekaiser,Darius,Jinx,Ezreal,Lulu,Thresh,4484.0,2.0,1.0,41 / 32 / 50,32 / 41 / 59,2,0,blue,1.6,1.4,1.5,3.8,0.2,5.0,3.0,1.43,2.8,3.75
+/match/eune/3358341918,Ryze,Darius,Sejuani,Rengar,Garen,Ahri,Jinx,Kai'Sa,Janna,Pyke,-7500.0,-4.0,-2.0,40 / 33 / 63,33 / 40 / 34,1,1,blue,2.5,3.5,2.5,1.5,2.33,2.0,0.4,5.0,1.75,2.0
+/match/eune/3358343728,Graves,Pantheon,Rengar,Sejuani,Sivir,Annie,Sylas,Jinx,Senna,Lulu,-897.0,0.0,-2.0,20 / 39 / 16,39 / 20 / 49,0,1,red,0.67,4.0,1.6,2.0,6.0,2.0,0.83,2.33,1.5,2.33
+/match/eune/3358340242,Jayce,Darius,Sejuani,Lillia,Swain,Lux,Jinx,Kog'Maw,Lulu,Zilean,1760.0,-1.0,-2.0,23 / 22 / 25,22 / 23 / 32,2,0,blue,1.0,4.5,9.0,2.0,1.0,3.5,3.0,1.67,1.0,1.75
+/match/eune/3358317559,Kai'Sa,Alistar,Elise,Rengar,Azir,Irelia,Lulu,Jinx,Ezreal,Zilean,848.0,2.0,2.0,38 / 28 / 36,28 / 38 / 40,1,1,blue,1.0,5.0,3.5,4.0,2.75,0.2,0.71,4.5,2.0,3.67
+/match/eune/3358308809,Riven,Gwen,Zac,Shyvana,Veigar,Zed,Ashe,Kog'Maw,Milio,Lulu,5604.0,1.0,1.0,37 / 12 / 47,12 / 37 / 14,1,0,blue,12.0,0.25,9.0,1.0,2.33,0.75,2.33,1.5,5.0,1.67
+/match/eune/3358298831,Darius,Illaoi,Pyke,Kog'Maw,Lee Sin,Ashe,Veigar,Volibear,Lucian,Milio,-1732.0,-2.0,-2.0,16 / 32 / 28,32 / 16 / 46,1,0,red,2.0,1.0,1.75,3.33,1.67,3.0,0.8,3.0,1.0,4.0
+/match/eune/3358300615,Jax,Camille,Fiddlesticks,Ekko,Fizz,Ahri,Jhin,Kai'Sa,Senna,Janna,2935.0,2.0,-1.0,22 / 33 / 28,33 / 22 / 48,2,0,red,1.0,0.5,6.0,7.0,0.83,1.75,3.25,1.0,1.83,3.67
+/match/eune/3358303072,Mordekaiser,K'Sante,Pantheon,Fiddlesticks,Orianna,Qiyana,Draven,Miss Fortune,Janna,Senna,-978.0,1.0,-2.0,25 / 43 / 29,43 / 26 / 55,1,0,red,1.25,1.67,1.8,10.0,1.67,2.33,1.17,1.33,3.5,3.67
+/match/eune/3358281798,Sett,Riven,Rek'Sai,Lee Sin,Viktor,Akali,Ashe,Kai'Sa,Milio,Lulu,6193.0,5.0,2.0,34 / 23 / 47,23 / 34 / 37,1,0,blue,1.75,1.0,4.33,3.5,2.2,2.2,1.25,2.75,2.0,2.0
+/match/eune/3358287368,Shen,Kennen,Kindred,Rengar,Rumble,Irelia,Kai'Sa,Ezreal,Milio,Lulu,3636.0,0.0,2.0,46 / 23 / 66,23 / 46 / 30,1,0,blue,2.0,1.0,9.0,1.0,4.0,0.5,2.33,0.83,3.5,1.0
+/match/eune/3358275747,Azir,Poppy,Kayn,Hecarim,Kassadin,Irelia,Ezreal,Samira,Zilean,Alistar,2278.0,0.0,-1.0,35 / 22 / 59,22 / 35 / 25,2,0,blue,1.25,1.2,4.0,5.0,4.0,1.33,1.5,4.0,2.25,2.5
+/match/eune/3358275720,Shen,Jax,Kindred,Lee Sin,Anivia,Lux,Tristana,Jinx,Karma,Taric,3716.0,3.0,1.0,41 / 27 / 61,27 / 41 / 52,1,1,blue,15.0,0.0,7.0,0.71,3.0,2.67,3.2,2.2,4.0,1.83
+/match/eune/3358254957,Fiora,Shen,Karthus,Rengar,Garen,Ekko,Zeri,Aphelios,Senna,Nautilus,5645.0,3.0,-1.0,37 / 25 / 75,25 / 37 / 31,2,0,blue,3.0,1.0,2.5,1.8,10.0,3.5,5.5,2.0,1.29,2.25
+/match/eune/3358254789,Pantheon,Nasus,Evelynn,Wukong,Tryndamere,Anivia,Aphelios,Nilah,Senna,Twitch,3877.0,3.0,2.0,34 / 34 / 41,34 / 34 / 53,1,1,red,1.0,5.0,1.0,3.0,9.0,2.0,2.4,1.25,3.67,1.67
+/match/eune/3358257400,Kled,Malphite,Jarvan IV,Kha'Zix,Aurelion Sol,Vladimir,Ashe,Ezreal,Yuumi,Bard,-2806.0,0.0,-2.0,13 / 25 / 14,25 / 13 / 48,2,0,red,5.0,0.33,4.0,4.5,0.5,2.0,0.0,6.0,0.5,7.0
+/match/eune/3358247041,Gnar,Irelia,Lillia,Hecarim,Lux,Veigar,Kai'Sa,Jhin,Karma,Blitzcrank,6788.0,2.0,0.0,59 / 40 / 88,39 / 59 / 45,1,0,blue,3.5,1.0,3.0,1.67,3.5,0.83,2.0,1.8,3.5,1.33
+/match/eune/3358247810,Warwick,Singed,Rengar,Hecarim,Sylas,Senna,Seraphine,Karthus,Alistar,Pyke,-4613.0,-3.0,-2.0,27 / 47 / 40,47 / 27 / 70,2,0,red,0.38,2.67,5.33,2.0,2.0,2.8,2.0,4.33,1.75,3.75
+/match/eune/3358250594,Darius,Nasus,Kha'Zix,Corki,Kassadin,Shyvana,Ezreal,Twitch,Alistar,Senna,-6245.0,-2.0,0.0,17 / 29 / 22,29 / 17 / 43,0,2,red,0.0,7.0,2.25,1.33,4.0,2.0,8.0,1.33,3.0,1.5
+/match/eune/3358232447,Aatrox,Sion,Talon,Viego,Kai'Sa,Ahri,Twitch,Ezreal,Blitzcrank,Pantheon,-5453.0,-2.0,0.0,29 / 45 / 31,45 / 29 / 78,0,2,red,1.25,1.14,2.0,2.83,1.0,6.67,1.71,14.0,0.88,9.5
+/match/eune/3358218399,Irelia,Malphite,Kha'Zix,Nami,Syndra,Kai'Sa,Jinx,Ezreal,Jarvan IV,Rengar,-1006.0,1.0,2.0,20 / 38 / 26,38 / 20 / 44,0,1,red,0.22,3.33,2.0,4.0,3.5,1.0,5.5,2.67,2.0,1.83
+/match/eune/3358206833,Vladimir,Jayce,Talon,Taliyah,Wukong,Singed,Jinx,Kindred,Janna,Senna,-7495.0,-2.0,-2.0,29 / 44 / 42,44 / 29 / 59,1,1,red,1.67,1.33,0.67,3.67,1.4,10.0,0.67,3.75,1.0,15.0
+/match/eune/3358204219,Mordekaiser,Singed,Evelynn,Viego,Zed,Akali,Ezreal,Miss Fortune,Zilean,Blitzcrank,-7295.0,-2.0,-3.0,20 / 26 / 35,26 / 20 / 24,1,1,red,2.5,3.0,2.2,2.25,4.0,2.67,0.67,6.0,1.0,1.67
+/match/eune/3358202132,Quinn,Malzahar,Kha'Zix,Elise,Taliyah,Aatrox,Jinx,Twitch,Lulu,Janna,-7910.0,-2.0,0.0,20 / 45 / 34,45 / 20 / 54,2,0,red,0.2,4.0,1.17,4.33,1.5,12.0,0.67,4.67,1.2,9.0
+/match/eune/3358192555,Poppy,Gragas,Evelynn,Lee Sin,Karthus,Katarina,Ezreal,Vayne,Renata Glasc,Lulu,2837.0,0.0,-2.0,45 / 39 / 87,39 / 45 / 57,0,0,blue,3.5,1.0,2.0,2.25,4.25,2.0,3.5,1.0,2.0,2.5
+/match/eune/3358196255,Nocturne,Renekton,Master Yi,Talon,Syndra,Sylas,Tristana,Lux,Blitzcrank,Pyke,-6269.0,-2.0,-2.0,20 / 38 / 20,38 / 21 / 47,0,2,red,1.33,3.0,1.0,3.67,1.67,3.0,0.8,2.25,1.25,7.0
+/match/eune/3358170931,Irelia,Udyr,Rek'Sai,Fiddlesticks,Sylas,Lissandra,Twitch,Jhin,Pyke,Janna,2462.0,2.0,-1.0,40 / 45 / 49,45 / 40 / 90,2,0,red,2.0,1.0,10.0,1.33,1.75,0.67,1.5,11.0,4.0,12.0
+/match/eune/3358173310,Katarina,Jax,Garen,Lillia,Cho'Gath,Vladimir,Ezreal,Jinx,Lux,Milio,3892.0,1.0,0.0,34 / 31 / 55,31 / 34 / 62,1,0,red,14.0,0.38,4.5,1.6,0.8,1.5,3.0,2.33,4.0,4.0
+/match/eune/3358169110,Gnar,Camille,Kha'Zix,Fiddlesticks,Malzahar,Kassadin,Xayah,Kai'Sa,Taric,Thresh,635.0,3.0,0.0,24 / 42 / 50,42 / 24 / 72,2,0,red,3.5,0.8,1.75,3.33,0.86,14.0,1.75,5.0,1.75,3.0
+/match/eune/3358156025,Jax,Dr. Mundo,Hecarim,Viego,Orianna,Syndra,Kog'Maw,Jinx,Swain,Lulu,1085.0,2.0,0.0,28 / 32 / 31,32 / 28 / 48,0,2,red,0.6,1.33,7.0,4.0,4.0,1.0,1.5,1.0,1.67,3.5
+/match/eune/3358164364,Lulu,Sejuani,Darius,Ezreal,Olaf,Rell,Talon,Nasus,Aphelios,Kog'Maw,-2068.0,0.0,0.0,35 / 45 / 38,45 / 36 / 72,1,1,red,2.0,1.43,0.6,0.83,14.0,3.0,1.17,4.0,1.83,2.14
+/match/eune/3358155931,Illaoi,Renekton,Nunu & Willump,Maokai,Singed,Aurelion Sol,Ezreal,Samira,Bard,Alistar,-5979.0,-2.0,1.0,23 / 47 / 37,47 / 23 / 70,0,1,red,0.8,3.0,1.33,10.0,2.0,3.25,1.25,3.33,1.17,8.5
+/match/eune/3358158300,Renekton,Nocturne,Jarvan IV,Kha'Zix,Nasus,Akshan,Lux,Varus,Blitzcrank,Galio,-517.0,-1.0,-2.0,34 / 21 / 56,21 / 34 / 27,0,2,blue,1.5,0.67,2.0,1.5,2.0,2.0,8.0,2.5,2.0,2.33
+/match/eune/3358156249,Darius,Malzahar,Hecarim,Volibear,LeBlanc,Pantheon,Braum,Draven,Kalista,Janna,-12609.0,-6.0,-1.0,25 / 43 / 36,43 / 25 / 59,0,2,red,0.6,8.0,1.62,4.5,1.8,2.6,1.33,5.33,1.29,2.8
+/match/eune/3358140865,Camille,Illaoi,Sylas,Hecarim,Annie,LeBlanc,Ashe,Karthus,Thresh,Rakan,3050.0,0.0,1.0,41 / 38 / 58,38 / 41 / 62,1,1,red,2.67,1.0,10.0,1.38,3.25,2.0,3.67,1.5,3.33,2.14
+/match/eune/3358140683,Cho'Gath,Skarner,Wukong,Shaco,Tristana,Aurelion Sol,Ashe,Nilah,Milio,Alistar,5488.0,3.0,0.0,26 / 15 / 39,15 / 26 / 19,2,0,blue,3.5,0.67,3.5,1.0,10.0,2.0,1.5,1.0,9.0,1.67
+/match/eune/3358142310,Irelia,Pantheon,Evelynn,Shaco,Anivia,Ahri,Jinx,Draven,Lulu,Zoe,-4201.0,0.0,-3.0,21 / 47 / 21,47 / 21 / 63,1,1,red,1.43,1.67,1.5,11.0,0.4,2.67,0.14,15.0,0.83,5.0
+/match/eune/3358140312,Riven,Pantheon,Rengar,Nunu & Willump,Vladimir,Zoe,Jinx,Karthus,Janna,Taric,4448.0,4.0,-1.0,44 / 30 / 82,30 / 44 / 58,1,1,blue,2.0,1.25,1.67,3.0,4.0,0.86,2.0,6.5,5.0,4.33
+/match/eune/3358129375,Pantheon,Akshan,Ekko,Xin Zhao,Zed,Akali,Samira,Zeri,Singed,Yuumi,-3638.0,-1.0,0.0,36 / 48 / 61,48 / 36 / 64,1,1,blue,1.0,1.83,3.25,4.25,2.0,1.4,1.25,4.0,0.75,16.0
+/match/eune/3358128337,Tahm Kench,Illaoi,Ahri,Wukong,Kayn,Annie,Draven,Ashe,Sylas,Milio,2321.0,0.0,2.0,28 / 21 / 31,21 / 28 / 13,1,1,blue,2.0,0.5,0.67,1.75,2.5,6.0,2.0,2.0,1.33,5.0
+/match/eune/3358115822,Jax,Malzahar,Maokai,Viego,Aurelion Sol,Pantheon,Ezreal,Draven,Pyke,Nami,5805.0,1.0,2.0,41 / 21 / 74,21 / 41 / 33,2,0,blue,3.0,1.25,13.0,1.33,2.0,3.0,2.75,1.25,6.5,2.0
+/match/eune/3358103502,Heimerdinger,Malphite,Nidalee,Wukong,Pantheon,Viktor,Ashe,Veigar,Blitzcrank,Twitch,1418.0,1.0,0.0,47 / 36 / 85,36 / 47 / 50,2,0,blue,1.0,1.6,3.0,1.6,3.25,6.5,3.0,1.2,15.0,1.5
+/match/eune/3358101496,Sion,Pantheon,Rengar,Lee Sin,LeBlanc,Cassiopeia,Draven,Swain,Lux,Janna,6795.0,4.0,2.0,33 / 31 / 55,31 / 33 / 66,2,0,blue,1.0,3.5,3.0,1.33,2.5,5.0,0.0,2.0,3.5,2.33
+/match/eune/3358081631,Shen,Jax,Diana,Rammus,Malzahar,Fizz,Jinx,Xayah,Rakan,Karma,3530.0,3.0,0.0,34 / 24 / 71,24 / 34 / 35,2,0,blue,11.0,0.6,2.25,2.5,3.25,1.17,3.67,4.5,2.4,4.33
+/match/eune/3358077115,Akali,Sejuani,Lillia,Wukong,Akshan,Aurelion Sol,Samira,Jinx,Thresh,Bard,6983.0,3.0,3.0,34 / 11 / 52,11 / 34 / 16,2,0,blue,2.67,1.33,10.0,1.17,12.0,0.6,3.33,1.25,6.5,3.5
+/match/eune/3358057181,Ornn,Malphite,Vi,Kayn,LeBlanc,Katarina,Samira,Xayah,Lux,Pyke,10980.0,5.0,2.0,41 / 16 / 61,16 / 41 / 21,1,1,blue,2.0,1.0,8.5,0.75,14.0,1.33,11.0,0.62,2.0,0.67
+/match/eune/3358040617,Gangplank,Akshan,Rengar,Volibear,Viktor,Annie,Vayne,Kai'Sa,Lulu,Thresh,-5947.0,-2.0,0.0,18 / 42 / 23,42 / 18 / 51,1,1,red,4.0,3.0,0.6,5.5,0.33,11.0,0.83,1.6,0.8,11.0
+/match/eune/3358037122,Singed,Darius,Jarvan IV,Hecarim,Akali,Irelia,Xayah,Jinx,Swain,Milio,468.0,0.0,-2.0,39 / 23 / 52,23 / 39 / 29,1,0,blue,0.25,4.0,13.0,2.0,6.0,0.0,1.75,1.0,3.0,1.5
+/match/eune/3358033265,Zac,Rumble,Rek'Sai,Rengar,Vex,Viktor,Lucian,Ezreal,Thresh,Rakan,2929.0,3.0,1.0,35 / 26 / 60,26 / 35 / 49,0,1,blue,1.75,2.75,5.5,2.5,1.17,6.0,5.5,1.75,3.25,1.4
+/match/eune/3358024840,Irelia,Malphite,Kayn,Zac,Fizz,Talon,Jhin,Kalista,Blitzcrank,Leona,3427.0,2.0,2.0,42 / 33 / 62,33 / 42 / 50,1,0,blue,1.4,1.25,7.0,2.0,3.0,3.5,1.4,1.8,1.75,1.8
+/match/eune/3358513070,Vayne,Wukong,Nocturne,Kha'Zix,Vladimir,Zed,Jinx,Veigar,Pyke,Alistar,2038.0,0.0,0.0,40 / 25 / 60,25 / 41 / 29,2,0,blue,0.67,0.67,5.5,2.0,1.0,1.5,5.5,0.4,8.0,2.0
+/match/eune/3358482369,Gwen,Aatrox,Kayn,Nocturne,Lux,Galio,Kai'Sa,Jinx,Annie,Nami,3039.0,0.0,1.0,31 / 20 / 43,20 / 31 / 26,1,0,blue,4.0,0.0,6.0,3.67,2.5,0.67,2.0,0.8,1.75,3.5
+/match/eune/3358472507,Jayce,Olaf,Rammus,Ekko,Katarina,Vladimir,Sivir,Jinx,Pyke,Thresh,2918.0,1.0,1.0,46 / 35 / 71,35 / 46 / 34,1,1,blue,1.4,0.88,5.0,2.71,1.22,3.5,2.0,0.67,1.29,3.0
+/match/eune/3358460538,Pantheon,Tryndamere,Master Yi,Trundle,Anivia,Kassadin,Soraka,Vayne,Aphelios,Rakan,-1441.0,0.0,0.0,23 / 33 / 32,33 / 23 / 52,0,2,red,0.67,5.0,2.5,2.0,1.2,5.5,1.17,3.25,2.25,2.0
+/match/eune/3358439173,Yasuo,Irelia,Karthus,Kayn,Qiyana,Annie,Tristana,Jinx,Janna,Lulu,-2736.0,-2.0,-2.0,30 / 47 / 33,47 / 30 / 48,2,0,red,1.0,0.67,3.0,2.4,2.25,3.33,1.0,1.25,1.0,4.0
+/match/eune/3358428286,Yasuo,Irelia,Hecarim,Sylas,Ziggs,Diana,Xayah,Aphelios,Blitzcrank,Sona,782.0,0.0,-2.0,29 / 44 / 33,44 / 29 / 65,2,0,red,8.0,0.2,1.75,1.8,0.17,11.0,2.33,1.25,1.0,3.5
+/match/eune/3358403744,Jax,Kayle,Master Yi,Jarvan IV,Yasuo,Zed,Veigar,Jinx,Janna,Lux,-381.0,0.0,0.0,29 / 29 / 39,29 / 29 / 37,1,1,red,3.0,1.0,1.33,2.0,2.0,3.5,4.0,0.6,3.67,1.5
+/match/eune/3357973037,Kayle,Lee Sin,Rek'Sai,Hecarim,Vladimir,Cassiopeia,Jhin,Jinx,Xerath,Swain,6369.0,2.0,-1.0,53 / 41 / 68,41 / 53 / 57,1,1,blue,3.0,1.0,9.0,3.33,1.75,1.83,3.6,0.71,2.67,1.0
+/match/eune/3357920121,Jax,K'Sante,Diana,Talon,Zed,Veigar,Aphelios,Jinx,Milio,Renata Glasc,858.0,0.0,0.0,20 / 30 / 26,30 / 20 / 51,1,1,red,0.0,8.0,2.5,4.5,5.0,1.0,2.0,2.5,2.0,0.67
+/match/eune/3357903006,Camille,Sion,Rek'Sai,Graves,Sylas,Qiyana,Varus,Kog'Maw,Lulu,Karma,-2900.0,0.0,0.0,23 / 33 / 24,33 / 24 / 42,1,1,red,1.0,1.5,1.4,5.5,1.4,1.43,10.0,0.33,1.8,5.0
+/match/eune/3357897027,Jax,Kayle,Kindred,Kha'Zix,Taliyah,Tristana,Kog'Maw,Jhin,Yuumi,Lux,1396.0,-1.0,0.0,52 / 42 / 65,41 / 52 / 43,0,2,blue,2.5,0.6,0.6,3.0,2.8,1.0,1.33,3.0,3.25,2.2
+/match/eune/3357884658,Qiyana,Illaoi,Jarvan IV,Rengar,Mordekaiser,Vladimir,Samira,Nilah,Pyke,Rakan,1789.0,-2.0,-1.0,28 / 35 / 52,35 / 28 / 55,1,0,red,2.5,8.0,5.33,2.5,1.0,1.0,2.0,1.14,3.5,2.2
+/match/eune/3357885173,Camille,Poppy,Volibear,Rek'Sai,Annie,Viktor,Seraphine,Sivir,Lulu,Yuumi,3073.0,-2.0,3.0,45 / 23 / 80,23 / 45 / 49,2,0,blue,7.0,0.6,4.33,1.75,6.5,0.57,11.0,1.0,4.0,2.33
+/match/eune/3357661081,Cho'Gath,Rumble,Kha'Zix,Evelynn,Karma,Jayce,Zeri,Caitlyn,Soraka,Morgana,-815.0,0.0,-1.0,28 / 36 / 45,36 / 28 / 66,2,0,red,1.33,1.75,3.33,3.0,5.0,1.2,5.0,3.0,2.0,4.5
+/match/eune/3357445262,Sion,Mordekaiser,Evelynn,Rengar,Nasus,Lux,Jinx,Draven,Yuumi,Leona,2516.0,2.0,-1.0,38 / 30 / 61,30 / 38 / 48,1,0,blue,3.0,3.0,3.5,1.71,1.33,2.75,2.75,1.6,4.0,1.8
+/match/eune/3357370055,Nasus,Sion,Jarvan IV,Amumu,Ahri,Vladimir,Kai'Sa,Zeri,Nautilus,Pyke,7210.0,2.0,1.0,48 / 28 / 60,28 / 48 / 42,2,0,blue,3.0,0.75,6.5,1.4,2.4,1.0,9.0,1.67,2.5,1.2
+/match/eune/3357358013,Nasus,Kha'Zix,Rek'Sai,Jayce,Tristana,Syndra,Lux,Kog'Maw,Rell,Pyke,1158.0,0.0,0.0,39 / 23 / 53,23 / 39 / 29,0,1,blue,1.25,1.6,3.0,3.0,9.0,0.75,2.0,2.5,2.67,0.5
+/match/eune/3357346806,Vladimir,K'Sante,Skarner,Graves,Taliyah,Swain,Pyke,Vayne,Ezreal,Renata Glasc,783.0,1.0,0.0,28 / 21 / 55,21 / 28 / 34,2,0,blue,1.0,1.5,4.0,3.67,1.25,11.0,1.4,3.5,2.33,1.5
+/match/eune/3357343831,Gnar,Pantheon,Hecarim,Viego,Katarina,Galio,Karthus,Draven,Rakan,Janna,2638.0,1.0,-1.0,31 / 42 / 51,42 / 31 / 71,1,1,red,0.75,3.67,6.5,0.83,5.0,2.75,4.0,1.2,4.25,1.33
+/match/eune/3357275693,Irelia,Garen,Graves,Nidalee,Sylas,Akali,Tristana,Zeri,Nami,Lulu,-1150.0,-2.0,2.0,42 / 32 / 64,32 / 42 / 45,0,1,blue,1.0,1.67,2.17,3.33,2.0,2.67,3.0,1.5,5.0,1.29
+/match/eune/3357264467,Riven,Cassiopeia,Vi,Rek'Sai,Ziggs,Camille,Zeri,Sivir,Thresh,Milio,1290.0,0.0,0.0,40 / 50 / 55,50 / 40 / 75,1,1,red,3.5,0.6,2.0,1.75,2.0,4.0,2.2,1.33,2.5,2.67
+/match/eune/3357200838,Jax,Vayne,Kayn,Nunu & Willump,Sylas,Vex,Tryndamere,Thresh,Nautilus,Ashe,-601.0,-4.0,0.0,33 / 41 / 57,41 / 34 / 86,0,2,red,1.0,8.0,3.0,6.0,3.33,0.62,4.0,3.5,2.0,2.67
+/match/eune/3357197573,Sett,Nasus,Gragas,Nunu & Willump,Katarina,Tristana,Samira,Ashe,Pyke,Brand,4713.0,0.0,2.0,46 / 28 / 50,28 / 46 / 28,0,2,blue,0.5,1.33,2.75,3.5,3.33,2.2,3.0,0.75,3.25,1.4
+/match/eune/3357180461,Skarner,Cho'Gath,Gragas,Graves,Yasuo,Kog'Maw,Jinx,Tristana,Master Yi,Taliyah,2456.0,3.0,-2.0,36 / 28 / 49,28 / 36 / 43,1,1,blue,9.0,0.2,2.33,2.0,8.0,2.5,1.67,2.67,1.17,3.67
+/match/eune/3356785367,Jax,Illaoi,Master Yi,Rengar,Akshan,Cassiopeia,Ashe,Ezreal,Lux,Nami,4605.0,2.0,2.0,35 / 26 / 38,26 / 35 / 42,2,0,blue,1.25,1.0,6.5,2.25,0.67,1.8,3.33,2.75,3.5,2.4
+/match/eune/3356764123,Cho'Gath,Jax,Nunu & Willump,Fiddlesticks,Swain,Lux,Jhin,Xayah,Pyke,Rakan,3419.0,1.0,0.0,31 / 17 / 60,17 / 31 / 32,2,0,blue,9.0,1.0,2.5,1.75,3.5,2.0,3.0,3.0,3.0,4.5
+/match/eune/3356753449,Mordekaiser,Jayce,Rek'Sai,Viego,Zed,LeBlanc,Ashe,Draven,Milio,Janna,1531.0,1.0,0.0,18 / 18 / 27,18 / 18 / 33,1,1,red,5.0,0.25,5.5,0.5,1.0,6.0,2.5,1.33,7.0,2.5
+/match/eune/3356728051,Graves,Rengar,Malphite,Volibear,Karma,Syndra,Samira,Jinx,Renata Glasc,Lulu,-2266.0,-2.0,-2.0,34 / 19 / 87,19 / 34 / 29,2,0,blue,4.0,3.0,8.0,2.5,5.5,0.5,3.67,3.0,3.5,1.8
+/match/eune/3356718722,Tryndamere,Cho'Gath,Kha'Zix,Gragas,Vladimir,Yasuo,Samira,Jinx,Pyke,Morgana,4525.0,2.0,2.0,43 / 39 / 53,39 / 43 / 63,2,0,blue,0.57,8.0,3.2,3.75,2.5,1.75,5.5,0.71,3.75,1.17
+/match/eune/3356680976,Olaf,Tryndamere,Udyr,Rengar,Pantheon,Vel'Koz,Heimerdinger,Jinx,Akshan,Thresh,5663.0,2.0,0.0,31 / 38 / 37,38 / 31 / 57,2,0,red,2.0,0.0,3.5,2.5,1.29,1.8,2.25,2.75,2.6,1.5
+/match/eune/3356682683,Camille,Soraka,Maokai,Hecarim,Annie,Katarina,Ezreal,Kai'Sa,Blitzcrank,Leona,-2162.0,0.0,-2.0,21 / 37 / 37,37 / 21 / 86,2,0,red,3.5,7.0,1.75,6.5,1.8,2.4,0.75,12.0,6.0,2.0
+/match/eune/3356663533,Irelia,Renekton,Kha'Zix,Lee Sin,Vex,Vel'Koz,Twitch,Ezreal,Yuumi,Sona,-2678.0,2.0,1.0,18 / 34 / 17,34 / 18 / 75,0,2,red,1.0,0.75,1.5,3.5,1.67,4.5,0.33,6.0,0.5,4.0
+/match/eune/3356592557,Lee Sin,Zed,Wukong,Nidalee,Vex,Akshan,Ezreal,Sivir,Yuumi,Nautilus,-6681.0,-3.0,0.0,36 / 32 / 52,32 / 36 / 32,1,1,blue,0.43,2.33,1.67,9.0,2.0,4.0,2.0,8.0,2.0,0.8
+/match/eune/3356574534,Gwen,Pantheon,Graves,Vi,Lulu,Vladimir,Kog'Maw,Tristana,Milio,Ashe,-6117.0,-3.0,0.0,23 / 36 / 44,36 / 23 / 37,0,2,red,0.2,5.0,1.0,9.0,2.33,6.5,2.0,0.75,2.0,1.5
+/match/eune/3356570635,Kennen,Sion,Vi,Hecarim,Zed,LeBlanc,Xayah,Kai'Sa,Maokai,Blitzcrank,-1674.0,1.0,3.0,34 / 29 / 50,29 / 35 / 39,0,1,blue,1.33,1.33,2.5,3.33,1.33,11.0,1.17,2.0,2.25,1.83
+/match/eune/3356508966,Alistar,Jax,Jarvan IV,Vi,Yasuo,Lux,Jinx,Xayah,Nami,Rakan,-5545.0,-2.0,-2.0,30 / 43 / 52,43 / 31 / 72,0,1,red,2.25,2.0,1.57,1.75,0.89,5.33,0.71,6.33,3.0,19.0
+/match/eune/3356417125,Renekton,Karma,Bel'Veth,Hecarim,Viktor,Mordekaiser,Jinx,Varus,Swain,Janna,-996.0,1.0,-2.0,23 / 21 / 31,21 / 23 / 31,1,1,blue,0.75,2.5,0.75,10.0,1.0,2.5,1.33,2.5,1.5,11.0
+/match/eune/3356397065,Fiora,Kled,Teemo,Nidalee,Ahri,Talon,Kog'Maw,Jinx,Heimerdinger,Milio,-4167.0,-3.0,-2.0,17 / 32 / 30,32 / 17 / 45,0,2,red,0.0,4.0,2.0,1.5,0.75,8.0,6.0,1.0,2.5,3.0
+/match/eune/3356362838,Pantheon,Jax,Fiddlesticks,Nidalee,Syndra,Akshan,Jinx,Varus,Senna,Blitzcrank,-12669.0,-3.0,-1.0,14 / 39 / 15,39 / 14 / 46,1,0,red,1.0,1.2,2.0,5.0,0.67,8.0,0.0,12.0,0.0,10.0
+/match/eune/3356345975,Garen,Jax,Udyr,Bel'Veth,Katarina,Vex,Xayah,Kai'Sa,Blitzcrank,Milio,6734.0,3.0,0.0,25 / 12 / 38,11 / 25 / 21,2,0,blue,2.0,1.0,6.0,1.0,2.0,2.0,3.0,1.5,3.0,3.0
+/match/eune/3356335944,Sion,Gangplank,Jarvan IV,Rengar,Zoe,Swain,Jinx,Xayah,Nautilus,Soraka,-8277.0,-3.0,0.0,32 / 39 / 51,39 / 32 / 52,0,2,red,2.5,2.0,1.25,6.0,1.2,8.0,2.67,2.67,2.25,1.83
+/match/eune/3356327963,Riven,Mordekaiser,Viego,Fiddlesticks,Zoe,Katarina,Ezreal,Draven,Janna,Senna,-4731.0,-2.0,-1.0,26 / 35 / 34,35 / 26 / 46,1,1,blue,2.0,5.0,1.33,8.0,1.0,6.5,1.25,1.8,1.4,4.33
+/match/eune/3356301246,Camille,Singed,Nunu & Willump,Udyr,Syndra,Fizz,Ezreal,Draven,Pyke,Senna,5152.0,2.0,2.0,42 / 20 / 39,20 / 42 / 24,1,0,blue,1.0,1.0,12.0,0.6,5.0,1.4,3.0,1.33,2.0,1.0
+/match/eune/3356290673,Shen,Kayn,Draven,Ornn,Nautilus,Zeri,Yone,Kled,Ekko,Anivia,3903.0,1.0,2.0,36 / 29 / 51,28 / 36 / 50,2,0,blue,3.5,5.0,1.4,9.0,1.67,1.38,5.0,2.0,3.33,2.0
+/match/eune/3356281780,Gangplank,Pantheon,Volibear,Kha'Zix,Zoe,Viktor,Xayah,Tristana,Thresh,Blitzcrank,7387.0,2.0,2.0,45 / 19 / 49,19 / 45 / 30,1,1,blue,2.75,0.62,2.5,2.25,5.5,0.8,5.5,2.0,6.0,1.12
+/match/eune/3356259529,Darius,K'Sante,Diana,Kayn,Irelia,Syndra,Xayah,Jinx,Milio,Pyke,-1900.0,-1.0,0.0,26 / 43 / 24,43 / 26 / 49,0,2,red,0.33,8.0,2.0,2.67,1.5,2.0,1.75,1.25,3.5,3.0
+/match/eune/3356239044,Riven,Pantheon,Bel'Veth,Kha'Zix,Vladimir,Karma,Miss Fortune,Jinx,Pyke,Rakan,10695.0,5.0,3.0,44 / 38 / 43,37 / 44 / 60,2,0,blue,5.0,1.67,1.83,1.71,5.0,1.0,5.0,1.25,2.5,2.0
+/match/eune/3356228064,Fiora,Poppy,Gragas,Sejuani,Nasus,Cho'Gath,Aphelios,Varus,Nami,Karma,2141.0,0.0,-1.0,38 / 22 / 58,22 / 39 / 24,0,2,blue,1.5,2.0,2.75,8.0,6.0,0.33,2.6,1.2,4.0,1.75
+/match/eune/3356217754,Aatrox,Kled,Wukong,Gragas,LeBlanc,Ahri,Jinx,Xayah,Swain,Karma,877.0,1.0,3.0,33 / 24 / 46,24 / 33 / 38,1,1,blue,1.17,4.5,2.75,5.5,4.0,2.67,2.33,1.4,4.5,1.33
+/match/eune/3356206700,Jax,Kled,Warwick,Rek'Sai,Zed,Fizz,Varus,Jinx,Milio,Pyke,-7623.0,-3.0,-2.0,28 / 38 / 34,38 / 28 / 55,1,0,red,1.75,3.0,1.43,5.67,0.29,7.0,1.12,2.4,3.0,2.67
+/match/eune/3356191822,Malphite,Darius,Maokai,Wukong,Tristana,Cho'Gath,Xayah,Jinx,Alistar,Milio,-4715.0,-1.0,0.0,16 / 29 / 26,29 / 16 / 49,1,1,red,0.67,2.0,3.0,4.0,4.0,1.0,1.4,3.0,2.0,3.67
+/match/eune/3356180214,Jax,Jayce,Vi,Nidalee,Cassiopeia,Cho'Gath,Jinx,Xayah,Thresh,Yuumi,-1518.0,-2.0,-1.0,38 / 24 / 65,23 / 38 / 37,1,1,blue,2.0,1.0,3.25,1.33,3.0,1.0,1.25,3.5,1.71,4.67
+/match/eune/3356140521,Qiyana,Gangplank,Evelynn,Xayah,Aurelion Sol,Thresh,Jinx,Lee Sin,Lulu,Vladimir,-639.0,-3.0,-3.0,39 / 45 / 78,44 / 39 / 81,2,0,red,1.8,4.33,2.6,3.25,3.0,3.33,0.83,4.67,3.5,2.33
+/match/eune/3356131565,Cho'Gath,Garen,Kha'Zix,Rengar,Katarina,Swain,Karthus,Xayah,Nami,Alistar,878.0,-1.0,0.0,41 / 29 / 78,29 / 41 / 34,0,2,blue,1.5,2.0,4.67,3.67,1.5,1.75,2.83,1.71,3.6,1.86
+/match/eune/3356126120,Shen,Darius,Rengar,Viego,Ashe,Vladimir,Qiyana,Zeri,Yuumi,Lulu,5618.0,1.0,2.0,35 / 16 / 62,16 / 35 / 27,2,0,blue,5.5,1.67,6.0,1.4,5.0,1.2,10.0,0.5,4.33,1.14
+/match/eune/3356111692,Fiora,Pantheon,Nidalee,Zed,Cho'Gath,Karthus,Aphelios,Xayah,Renata Glasc,Rakan,4151.0,1.0,0.0,36 / 21 / 41,21 / 36 / 41,2,0,blue,6.0,0.86,5.5,1.8,2.0,2.0,1.4,4.33,1.8,3.5
+/match/eune/3356110264,Gangplank,Poppy,Hecarim,Bel'Veth,Vex,LeBlanc,Ezreal,Jinx,Milio,Senna,2930.0,1.0,3.0,25 / 12 / 40,12 / 25 / 13,2,0,blue,2.0,0.5,6.0,0.25,2.0,2.5,1.0,2.0,9.0,0.67
+/match/eune/3356090592,Akali,Darius,Rumble,Viego,Gnar,Katarina,Tristana,Karthus,Annie,Senna,-3247.0,0.0,-2.0,17 / 29 / 17,29 / 17 / 42,1,1,red,0.67,2.0,1.75,6.0,0.67,5.0,2.5,1.5,1.0,3.0
+/match/eune/3356083680,Olaf,Poppy,Sylas,Gragas,Xin Zhao,Yasuo,Xayah,Jinx,Thresh,Blitzcrank,-4001.0,-2.0,0.0,27 / 34 / 32,34 / 27 / 51,0,2,red,0.43,8.0,6.0,3.33,2.2,1.67,5.0,1.0,3.0,0.88
+/match/eune/3356069796,Jayce,Kha'Zix,Nidalee,Hecarim,Irelia,Sylas,Caitlyn,Ezreal,Senna,Janna,-4347.0,0.0,-1.0,23 / 42 / 47,42 / 23 / 63,0,2,red,2.0,10.0,1.0,10.0,0.71,5.0,1.5,5.0,1.0,1.0
+/match/eune/3356044545,Riven,Jax,Jarvan IV,Nidalee,Taliyah,Tristana,Veigar,Sivir,Pyke,Milio,969.0,-2.0,-1.0,28 / 35 / 51,35 / 28 / 55,2,0,red,1.5,1.67,3.0,2.75,3.0,12.0,1.0,2.5,3.0,3.5
+/match/eune/3356036429,Azir,Vladimir,Graves,Kha'Zix,Syndra,Zoe,Ezreal,Ashe,Bard,Karma,4037.0,1.0,-2.0,40 / 41 / 62,41 / 40 / 47,1,1,red,3.0,0.67,2.6,2.5,1.0,1.2,5.0,0.89,7.5,2.33
+/match/eune/3356021674,Darius,Illaoi,Nidalee,Graves,Singed,Karthus,Twitch,Caitlyn,Lulu,Karma,4716.0,-1.0,0.0,50 / 16 / 81,16 / 50 / 26,1,1,blue,6.0,0.4,8.0,0.57,8.0,0.71,6.33,0.8,5.67,1.0
+/match/eune/3355961837,Malphite,Sylas,Kha'Zix,Hecarim,Lux,Syndra,Seraphine,Draven,Senna,Yuumi,-1387.0,2.0,3.0,32 / 28 / 51,28 / 32 / 49,1,1,blue,2.0,1.4,2.0,2.67,4.0,2.0,1.33,5.0,1.67,7.0
+/match/eune/3355921749,Malphite,Sylas,Volibear,Graves,Ahri,Syndra,Samira,Jinx,Amumu,Milio,-648.0,-3.0,-2.0,34 / 33 / 60,33 / 34 / 75,0,2,red,3.0,1.75,6.5,3.33,1.0,3.5,6.33,1.4,4.67,1.0
+/match/eune/3355927318,Sion,Gangplank,Skarner,Rengar,Akali,Karma,Xayah,Draven,Pyke,Rakan,5607.0,3.0,1.0,36 / 32 / 45,32 / 36 / 49,2,0,blue,0.2,11.0,2.25,5.5,0.4,1.0,4.25,0.29,13.0,1.33
+/match/eune/3355840737,Jax,Vladimir,Vi,Rengar,Ahri,Syndra,Kai'Sa,Zeri,Milio,Leona,-285.0,2.0,-1.0,24 / 36 / 25,36 / 24 / 40,1,0,red,1.4,0.6,4.0,2.17,0.8,9.0,1.8,2.25,2.0,3.5
+/match/eune/3355821707,Urgot,Jayce,Elise,Nunu & Willump,Singed,Orianna,Vayne,Kai'Sa,Swain,Pyke,-9335.0,-2.0,-1.0,24 / 36 / 38,36 / 25 / 64,0,2,red,0.0,7.0,3.33,3.67,3.67,3.0,1.0,1.43,1.83,3.5
+/match/eune/3355814363,Shen,Kayle,Nidalee,Sejuani,Karma,Irelia,Xayah,Jinx,Blitzcrank,Thresh,-2461.0,-3.0,-1.0,33 / 24 / 77,24 / 33 / 40,1,1,blue,2.67,2.0,2.67,5.0,1.0,2.5,4.0,1.0,2.0,2.5
+/match/eune/3355801322,Darius,Urgot,Rengar,Kha'Zix,Annie,Talon,Xayah,Varus,Pyke,Lux,-1094.0,-2.0,0.0,30 / 34 / 24,34 / 30 / 30,1,1,red,2.0,1.0,6.5,1.5,1.75,1.8,2.5,0.33,2.0,6.0
+/match/eune/3355747999,Olaf,Camille,Rek'Sai,Kindred,Ryze,Cassiopeia,Jinx,Ashe,Lulu,Milio,-734.0,1.0,1.0,20 / 36 / 23,36 / 20 / 74,1,1,red,0.6,4.0,2.2,2.2,7.0,2.5,2.67,2.67,1.25,2.5
+/match/eune/3355742881,Lee Sin,Pantheon,Nidalee,Bel'Veth,Irelia,Ezreal,Karthus,Draven,Nautilus,Rakan,-1827.0,0.0,0.0,33 / 30 / 54,29 / 33 / 42,0,2,blue,2.5,1.25,1.6,4.33,3.0,1.0,1.6,1.6,1.67,7.0
+/match/eune/3355640973,Gangplank,Tryndamere,Kindred,Kha'Zix,Varus,Karthus,Draven,Jinx,Thresh,Taric,3336.0,0.0,0.0,38 / 28 / 71,28 / 38 / 50,1,1,blue,3.0,3.0,1.29,2.5,0.8,1.8,11.0,0.5,11.0,2.67
+/match/eune/3355621104,Sett,Cho'Gath,Jarvan IV,Hecarim,Zilean,Kennen,Samira,Kai'Sa,Rell,Pyke,5401.0,2.0,2.0,34 / 20 / 58,20 / 34 / 32,2,0,blue,3.5,1.67,5.0,1.75,0.75,5.0,5.0,4.0,1.67,0.78
+/match/eune/3355610223,Jayce,Nasus,Hecarim,Master Yi,Ezreal,Gwen,Swain,Xayah,Xerath,Karma,1395.0,-1.0,2.0,33 / 29 / 45,29 / 33 / 25,1,0,blue,3.0,1.5,3.33,2.6,2.8,0.83,0.86,10.0,1.5,2.5
+/match/eune/3355603791,Gragas,Poppy,Olaf,Maokai,Vladimir,Katarina,Kai'Sa,Jhin,Janna,Soraka,150.0,-1.0,1.0,30 / 24 / 68,24 / 30 / 33,1,1,blue,0.2,3.5,5.5,1.0,2.0,2.5,3.0,6.0,2.0,7.0
+/match/eune/3355593057,Hecarim,Camille,Fiora,Nunu & Willump,Syndra,Lux,Seraphine,Aphelios,Senna,Blitzcrank,-5963.0,-1.0,-2.0,21 / 38 / 35,38 / 21 / 48,0,2,red,0.88,5.33,3.0,0.8,2.0,3.67,2.5,14.0,1.25,3.0
+/match/eune/3355514946,Illaoi,Katarina,Sylas,Gragas,Rumble,Mordekaiser,Jhin,Irelia,Thresh,Bel'Veth,8526.0,3.0,3.0,36 / 23 / 43,23 / 36 / 24,2,0,blue,1.0,0.75,2.5,7.0,1.8,3.5,11.0,0.25,5.5,1.5
+/match/eune/3355510305,Pantheon,Sion,Kayn,Hecarim,Zoe,Lux,Xayah,Seraphine,Rakan,Senna,864.0,2.0,1.0,43 / 33 / 64,33 / 43 / 58,0,1,blue,1.4,2.25,3.25,1.5,4.33,3.0,1.6,2.6,5.67,1.29
+/match/eune/3355499724,Vladimir,Camille,Zac,Shaco,Zed,Zoe,Miss Fortune,Varus,Rakan,Blitzcrank,1864.0,3.0,2.0,31 / 27 / 47,27 / 31 / 37,1,1,blue,0.17,8.0,11.0,5.5,0.8,2.0,3.0,0.38,4.0,1.5
+/match/eune/3355484853,Malzahar,Cho'Gath,Sylas,Taliyah,Jayce,Vladimir,Vayne,Kalista,Nami,Taric,-1295.0,0.0,-3.0,14 / 32 / 22,32 / 14 / 55,0,2,red,0.67,7.0,6.0,3.5,1.33,4.0,0.43,5.0,2.5,4.0
+/match/eune/3355492526,Kha'Zix,Renekton,Hecarim,Viego,Yasuo,Anivia,Miss Fortune,Kai'Sa,Janna,Soraka,1165.0,-1.0,-2.0,37 / 22 / 54,22 / 37 / 38,0,1,blue,1.0,2.0,1.67,11.0,1.5,4.0,0.67,2.0,2.0,14.0
+/match/eune/3355450263,Gragas,Jayce,Rek'Sai,Kindred,Tristana,Vladimir,Jinx,Seraphine,Taric,Nautilus,2916.0,3.0,0.0,22 / 25 / 25,25 / 22 / 57,2,0,red,5.0,3.5,3.0,1.14,2.67,4.0,1.4,2.5,3.0,2.5
+/match/euw/6380802680,Jax,Jayce,Kindred,Vi,Sylas,Tryndamere,Nilah,Karthus,Soraka,Fiddlesticks,-5813.0,-3.0,0.0,21 / 42 / 18,42 / 21 / 60,2,0,red,4.0,1.33,1.6,12.0,2.0,1.4,0.36,6.67,0.83,6.0
+/match/euw/6380791880,Jayce,Cho'Gath,Wukong,Hecarim,Veigar,Irelia,Kai'Sa,Ezreal,Bard,Senna,-1679.0,1.0,1.0,16 / 27 / 26,27 / 16 / 46,0,2,red,0.6,1.67,9.0,8.0,9.0,0.67,4.0,2.0,1.5,2.5
+/match/euw/6380784390,Poppy,Riven,Hecarim,Gragas,Zed,Master Yi,Vayne,Kai'Sa,Heimerdinger,Pyke,1772.0,5.0,-2.0,40 / 29 / 40,29 / 40 / 30,2,0,blue,3.33,0.67,3.0,5.0,2.67,0.57,0.5,7.0,2.0,2.0
+/match/euw/6380789018,Taliyah,Zoe,Graves,Kha'Zix,Kennen,Gragas,Xayah,Zeri,Rakan,Lulu,-1107.0,-1.0,-1.0,23 / 39 / 45,39 / 23 / 72,0,2,red,2.0,3.67,1.67,4.0,2.0,2.0,3.5,1.22,5.0,6.0
+/match/euw/6380789891,Garen,Kled,Ivern,Xin Zhao,Aurelion Sol,Akali,Veigar,Jhin,Senna,Nautilus,-10150.0,-4.0,-2.0,15 / 33 / 22,33 / 15 / 39,0,2,red,2.33,1.33,1.0,2.5,2.5,5.0,0.14,7.0,1.5,11.0
+/match/euw/6380783042,Ornn,Gnar,Skarner,Jarvan IV,Yasuo,Kassadin,Jinx,Ezreal,Pyke,Xerath,100.0,0.0,1.0,35 / 22 / 47,22 / 35 / 39,2,0,blue,4.0,1.0,5.0,0.75,3.0,2.5,3.5,3.0,2.0,1.75
+/match/euw/6380778881,Malphite,Olaf,Graves,Lee Sin,Syndra,Kog'Maw,Xayah,Varus,Milio,Amumu,-11012.0,-4.0,-2.0,21 / 40 / 41,40 / 21 / 48,0,2,red,0.5,10.0,1.6,8.0,2.25,4.5,1.67,8.0,2.25,1.43
+/match/euw/6380776258,Fiora,Udyr,Warwick,Lee Sin,Akali,Talon,Varus,Kai'Sa,Rakan,Senna,-3649.0,-3.0,0.0,35 / 36 / 48,36 / 35 / 74,1,1,red,3.0,1.0,12.0,1.4,7.5,0.67,0.5,2.33,3.5,2.0
+/match/euw/6380772245,Sion,Malphite,Kha'Zix,Hecarim,Vladimir,Qiyana,Xayah,Rengar,Annie,Thresh,-3303.0,0.0,0.0,13 / 29 / 16,29 / 13 / 54,0,2,red,1.5,2.0,0.67,3.67,4.0,4.0,0.75,5.5,0.33,5.0
+/match/euw/6380767134,Gwen,Warwick,Wukong,Master Yi,Zed,Ekko,Ziggs,Tristana,Milio,Janna,2958.0,2.0,1.0,28 / 19 / 40,19 / 28 / 31,1,1,blue,1.75,1.33,4.0,1.25,4.0,1.2,1.0,2.5,6.0,5.0
+/match/euw/6380769023,Graves,Jayce,Viego,Shaco,Lissandra,Ahri,Kai'Sa,Jinx,Nautilus,Milio,6076.0,2.0,-1.0,49 / 27 / 60,27 / 49 / 35,2,0,blue,6.0,1.0,5.5,1.0,5.5,1.5,2.5,0.8,2.25,1.2
+/match/euw/6380765203,Irelia,Garen,Skarner,Kayn,Nasus,Orianna,Tristana,Kai'Sa,Nautilus,Senna,-4602.0,-1.0,-1.0,23 / 34 / 21,34 / 23 / 47,2,0,red,1.6,1.8,4.0,1.4,1.0,1.67,1.4,6.0,0.75,11.0
+/match/euw/6380764161,Yasuo,Kayle,Master Yi,Lee Sin,Ryze,Syndra,Zeri,Xayah,Janna,Lulu,2616.0,0.0,0.0,28 / 18 / 48,18 / 28 / 27,1,1,blue,1.17,1.75,8.0,2.33,7.0,3.0,4.0,0.8,2.33,1.33
+/match/euw/6380764657,Gwen,Singed,Lee Sin,Master Yi,Yasuo,Tristana,Ezreal,Senna,Jhin,Fiddlesticks,-2614.0,1.0,-2.0,20 / 42 / 22,42 / 22 / 62,2,0,red,1.0,1.33,1.67,3.25,1.75,9.0,0.33,4.0,0.67,8.5
+/match/euw/6380757382,Fiora,Warwick,Hecarim,Graves,Swain,Aurelion Sol,Xayah,Karthus,Rakan,Taric,7595.0,3.0,2.0,39 / 17 / 66,17 / 39 / 35,2,0,blue,5.5,0.14,6.5,2.25,6.5,1.0,4.5,1.25,3.0,1.29
+/match/euw/6380752259,Camille,Aatrox,Jarvan IV,Lee Sin,Twisted Fate,Tristana,Ezreal,Vel'Koz,Lux,Zyra,1969.0,1.0,0.0,43 / 29 / 68,29 / 43 / 43,2,0,blue,1.6,1.4,2.0,2.33,2.5,2.6,2.67,2.0,2.25,4.5
+/match/euw/6380761574,Amumu,LeBlanc,Kled,Kha'Zix,Lulu,Taric,Vayne,Kog'Maw,Milio,Poppy,-3037.0,1.0,1.0,30 / 41 / 44,41 / 31 / 83,1,1,red,2.33,4.0,1.29,3.0,1.17,2.5,1.5,2.5,2.5,3.25
+/match/euw/6380749207,Seraphine,Zilean,Kha'Zix,Karma,Akshan,Fizz,Tristana,Ezreal,Nami,Xin Zhao,-2598.0,0.0,2.0,20 / 31 / 30,31 / 21 / 59,0,2,red,1.5,3.0,1.67,4.67,1.33,2.33,1.25,4.0,2.25,2.5
+/match/euw/6380741098,Camille,Skarner,Vi,Jarvan IV,Vex,LeBlanc,Xayah,Zeri,Senna,Blitzcrank,3761.0,3.0,-3.0,44 / 32 / 84,32 / 44 / 53,2,0,blue,1.0,2.0,6.5,3.67,6.0,1.0,1.75,1.67,5.0,2.33
+/match/euw/6380738919,Darius,Jax,Kha'Zix,Rek'Sai,Akali,Lissandra,Xayah,Jinx,Blitzcrank,Milio,9575.0,3.0,1.0,31 / 21 / 41,21 / 31 / 30,1,1,blue,2.0,0.2,14.0,0.57,2.25,2.33,11.0,0.33,7.0,1.25
+/match/euw/6380739687,Kennen,Yone,Viego,Ekko,Katarina,Talon,Jinx,Zeri,Nautilus,Blitzcrank,-7958.0,-6.0,0.0,16 / 33 / 25,33 / 16 / 52,0,2,red,4.0,7.0,1.25,3.5,0.5,6.0,1.25,4.0,2.0,2.33
+/match/euw/6380737672,K'Sante,Camille,Lee Sin,Viego,Sylas,Katarina,Aphelios,Draven,Blitzcrank,Lulu,2025.0,-1.0,-1.0,47 / 34 / 69,34 / 47 / 65,0,2,blue,2.5,0.5,3.67,2.6,1.29,2.0,1.4,3.33,1.25,3.25
+/match/euw/6380728429,Ryze,Tryndamere,Nidalee,Hecarim,Akshan,Twisted Fate,Ezreal,Zeri,Soraka,Rakan,-3994.0,-1.0,-2.0,17 / 39 / 30,39 / 17 / 55,0,2,red,3.0,1.0,1.43,9.5,2.0,3.5,1.33,2.67,1.12,5.0
+/match/euw/6380724336,Garen,Darius,Viego,Jarvan IV,Sylas,Kai'Sa,Jinx,Samira,Morgana,Nautilus,1377.0,1.0,-3.0,29 / 31 / 47,31 / 29 / 60,1,1,red,2.0,1.67,5.0,2.0,5.0,0.33,3.33,1.5,3.67,1.2
+/match/euw/6380727149,Kennen,Viktor,Hecarim,Talon,Katarina,LeBlanc,Kai'Sa,Tristana,Nautilus,Sett,-6449.0,0.0,0.0,23 / 48 / 33,48 / 23 / 64,0,2,red,1.8,0.83,5.0,13.0,1.2,12.0,1.0,4.0,0.57,2.25
+/match/euw/6380728946,Sion,Nautilus,Ekko,Karthus,Katarina,Qiyana,Kai'Sa,Ezreal,Alistar,Janna,2778.0,4.0,0.0,31 / 19 / 44,18 / 31 / 18,2,0,blue,0.8,2.5,4.0,1.4,1.5,2.0,2.0,0.67,3.5,8.0
+/match/euw/6380732715,Ornn,Camille,Viego,Lee Sin,Rengar,Ahri,Karthus,Draven,Blitzcrank,Janna,3900.0,0.0,0.0,43 / 44 / 66,44 / 43 / 70,2,0,red,2.0,1.4,2.0,2.0,4.33,1.0,2.83,0.75,9.5,1.17
+/match/euw/6380725866,Riven,Ornn,Wukong,Rengar,Sylas,Ekko,Draven,Tristana,Milio,Lulu,-2567.0,0.0,0.0,31 / 44 / 41,43 / 31 / 60,1,1,red,0.71,1.33,1.5,3.2,1.71,5.67,3.0,6.0,2.67,3.75
+/match/euw/6380721914,Malphite,Darius,Udyr,Kindred,Talon,Syndra,Aphelios,Ezreal,Lulu,Soraka,-3540.0,-5.0,1.0,25 / 36 / 32,36 / 25 / 56,0,2,red,1.5,1.4,3.0,4.0,1.6,2.67,1.6,1.2,5.0,2.33
+/match/euw/6380716219,Malphite,Poppy,Diana,Rek'Sai,Fizz,Annie,Twitch,Zeri,Soraka,Alistar,4220.0,0.0,0.0,35 / 26 / 67,26 / 35 / 34,2,0,blue,4.0,0.5,4.0,2.0,2.0,1.17,1.4,3.5,1.67,8.0
+/match/euw/6380710235,Jayce,Skarner,Shaco,Bel'Veth,Yone,Yasuo,Seraphine,Zeri,Senna,Yuumi,-4807.0,-2.0,2.0,22 / 37 / 30,37 / 22 / 45,0,2,red,1.33,5.0,2.0,5.0,1.0,0.71,0.5,5.0,0.5,6.0
+/match/euw/6380710762,Gragas,Jax,Wukong,Amumu,Viktor,Kayle,Jinx,Lee Sin,Milio,Ashe,-7236.0,-3.0,-2.0,22 / 34 / 32,34 / 22 / 48,1,1,red,1.33,1.4,0.6,2.8,2.67,6.0,0.6,3.5,3.0,6.0
+/match/euw/6380707969,Ornn,Gwen,Gragas,Viego,Vex,Taliyah,Zeri,Jinx,Lulu,Milio,-323.0,1.0,0.0,19 / 25 / 24,25 / 19 / 38,1,1,red,5.0,0.25,3.0,5.0,0.67,2.0,9.0,1.2,2.67,2.0
+/match/euw/6380698160,Ornn,Sejuani,Kha'Zix,Bel'Veth,Ahri,Syndra,Aphelios,Twitch,Annie,Braum,-1155.0,1.0,-1.0,27 / 28 / 55,28 / 27 / 46,0,2,blue,1.0,1.0,1.67,3.0,8.0,0.5,1.5,5.0,3.0,1.8
+/match/euw/6380691452,Garen,Warwick,Kayn,Talon,Qiyana,Irelia,Draven,Ezreal,Soraka,Leona,5341.0,2.0,0.0,45 / 37 / 73,35 / 45 / 49,1,1,blue,3.0,2.25,1.22,2.33,1.2,1.5,4.33,1.75,4.67,2.5
+/match/euw/6380691135,Pantheon,Darius,Elise,Nidalee,Katarina,Urgot,Lucian,Caitlyn,Thresh,Karma,-1025.0,0.0,-1.0,19 / 29 / 23,28 / 19 / 43,2,0,red,1.25,1.0,6.0,7.0,1.5,1.0,0.71,4.0,2.67,5.0
+/match/euw/6380690133,Singed,Cho'Gath,Gragas,Lee Sin,Ahri,Cassiopeia,Ezreal,Kalista,Graves,Pyke,5751.0,3.0,-2.0,44 / 32 / 65,31 / 44 / 44,2,0,blue,3.0,2.67,1.33,2.0,7.0,1.43,2.0,5.0,2.67,1.0
+/match/euw/6380680300,Riven,Shen,Kha'Zix,Nidalee,Ahri,Annie,Sivir,Zeri,Zyra,Milio,1847.0,4.0,-2.0,22 / 51 / 24,51 / 22 / 102,2,0,red,1.5,4.5,1.5,4.5,0.5,4.0,1.67,2.6,2.0,3.75
+/match/euw/6380669219,Fiddlesticks,Jax,Jarvan IV,Maokai,LeBlanc,Sylas,Zeri,Samira,Leona,Alistar,-255.0,0.0,0.0,27 / 40 / 51,40 / 28 / 81,2,0,red,1.67,0.71,12.0,0.4,3.67,8.0,1.5,6.0,1.0,5.25
+/match/euw/6380662383,Poppy,Garen,Ekko,Hecarim,Katarina,Fizz,Xayah,Zeri,Thresh,Yuumi,1282.0,2.0,-2.0,30 / 31 / 55,31 / 30 / 53,1,1,red,8.0,0.0,4.0,2.25,1.8,0.8,5.0,2.0,5.0,3.0
+/match/euw/6380659420,Vladimir,Malzahar,Udyr,Kha'Zix,Akali,Yasuo,Kai'Sa,Jinx,Senna,Milio,-4657.0,-1.0,0.0,16 / 30 / 16,30 / 16 / 54,0,2,red,0.25,4.0,1.67,2.5,6.0,2.0,0.5,7.0,1.0,6.0
+/match/euw/6380658433,Shen,Irelia,Diana,Nocturne,Jayce,Sylas,Jinx,Zeri,Milio,Sona,-4238.0,-1.0,0.0,34 / 40 / 64,39 / 35 / 72,1,1,red,4.0,1.5,2.6,4.75,1.11,3.4,1.14,3.0,1.5,3.75
+/match/euw/6380655066,Shyvana,Pantheon,Bel'Veth,Nunu & Willump,Katarina,Riven,Xayah,Ezreal,Zyra,Xerath,-6845.0,-2.0,-2.0,21 / 45 / 25,45 / 21 / 53,0,2,red,0.2,8.0,0.67,3.67,0.33,9.0,2.0,1.67,1.25,1.33
+/match/euw/6380662664,Akali,K'Sante,Olaf,Vi,Aurelion Sol,Twisted Fate,Zeri,Kai'Sa,Soraka,Pyke,-2608.0,0.0,0.0,35 / 45 / 63,45 / 36 / 63,0,2,red,4.0,1.5,2.17,2.0,4.0,5.5,5.0,2.17,1.78,2.17
+/match/euw/6380656643,Singed,K'Sante,Gragas,Jarvan IV,Ezreal,Annie,Jinx,Tristana,Milio,Thresh,-2261.0,-1.0,3.0,35 / 29 / 59,28 / 35 / 34,0,2,blue,1.0,2.0,4.5,2.67,1.2,4.0,3.33,0.8,14.0,1.17
+/match/euw/6380641167,Mordekaiser,Jax,Kindred,Nidalee,Twisted Fate,Qiyana,Zeri,Jinx,Senna,Leona,-698.0,0.0,2.0,32 / 44 / 48,44 / 32 / 66,0,2,red,0.5,5.0,4.0,4.33,1.43,2.75,2.4,1.2,4.33,2.2
+/match/euw/6380643913,Ornn,Fiora,Kha'Zix,Gragas,Vex,Qiyana,Kai'Sa,Jinx,Sylas,Milio,1028.0,0.0,0.0,48 / 36 / 59,35 / 48 / 61,2,0,blue,5.0,1.5,2.0,16.0,5.67,1.0,2.0,1.29,1.57,1.43
+/match/euw/6380643868,Nasus,Warwick,Mordekaiser,Jarvan IV,Master Yi,Sylas,Tristana,Vayne,Milio,Leona,-4144.0,-1.0,-1.0,14 / 29 / 16,29 / 14 / 36,2,0,red,0.0,14.0,1.25,17.0,0.6,1.67,4.0,0.75,1.6,3.33
+/match/euw/6380646683,Akshan,Karthus,Fiddlesticks,Bel'Veth,Orianna,Sylas,Zeri,Xayah,Yuumi,Zilean,10324.0,3.0,-2.0,38 / 13 / 58,13 / 38 / 22,2,0,blue,8.0,0.4,4.5,1.25,1.67,0.5,3.0,3.5,5.0,3.0
+/match/euw/6380642662,Illaoi,Garen,Maokai,Rek'Sai,Viktor,Lissandra,Varus,Sivir,Brand,Pyke,-2642.0,0.0,0.0,23 / 32 / 32,32 / 24 / 40,1,1,red,0.33,5.0,2.0,2.0,1.0,1.67,3.0,1.2,2.5,2.5
+/match/euw/6380627029,Illaoi,Yorick,Master Yi,Nidalee,Vex,Ekko,Twitch,Caitlyn,Yuumi,Nautilus,6610.0,3.0,1.0,38 / 22 / 54,21 / 38 / 30,2,0,blue,3.0,0.0,5.5,2.5,6.0,1.33,1.0,3.33,4.0,2.4
+/match/euw/6380628922,Camille,Renekton,Kha'Zix,Lee Sin,LeBlanc,Ryze,Miss Fortune,Twitch,Soraka,Milio,3152.0,2.0,-2.0,23 / 28 / 35,28 / 23 / 47,2,0,red,1.5,2.33,1.5,12.0,0.5,1.33,4.0,0.0,7.0,1.67
+/match/euw/6380629530,Gwen,Ornn,Viego,Vi,Vladimir,Aurelion Sol,Jinx,Nilah,Renata Glasc,Milio,1498.0,-2.0,1.0,23 / 32 / 30,32 / 23 / 65,0,2,red,5.0,0.25,4.0,1.5,2.33,1.0,2.0,9.0,1.17,10.0
+/match/euw/6380616303,Ornn,Kled,Vi,Pyke,Kassadin,Garen,Jinx,Vayne,Lulu,Evelynn,-4456.0,-2.0,1.0,35 / 23 / 56,23 / 35 / 28,1,1,blue,0.67,8.0,1.0,1.0,3.0,5.0,2.0,1.67,4.0,1.0
+/match/euw/6380617589,Gwen,Sion,Lee Sin,Elise,Cassiopeia,Orianna,Kai'Sa,Zeri,Senna,Leona,5390.0,3.0,-2.0,45 / 39 / 54,39 / 45 / 64,2,0,blue,0.0,3.0,5.5,2.0,1.75,7.0,1.67,1.1,3.5,3.67
+/match/euw/6380606299,Malphite,Yorick,Hecarim,Kindred,Varus,Kassadin,Zeri,Nilah,Zilean,Janna,-1430.0,-4.0,2.0,20 / 19 / 44,19 / 20 / 37,0,2,red,6.0,1.0,7.0,1.0,1.67,3.0,5.0,0.0,6.0,0.33
+/match/euw/6380611486,Twisted Fate,Seraphine,Graves,Nidalee,Gangplank,Jinx,Aphelios,Tristana,Blitzcrank,Thresh,7021.0,0.0,0.0,41 / 38 / 58,38 / 41 / 70,2,0,red,8.0,1.67,9.0,1.6,7.0,0.6,4.0,1.33,3.75,1.14
+/match/euw/6380603241,Singed,Kennen,Lee Sin,Gragas,Lissandra,Zed,Jinx,Ezreal,Lulu,Graves,-8499.0,-2.0,2.0,21 / 39 / 36,39 / 21 / 45,0,2,red,0.2,13.0,0.62,7.5,2.75,1.2,1.33,2.0,1.67,5.5
+/match/euw/6380596389,Olaf,Malphite,Gragas,Wukong,Viktor,Galio,Tristana,Miss Fortune,Pyke,Leona,-2367.0,0.0,0.0,14 / 31 / 20,31 / 14 / 44,0,1,red,0.0,8.0,3.0,8.0,0.67,2.0,2.0,3.33,1.0,3.0
+/match/euw/6380600007,Illaoi,Cassiopeia,Viego,Master Yi,Ahri,Jayce,Jinx,Miss Fortune,Lulu,Heimerdinger,7010.0,3.0,2.0,33 / 21 / 58,21 / 34 / 32,2,0,blue,0.0,7.0,4.33,1.5,9.0,1.5,5.0,1.0,4.25,1.0
+/match/euw/6380604590,Vayne,Teemo,Maokai,Sejuani,Cassiopeia,Vi,Aphelios,Ezreal,Soraka,Nautilus,7382.0,4.0,2.0,31 / 21 / 54,21 / 31 / 34,1,0,blue,1.8,1.33,6.5,4.0,1.33,1.33,5.5,2.0,3.67,2.75
+/match/euw/6380598678,Gragas,Kennen,Graves,Udyr,Akali,Sett,Jinx,Xayah,Thresh,Blitzcrank,-7257.0,-4.0,2.0,34 / 44 / 59,44 / 34 / 62,0,2,red,6.0,1.33,4.0,1.6,1.6,4.5,0.86,5.5,1.33,2.75
+/match/euw/6380585296,Malphite,Akshan,Vi,Master Yi,Ahri,LeBlanc,Ezreal,Ashe,Karma,Milio,-6256.0,-1.0,-2.0,27 / 45 / 52,45 / 27 / 77,2,0,red,1.5,1.67,0.86,4.4,9.0,5.0,1.2,4.0,0.78,22.0
+/match/euw/6380595570,Rumble,Kennen,Talon,Zac,Karthus,Yasuo,Jinx,Kog'Maw,Soraka,Lulu,-741.0,1.0,0.0,18 / 32 / 31,32 / 18 / 47,2,0,red,3.0,0.0,4.5,1.5,1.5,2.0,2.0,6.0,2.5,9.0
+/match/euw/6380584782,Sejuani,Yorick,Kindred,Shaco,Orianna,Tristana,Jinx,Veigar,Blitzcrank,Morgana,-6381.0,-2.0,2.0,25 / 34 / 35,34 / 25 / 51,0,1,red,1.33,1.0,2.2,4.0,12.0,0.86,1.29,3.75,1.5,4.5
+/match/euw/6380580181,Singed,K'Sante,Vi,Nidalee,Ahri,Veigar,Jinx,Kai'Sa,Nautilus,Rakan,-2112.0,0.0,-2.0,31 / 29 / 55,28 / 32 / 45,0,2,blue,1.5,0.67,0.5,15.0,3.5,1.0,0.5,5.5,0.4,8.0
+/match/euw/6380584460,Riven,Aatrox,Ekko,Zac,Yasuo,Lulu,Samira,Twitch,Gragas,Lissandra,-2232.0,0.0,1.0,35 / 42 / 43,42 / 35 / 72,0,1,red,1.0,1.0,2.75,18.0,1.14,3.4,3.25,1.5,2.0,3.5
+/match/euw/6380571192,Akshan,Riven,Wukong,Lee Sin,Draven,Swain,Azir,Ezreal,Janna,Leona,-150.0,0.0,0.0,24 / 36 / 37,36 / 24 / 46,1,1,red,1.4,1.5,4.0,2.25,2.0,3.33,2.0,0.75,2.33,3.33
+/match/euw/6380571493,Gwen,Cho'Gath,Kha'Zix,Jarvan IV,Yasuo,Kog'Maw,Aphelios,Jinx,Rakan,Nautilus,4719.0,1.0,-2.0,43 / 35 / 48,35 / 43 / 68,1,1,blue,1.0,1.0,1.8,7.0,2.0,1.17,2.25,1.57,3.5,3.0
+/match/euw/6380569572,Jax,Urgot,Nunu & Willump,Kha'Zix,Cassiopeia,Kassadin,Aphelios,Kog'Maw,Sona,Milio,-2195.0,0.0,-1.0,26 / 43 / 41,43 / 26 / 72,2,0,red,1.5,0.86,3.67,3.5,1.8,6.5,2.0,2.33,2.8,8.5
+/match/euw/6380561052,Maokai,Sion,Zac,Master Yi,Gragas,Sylas,Sivir,Karthus,Milio,Yuumi,-3180.0,-2.0,-1.0,18 / 30 / 23,30 / 18 / 42,0,2,red,1.5,1.0,10.0,2.25,3.5,1.5,1.0,2.33,1.2,10.0
+/match/euw/6380550392,Malphite,Olaf,Jarvan IV,Ekko,Vex,Orianna,Samira,Zeri,Nautilus,Lux,-7322.0,-3.0,-1.0,38 / 38 / 73,38 / 38 / 54,0,2,blue,0.8,3.0,3.2,3.25,1.43,3.67,2.25,4.0,3.75,1.0
+/match/euw/6380554888,Cho'Gath,Garen,Graves,Kindred,Viktor,Vladimir,Ezreal,Varus,Zilean,Renata Glasc,-3269.0,-1.0,0.0,34 / 40 / 46,39 / 34 / 51,2,0,blue,2.0,2.5,1.4,3.67,0.75,7.0,0.8,2.2,1.17,3.25
+/match/euw/6380551188,Riven,Kennen,Kha'Zix,Lee Sin,Azir,Ryze,Xayah,Ezreal,Maokai,Annie,-2055.0,-2.0,1.0,19 / 29 / 29,29 / 19 / 42,0,2,red,0.4,7.0,8.0,4.5,2.5,0.67,4.0,1.0,3.67,1.5
+/match/euw/6380545159,Kennen,Garen,Hecarim,Lillia,Pantheon,Aatrox,Vayne,Zeri,Nami,Yuumi,-5078.0,-4.0,-1.0,38 / 32 / 61,32 / 39 / 54,1,1,red,2.33,0.33,2.33,5.0,1.0,12.0,2.0,1.0,4.5,3.67
+/match/euw/6380536413,Illaoi,Shen,Zac,Nidalee,Malzahar,Veigar,Draven,Nilah,Leona,Yuumi,5194.0,4.0,2.0,20 / 17 / 30,17 / 20 / 27,2,0,blue,1.2,3.5,1.67,2.33,3.0,2.0,3.0,4.0,1.5,6.0
+/match/euw/6380529342,Sion,Sett,Lee Sin,Maokai,Cassiopeia,Ahri,Zeri,Aphelios,Thresh,Lulu,707.0,1.0,0.0,16 / 26 / 32,26 / 16 / 76,2,0,red,3.0,0.67,3.0,6.0,5.0,6.0,1.0,3.0,0.75,9.0
+/match/euw/6380535509,Darius,Irelia,Master Yi,Sejuani,Vex,Aurelion Sol,Jinx,Draven,Thresh,Janna,7901.0,2.0,1.0,34 / 12 / 45,12 / 34 / 19,2,0,blue,3.0,0.25,10.0,6.0,2.67,1.25,8.0,0.5,5.0,1.33
+/match/euw/6380531513,Mordekaiser,Darius,Lee Sin,Ekko,Ahri,Zed,Xayah,Ziggs,Nautilus,Pantheon,2952.0,0.0,2.0,47 / 29 / 66,29 / 47 / 42,0,2,blue,1.25,1.0,5.5,1.17,10.0,2.0,17.0,0.83,3.0,0.67
+/match/euw/6380522092,Renekton,Draven,Kha'Zix,Diana,Ahri,Tristana,Ezreal,Karthus,Tahm Kench,Leona,-2833.0,-3.0,-1.0,37 / 18 / 60,18 / 37 / 21,0,2,blue,0.5,3.5,3.0,2.5,6.0,2.5,3.33,1.4,2.67,1.5
+/match/euw/6380519148,Mordekaiser,Olaf,Rengar,Talon,Viktor,Syndra,Ezreal,Jinx,Pyke,Lulu,3889.0,2.0,2.0,36 / 17 / 40,17 / 36 / 25,2,0,blue,3.0,2.0,2.75,5.0,2.75,0.62,7.0,0.67,11.0,1.2
+/match/euw/6380515147,Sejuani,Ryze,Master Yi,Nunu & Willump,Kog'Maw,Pantheon,Cassiopeia,Kai'Sa,Maokai,Pyke,-5469.0,-1.0,-3.0,24 / 40 / 41,40 / 24 / 78,0,2,red,6.0,0.0,1.44,2.4,1.2,4.67,2.0,2.75,3.33,12.0
+/match/euw/6380516691,Jax,Fiora,Sylas,Maokai,Yone,Jayce,Zeri,Jinx,Lulu,Tahm Kench,-911.0,-1.0,-2.0,19 / 31 / 15,31 / 19 / 42,2,0,red,1.0,1.0,1.67,6.0,0.5,1.5,1.5,2.67,1.67,1.67
+/match/euw/6380507205,Senna,Mordekaiser,Shaco,Master Yi,Akshan,Diana,Cho'Gath,Tristana,Sett,Rakan,3391.0,-2.0,-3.0,32 / 30 / 48,30 / 32 / 31,0,2,red,2.6,2.25,5.33,1.0,6.0,0.8,2.0,5.5,2.5,0.67
+/match/euw/6380509029,Annie,Zed,Talon,Rengar,Yasuo,LeBlanc,Varus,Kai'Sa,Nautilus,Lulu,-5087.0,-2.0,-2.0,30 / 41 / 40,41 / 30 / 63,1,1,red,1.5,5.0,1.75,1.5,1.0,5.0,2.0,3.0,1.75,1.4
+/match/euw/6380507901,Malphite,Olaf,Graves,Nidalee,Shen,Talon,Kog'Maw,Jinx,Blitzcrank,Milio,-5009.0,-3.0,3.0,41 / 37 / 56,37 / 41 / 52,1,1,red,5.0,0.0,2.5,3.0,1.25,4.5,2.0,3.0,3.0,1.4
+/match/euw/6380510671,Sion,Shyvana,Lee Sin,Kayn,Akali,Akshan,Jinx,Lucian,Sona,Milio,-123.0,-1.0,2.0,34 / 34 / 36,33 / 34 / 41,2,0,blue,1.0,1.17,4.0,6.0,8.0,1.6,1.25,1.25,1.14,11.0
+/match/euw/6380503816,Kennen,Riven,Graves,Bel'Veth,Zeri,Akali,Sivir,Kai'Sa,Thresh,Blitzcrank,3221.0,4.0,-2.0,37 / 42 / 58,42 / 37 / 56,2,0,red,8.0,4.0,4.5,4.33,0.83,2.5,1.43,2.4,2.33,1.38
+/match/euw/6380500846,Gnar,Shen,Kayn,Rek'Sai,Katarina,Sylas,Jinx,Ezreal,Nautilus,Xerath,7684.0,3.0,0.0,43 / 30 / 65,30 / 43 / 48,2,0,blue,0.29,2.0,5.33,1.29,6.0,4.0,3.75,1.17,9.0,1.33
+/match/euw/6380499758,Cho'Gath,Gragas,Viego,Vi,Talon,Tristana,Veigar,Ezreal,Senna,Nami,8025.0,2.0,2.0,28 / 16 / 25,16 / 29 / 25,1,1,blue,0.5,1.0,4.0,1.0,3.5,0.75,3.0,0.86,3.0,2.0
+/match/euw/6380492315,Renekton,Shyvana,Graves,Rengar,Katarina,Ahri,Samira,Aphelios,Pantheon,Milio,5799.0,2.0,2.0,30 / 35 / 31,35 / 30 / 63,2,0,red,4.0,2.0,4.33,0.83,1.8,2.5,2.33,2.0,2.6,1.67
+/match/euw/6380490182,Kayle,Garen,Nunu & Willump,Wukong,Irelia,Sylas,Zeri,Seraphine,Milio,Sona,3844.0,1.0,2.0,24 / 19 / 44,19 / 24 / 30,2,0,blue,0.4,2.5,9.0,1.75,2.0,1.33,3.5,5.0,9.0,1.67
+/match/euw/6380491859,Renekton,Volibear,Talon,Nidalee,Viktor,Irelia,Aphelios,Vayne,Bard,Rakan,2311.0,-1.0,2.0,39 / 22 / 63,22 / 39 / 32,0,2,blue,3.5,1.0,7.0,1.8,6.0,1.0,1.0,2.33,2.5,1.5
+/match/euw/6380477243,Pantheon,Garen,Nidalee,Lee Sin,Azir,Nautilus,Kai'Sa,Xayah,Renata Glasc,Janna,-5242.0,-3.0,0.0,10 / 26 / 11,26 / 10 / 55,0,2,red,0.67,1.5,2.5,2.67,1.67,3.5,0.5,13.0,0.5,14.0
+/match/euw/6380479697,K'Sante,Olaf,Jarvan IV,Viego,Vladimir,Vex,Ezreal,Kalista,Braum,Amumu,-2216.0,-1.0,-3.0,49 / 44 / 105,44 / 49 / 72,2,0,red,1.2,2.0,11.0,3.0,10.0,2.0,2.0,1.29,2.83,2.0
+/match/euw/6380469422,Volibear,Dr. Mundo,Wukong,Diana,Annie,Gragas,Jinx,Tristana,Sona,Renekton,-11938.0,-6.0,-1.0,26 / 39 / 49,39 / 26 / 35,0,2,red,0.33,15.0,2.0,2.5,1.4,1.0,2.2,6.0,1.5,1.8
+/match/euw/6380471901,Sett,Volibear,Nunu & Willump,Ekko,Akali,Sylas,Vayne,Ezreal,Brand,Thresh,-3762.0,-1.0,-1.0,23 / 41 / 21,41 / 23 / 51,2,0,red,2.0,0.6,1.0,5.0,0.88,6.5,1.2,2.0,1.75,2.75
+/match/euw/6380470657,Riven,Fiora,Jarvan IV,Sivir,Kog'Maw,Syndra,Zeri,Bel'Veth,Thresh,Rell,1634.0,3.0,0.0,33 / 42 / 45,42 / 33 / 63,2,0,red,4.5,1.33,5.0,3.33,1.0,2.25,2.0,2.25,1.4,1.57
+/match/euw/6380468543,Gwen,Darius,Ekko,Master Yi,Pantheon,Zoe,Draven,Samira,Thresh,Yuumi,-6679.0,0.0,0.0,36 / 48 / 61,48 / 36 / 69,1,0,red,2.0,1.17,1.5,5.5,0.86,8.0,1.29,1.67,1.38,11.5
+/match/euw/6380451294,Yone,Malphite,Jarvan IV,Viego,Diana,LeBlanc,Varus,Aphelios,Thresh,Braum,9649.0,4.0,1.0,37 / 19 / 56,18 / 37 / 33,2,0,blue,8.0,0.43,8.0,1.83,4.0,1.25,2.4,1.5,4.67,1.8
+/match/euw/6380447187,Tryndamere,Kled,Kassadin,Nidalee,Talon,Jayce,Kai'Sa,Jinx,Leona,Milio,-790.0,-2.0,0.0,40 / 28 / 66,27 / 40 / 35,0,2,blue,0.0,5.0,3.67,1.67,3.25,1.8,2.6,0.86,3.0,1.75
+/match/euw/6380455541,K'Sante,Poppy,Nidalee,Graves,Anivia,Ahri,Kai'Sa,Vayne,Blitzcrank,Pyke,3208.0,2.0,1.0,47 / 22 / 66,22 / 47 / 44,2,0,blue,2.67,3.33,4.25,2.6,2.0,3.0,6.5,1.33,4.4,1.08
+/match/euw/6380451787,Ornn,Malzahar,Evelynn,Hecarim,Yasuo,Pantheon,Zeri,Aphelios,Blitzcrank,Morgana,-2099.0,2.0,2.0,27 / 28 / 45,27 / 27 / 48,1,1,blue,6.0,1.5,2.33,19.0,0.8,2.67,0.4,6.0,0.38,14.0
+/match/euw/6380442270,Cho'Gath,Sylas,Kha'Zix,Master Yi,Rumble,Ryze,Nilah,Ezreal,Alistar,Janna,-870.0,2.0,-2.0,22 / 34 / 29,34 / 22 / 83,1,1,red,1.0,3.0,2.0,2.75,6.0,0.5,1.33,9.0,1.0,3.33
+/match/euw/6380435404,Fiora,Kayle,Kayn,Kha'Zix,Annie,Gragas,Karthus,Kai'Sa,Blitzcrank,Rakan,1584.0,0.0,-1.0,35 / 27 / 55,27 / 35 / 32,0,2,blue,8.0,0.0,4.33,5.0,0.67,2.33,3.33,2.5,1.5,3.67
+/match/euw/6380440181,Jax,Riven,Gragas,Wukong,Vex,Akali,Jinx,Twitch,Nautilus,Lulu,7327.0,3.0,-1.0,42 / 41 / 57,41 / 42 / 69,1,0,blue,1.0,3.0,3.0,1.6,2.67,0.6,4.75,2.4,3.4,1.43
+/match/euw/6380434173,Kled,Cho'Gath,Sejuani,Amumu,Twisted Fate,Azir,Varus,Ezreal,Karma,Swain,-3698.0,0.0,0.0,34 / 46 / 42,46 / 34 / 69,1,0,red,2.5,0.43,3.0,2.67,1.8,7.0,0.67,3.67,1.75,2.75
+/match/euw/6380431170,Jayce,Riven,Viego,Lee Sin,Pantheon,Sylas,Karthus,Xayah,Lulu,Rakan,-915.0,-1.0,-2.0,47 / 46 / 85,46 / 47 / 79,2,0,blue,0.83,2.0,6.0,3.0,2.0,2.5,1.14,3.75,0.75,3.5
+/match/euw/6380432463,Jayce,Sejuani,Rengar,Graves,Ahri,Taliyah,Anivia,Zeri,Senna,Blitzcrank,-3697.0,1.0,0.0,31 / 49 / 39,49 / 31 / 60,2,0,red,0.44,5.0,3.67,3.25,1.25,3.0,3.67,2.33,2.75,0.17
+/match/euw/6380431568,Cho'Gath,Renekton,Zac,Kayn,LeBlanc,Cassiopeia,Ezreal,Sivir,Thresh,Zyra,-9001.0,-4.0,-1.0,35 / 46 / 47,46 / 35 / 58,1,0,red,1.33,2.67,3.33,4.33,1.33,1.0,2.5,2.67,1.8,1.5
+/match/euw/6380421315,Irelia,Gnar,Jarvan IV,Evelynn,Katarina,Yasuo,Vayne,Xayah,Rakan,Milio,-2906.0,-2.0,0.0,27 / 42 / 45,42 / 27 / 73,0,2,red,0.75,1.0,5.5,11.0,3.0,2.0,0.5,1.33,3.0,5.5
+/match/euw/6380421879,Olaf,Gnar,Lillia,Zac,Ahri,Taliyah,Twitch,Kalista,Thresh,Amumu,-5017.0,-2.0,-3.0,22 / 34 / 46,34 / 22 / 62,2,0,red,5.0,4.0,4.5,4.0,2.33,2.0,0.62,6.0,1.33,5.0
+/match/euw/6380419886,Jax,Ornn,Taliyah,Graves,Ahri,Cassiopeia,Kalista,Twitch,Nautilus,Renata Glasc,2299.0,3.0,0.0,30 / 44 / 41,44 / 30 / 80,2,0,red,2.5,2.0,3.0,2.8,1.5,2.33,1.0,4.33,2.25,14.0
+/match/euw/6380424548,Malzahar,Irelia,Nocturne,Ekko,Vayne,Ziggs,Garen,Ezreal,Pyke,Lux,2304.0,-2.0,0.0,45 / 21 / 62,21 / 45 / 29,0,1,blue,5.0,1.0,6.0,0.25,3.0,2.0,1.0,1.0,5.5,0.75
+/match/euw/6380418597,Tryndamere,Gnar,Fiddlesticks,Vi,Viktor,Sylas,Xayah,Caitlyn,Nami,Janna,1803.0,0.0,2.0,26 / 13 / 60,13 / 26 / 26,1,1,blue,2.0,0.0,2.0,4.0,0.75,3.5,1.5,5.0,4.0,7.0
+/match/euw/6380404357,Malphite,Gwen,Vi,LeBlanc,Gragas,Kha'Zix,Jinx,Zeri,Thresh,Senna,146.0,1.0,3.0,36 / 20 / 46,20 / 36 / 26,1,0,blue,11.0,0.33,3.0,0.67,4.0,1.33,4.5,4.0,8.0,0.83
+/match/euw/6380403377,Olaf,Ornn,Viego,Diana,Anivia,Yasuo,Kalista,Jinx,Pyke,Thresh,7660.0,2.0,1.0,37 / 17 / 46,16 / 37 / 28,2,0,blue,3.33,0.83,1.2,2.25,11.0,1.33,4.5,0.8,10.0,1.25
+/match/euw/6380411593,Jax,Illaoi,Talon,Bel'Veth,Ahri,Gragas,Xayah,Zeri,Lulu,Senna,20.0,0.0,-2.0,42 / 26 / 48,26 / 42 / 28,1,1,blue,3.0,0.2,2.5,13.0,1.67,9.0,1.4,1.0,1.83,2.6
+/match/euw/6380397304,Sion,Yone,Rengar,Gragas,Rumble,Shaco,Jinx,Varus,Blitzcrank,Rakan,2933.0,3.0,0.0,38 / 32 / 58,32 / 38 / 55,2,0,blue,2.0,0.75,3.33,2.0,8.0,1.5,2.0,1.5,12.0,2.25
+/match/euw/6380398876,Vladimir,Riven,Master Yi,Shaco,Syndra,Kassadin,Zeri,Jinx,Yuumi,Karma,874.0,-1.0,-1.0,24 / 27 / 33,27 / 24 / 37,0,1,red,2.0,1.75,2.4,2.0,3.0,0.75,6.0,0.33,10.0,2.5
+/match/euw/6380388221,Cho'Gath,Sion,Talon,Lee Sin,Viktor,Lissandra,Jinx,Ezreal,Milio,Rakan,-2872.0,-4.0,-2.0,40 / 27 / 76,26 / 40 / 32,0,1,blue,1.4,1.17,1.11,2.5,4.0,4.0,2.67,3.0,5.0,2.0
+/match/euw/6380389145,Illaoi,Camille,Kha'Zix,Lee Sin,Karma,Viktor,Aphelios,Ezreal,Janna,Nami,1979.0,1.0,2.0,26 / 20 / 33,20 / 26 / 31,2,0,blue,1.5,4.0,2.67,1.4,0.67,5.0,6.0,0.67,1.33,1.8
+/match/euw/6380385350,Darius,Olaf,Ekko,Viego,Zed,Jinx,Cho'Gath,Vex,Senna,Sona,118.0,1.0,3.0,31 / 26 / 42,26 / 31 / 51,1,1,blue,0.75,5.0,3.0,1.33,8.0,1.33,1.25,5.0,1.2,12.0
+/match/euw/6380370435,Darius,Jayce,Nunu & Willump,Master Yi,Qiyana,Syndra,Seraphine,Samira,Senna,Nautilus,392.0,0.0,0.0,32 / 23 / 50,23 / 32 / 21,1,0,blue,3.67,0.88,2.25,4.5,1.0,2.0,2.67,3.0,1.5,2.67
+/match/euw/6380377685,Gangplank,Kled,Viego,Nidalee,Sylas,Twisted Fate,Xayah,Twitch,Lulu,Milio,-3141.0,-3.0,-2.0,22 / 33 / 40,33 / 22 / 56,0,2,red,3.5,3.0,1.8,1.86,3.67,9.0,0.5,5.5,2.25,6.5
+/match/euw/6380370213,Olaf,Jayce,Karthus,Kayn,Cassiopeia,Swain,Varus,Seraphine,Rell,Thresh,-3570.0,-3.0,1.0,22 / 41 / 43,41 / 22 / 75,1,1,red,0.6,6.5,2.4,2.0,1.33,2.75,2.0,7.0,1.75,9.0
+/match/euw/6380376457,Rumble,Sion,Jarvan IV,Lee Sin,Zed,Veigar,Lucian,Ezreal,Thresh,Shaco,234.0,1.0,0.0,38 / 37 / 43,37 / 38 / 46,1,1,red,1.0,0.4,5.0,3.25,2.67,3.33,2.14,1.12,2.43,1.11
+/match/euw/6380372584,Jayce,Kennen,Kindred,Rengar,Vladimir,Pantheon,Xayah,Ashe,Janna,Heimerdinger,-127.0,-1.0,0.0,39 / 32 / 61,32 / 39 / 30,1,1,blue,0.29,1.2,2.67,3.0,3.33,3.67,2.33,6.0,6.5,0.86
+/match/euw/6380364219,Ornn,Jax,Hecarim,Lee Sin,Tristana,Ahri,Ziggs,Zilean,Senna,Ashe,640.0,3.0,-2.0,13 / 39 / 23,39 / 13 / 68,1,1,red,3.0,1.25,1.25,9.0,1.0,7.0,0.4,6.0,1.33,7.0
+/match/euw/6380362936,Jayce,Gwen,Talon,Evelynn,Anivia,Akshan,Xayah,Draven,Janna,Thresh,4781.0,2.0,2.0,36 / 20 / 44,20 / 36 / 27,2,0,blue,1.4,1.75,2.67,3.33,9.0,2.0,2.6,0.5,7.0,1.25
+/match/euw/6380367571,Camille,Jax,Wukong,Kha'Zix,Rumble,Galio,Xayah,Draven,Rakan,Milio,-1921.0,-1.0,0.0,29 / 14 / 49,14 / 29 / 25,1,1,blue,1.0,2.5,2.5,4.0,1.0,2.33,6.0,1.0,3.0,4.0
+/match/euw/6380360486,Kennen,Irelia,Nocturne,Kayn,Qiyana,Ahri,Ezreal,Zeri,Karma,Lulu,9012.0,4.0,0.0,32 / 28 / 42,28 / 32 / 52,2,0,red,3.0,0.2,8.0,0.17,12.0,1.0,2.0,2.5,5.0,6.0
+/match/euw/6380344130,Cho'Gath,Mordekaiser,Bel'Veth,Kha'Zix,Vel'Koz,Taliyah,Xayah,Kai'Sa,Rakan,Alistar,3428.0,6.0,0.0,26 / 18 / 37,18 / 26 / 28,2,0,blue,2.5,1.0,6.5,0.4,6.0,1.4,1.0,8.0,4.5,1.67
+/match/euw/6380336243,Sion,Illaoi,Graves,Ivern,Aurelion Sol,Sylas,Lucian,Draven,Blitzcrank,Zyra,-8498.0,-3.0,-2.0,33 / 38 / 43,37 / 33 / 37,0,2,red,0.8,2.5,1.4,7.0,1.0,7.0,2.0,1.33,2.0,1.8
+/match/euw/6380330329,Kennen,Ornn,Elise,Viego,Jayce,Heimerdinger,Aphelios,Jinx,Senna,Rell,-2156.0,-4.0,0.0,32 / 39 / 53,39 / 33 / 66,0,2,red,0.43,12.0,4.0,1.17,1.8,4.5,2.67,1.75,16.0,1.14
+/match/euw/6380340652,Rumble,Ezreal,Lee Sin,Nunu & Willump,Syndra,Qiyana,Jinx,Draven,Leona,Blitzcrank,6134.0,2.0,-1.0,26 / 14 / 38,14 / 26 / 12,2,0,blue,3.5,0.67,10.0,1.33,1.5,1.33,7.0,1.0,3.5,1.5
+/match/euw/6380337474,Nasus,Jax,Viego,Evelynn,Cassiopeia,Viktor,Ezreal,Jinx,Milio,Thresh,6427.0,3.0,0.0,34 / 18 / 59,18 / 34 / 29,2,0,blue,1.25,1.25,7.5,1.33,3.67,1.67,1.8,1.67,15.0,1.0
+/match/euw/6380330003,Fiora,Gwen,Nocturne,Nunu & Willump,Ekko,Xerath,Sivir,Jhin,Milio,Zilean,-3862.0,-1.0,-2.0,15 / 41 / 9,40 / 15 / 74,1,1,red,3.0,0.22,2.0,11.0,0.5,9.0,0.5,4.67,0.67,15.0
+/match/euw/6380331502,Jayce,Diana,Rengar,Akshan,LeBlanc,Zed,Tristana,Sivir,Nautilus,Pyke,3076.0,2.0,-1.0,41 / 24 / 45,24 / 41 / 31,2,0,blue,1.14,1.83,3.67,1.5,7.0,2.5,2.33,6.0,3.67,1.0
