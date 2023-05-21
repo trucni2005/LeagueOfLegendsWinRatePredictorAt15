@@ -6,7 +6,6 @@
 | :-------  | :---------------------------- | :------------- |
 | `bs4`     | `pip install bs4`             | Beautiful Soup |
 | `sklearn` | `pip install -U scikit-learn` | scikit-learn   |
-| `xgboost` | `pip install xgboost`         | XGBoost        |
 | `pandas`  | `pip install pandas`          | Pandas |
 | `numpy`   | `pip install numpy`           | Numpy   |
 | `matplotlib` | `pip install matplotlib`   | Matplotlib        |
@@ -20,7 +19,7 @@ Crawl dữ liệu từ 3 trang web
   2. getdata.ipynb
 ```
 
-Folder lưu trữ các file dữ liệu thô
+Folder lưu trữ các file dữ liệu thô sau khi craw
 
 ```bash
   data/raw_data/
@@ -44,12 +43,12 @@ Thêm đặc trưng mới, xóa bỏ đặc trưng thừa, chia dữ liệu thà
   feature_engineering.ipynb
 ```
 
-Folder lưu trữ các file dữ liệu huấn luyện và kiểm thử
+Folder lưu trữ các file dữ liệu đã được xử lý chia ra thành 10 phần 1k
 
 ```bash
   data/data etracted/
 ```
-Folder lưu trữ các file dữ liệu huấn luyện và kiểm thử của 2 thuật toán sau khi sử dụng Linear Discriminant Analysis và Logistic Regression
+Folder lưu trữ các file dữ liệu kết quả dự đoán (trên tập kiểm thử) của 2 bộ dữ liệu
 
 ```bash
   data/result/
@@ -79,8 +78,8 @@ Xây dựng mô hình dự đoán giá tỷ lệ thắng trận đấu
  - Trực quan hóa đặc trưng
 
 ## 💡 Mô hình dự đoán
- - Sử dụng **LinearDiscriminantAnalysis** 
- - Cải tiến dùng **LogisticRegression** 
+ - **LinearDiscriminantAnalysis** 
+ - **LogisticRegression** 
 
 ## 🧠 Các metrics đánh giá
  - **Acurracy**
@@ -90,5 +89,5 @@ Xây dựng mô hình dự đoán giá tỷ lệ thắng trận đấu
 
 | Mô hình          | Acurracy    | AUC      | 
 | :--------------- | :----- | :-------- |
-| LinearDiscriminantAnalysis | 0.7689 | 0.8535 |
-| LogisticRegression   | 0.7644 | 0.8497 | 
+| LinearDiscriminantAnalysis | 0.7762 | 0.8607 |
+| LogisticRegression   | 0.7629 | 0.8554 | 
