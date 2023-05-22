@@ -89,5 +89,5 @@ Xây dựng mô hình dự đoán giá tỷ lệ thắng trận đấu
 
 | Mô hình          | Acurracy    | AUC      | 
 | :--------------- | :----- | :-------- |
-| LinearDiscriminantAnalysis | 0.7762 | 0.8607 |
-| LogisticRegression   | 0.7629 | 0.8554 | 
+| LinearDiscriminantAnalysis | 0.755 | 0.860799 |
+| LogisticRegression   | 0.773 | 0.855418 | 
