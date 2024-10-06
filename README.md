@@ -1,14 +1,10 @@
 # 🎮**LEAGUE OF LEGENDS WINNING RATE PREDICTION BEFORE 15 MINUTES**
 
-## ⚒ Các thư viện cần cài đặt
+## ⚒ Cài đặt
 
-| Thư viện  | Lệnh cài đặt                  | Mô tả          |
-| :-------  | :---------------------------- | :------------- |
-| `bs4`     | `pip install bs4`             | Beautiful Soup |
-| `sklearn` | `pip install -U scikit-learn` | scikit-learn   |
-| `pandas`  | `pip install pandas`          | Pandas |
-| `numpy`   | `pip install numpy`           | Numpy   |
-| `matplotlib` | `pip install matplotlib`   | Matplotlib        |
+```bash
+  pip install -r requirements.txt
+```
 
 ## 🚀 Trình tự chạy chương trình
 
